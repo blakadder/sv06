@@ -25,5 +25,3 @@ Still a work in progress! Suggestions and criticism welcome!
 [Sovol Store](https://sovol3d.com/products/sovol-sv06-plus?sca_ref=3309524.Vd4MGn0pGL){ .md-button }
 [AliExpress](https://www.aliexpress.com/item/1005005237483248.html?aff_fcid=7348af99cf1d411ab4ffb7cadd6a195f-1681053334741-05363-_DDaMMPP&tt=CPS_NORMAL&aff_fsk=_DDaMMPP&aff_platform=shareComponent-detail&sk=_DDaMMPP&aff_trace_key=7348af99cf1d411ab4ffb7cadd6a195f-1681053334741-05363-_DDaMMPP&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fsv06-plus){ .md-button }
-
-<small>Some of the links are affiliate links. If you buy using them I receive a small commission which helps to maintain this site.</small>

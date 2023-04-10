@@ -1,7 +1,9 @@
 site_name: SV06 Knowledge Base
 site_description: Guides, troubleshooting, upgrades, spare and replacement parts list
+site_url: https://sv06.blakadder.com
 repo_url: https://github.com/blakadder/sv06
 edit_uri: edit/main/docs/
+
 
 theme:
   name: material
@@ -84,3 +86,4 @@ extra:
 copyright: >
   Copyright &copy; 2023 Smart Home News doo –
   <a href="#__consent">cookie settings</a>
+  <small>Some of the links are affiliate links. If you buy using them I receive a small commission which helps to maintain this site.</small>
