@@ -1,4 +1,5 @@
 site_name: SV06 Knowledge Base
+site_description: Guides, troubleshooting, upgrades, spare and replacement parts list
 repo_url: https://github.com/blakadder/sv06
 edit_uri: edit/main/docs/
 
@@ -48,7 +49,7 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
-  - glightbox
+  # - glightbox
   - tables
   - admonition
   - pymdownx.details
