@@ -1,4 +1,7 @@
-# Replacement Parts
+---
+comments: true
+---
+# Parts for SV06 Plus
 
 ## Nozzles
 

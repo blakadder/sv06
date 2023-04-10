@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Upgrades and improvements
 
 ## Nozzles

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Use volcano nozzles
 
 ![Nozzle comparison](/images/plus/nozzle_comparison.webp){ align=right width="50%" }
