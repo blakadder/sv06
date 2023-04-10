@@ -1,0 +1,85 @@
+site_name: SV06 Knowledge Base
+repo_url: https://github.com/blakadder/sv06
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: cyan
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Maven Pro
+  favicon: images/logo.png
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes 
+    - toc.follow
+    - navigation.top
+    - content.action.edit
+  icon:
+    admonition:
+      tip: material/shopping-outline  
+  logo: images/logo.png
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  # - glightbox
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md      
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/blakadder_
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/blak_adder
+    - icon: fontawesome/solid/blog
+      link: https://blakadder.com
+  
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  analytics:
+    provider: google
+    property: G-YC1VX2GGRS
+
+copyright: >
+  Copyright &copy; 2023 Smart Home News doo –
+  <a href="#__consent">cookie settings</a>
