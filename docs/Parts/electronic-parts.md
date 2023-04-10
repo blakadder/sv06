@@ -46,9 +46,19 @@ SV06 original mainboard.
 
 Comes as part of the [complete extruder kit](/Parts/extruder-parts.md), currently not available to buy separately.
 
-## Cables
+## Power Supply Socket with Switch
 
-### Print Head
+![Screen](/images/c14.webp){ align=right width="150" }
+
+IEC320 C14 3-pin socket with a fuse. Connected to the power supply with 16AWG temperature resistant silicone wire.
+
+!!! tip "Buy from"
+    [AliExpress](https://www.aliexpress.com/item/32879232862.html?aff_fcid=7ecf30d2610f43eca7c48895096ee2ef-1681170467501-05708-_DCvmZR3&tt=CPS_NORMAL&aff_fsk=_DCvmZR3&aff_platform=shareComponent-detail&sk=_DCvmZR3&aff_trace_key=7ecf30d2610f43eca7c48895096ee2ef-1681170467501-05708-_DCvmZR3&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+    [Amazon US](https://www.amazon.de/Xiatiaosann-220-250V-Appliance-Sockets-Mounting/dp/B09BV5JGL1?crid=2JCCC7W7I242T&keywords=ll-2gt&qid=1681138520&sprefix=ll-2gt%2Caps%2C101&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=ll1&tag=blakadders-20&linkId=60eedf3ec5bcfc79b3825baf03b3d3cd&language=en_GB&ref_=as_li_ss_tl)
+
+## Wiring
+
+### Print Head Cable
 
 The ribbon cable is marked a 'AWM style 2651 26AWG' cable, with 24 wires and a pitch of 1mm. Connector on the extruder end is a 24-Way IDC connector socket for cable mount, 2-row.
 
@@ -56,7 +66,7 @@ Cable looks exactly like Creality's Sprite Extruder replacement cable but is wir
 
 [![Schematic](/images/sch_printheadcable.jpg){ width="50%" }](/images/sch_printheadcable.jpg)
 
-### Display
+### Display Cable
 
 [![Schematic](/images/sch_displaycable.jpg){ width="50%" }](/images/sch_displaycable.jpg)
 
@@ -65,10 +75,11 @@ Cable looks exactly like Creality's Sprite Extruder replacement cable but is wir
 
 [![Schematic](/images/sch_doublezaxiswire.jpg){ width="50%" }](/images/sch_doublezaxiswire.jpg)
 
-[Amazon](https://www.amazon.com/dp/B07SQW9VFY?&linkCode=ll1&tag=blakadders-20&linkId=17c21f1f0ca199d8c758d0f3fbee7031&language=en_US&ref_=as_li_ss_tl){ .md-button }
-[AliExpress](https://www.aliexpress.com/item/1005004321018294.html?aff_fcid=4a9c6d2c30874a11bbb00f4109a81ba8-1681152562164-01956-_DdqVdoN&tt=CPS_NORMAL&aff_fsk=_DdqVdoN&aff_platform=shareComponent-detail&sk=_DdqVdoN&aff_trace_key=4a9c6d2c30874a11bbb00f4109a81ba8-1681152562164-01956-_DdqVdoN&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+!!! tip "Buy from"
+    [Amazon](https://www.amazon.com/dp/B07SQW9VFY?&linkCode=ll1&tag=blakadders-20&linkId=17c21f1f0ca199d8c758d0f3fbee7031&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005004321018294.html?aff_fcid=4a9c6d2c30874a11bbb00f4109a81ba8-1681152562164-01956-_DdqVdoN&tt=CPS_NORMAL&aff_fsk=_DdqVdoN&aff_platform=shareComponent-detail&sk=_DdqVdoN&aff_trace_key=4a9c6d2c30874a11bbb00f4109a81ba8-1681152562164-01956-_DdqVdoN&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 
-## Power Supply Wire
+## Power Supply to Mainboard Wire
 
 14AWG wire on a standard XT60H male and female terminals.
 
