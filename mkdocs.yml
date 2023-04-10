@@ -47,6 +47,9 @@ theme:
 plugins:
   - search
   - tags
+  - social:
+      cards: !ENV [CARDS, false]
+
 
 markdown_extensions:
   - attr_list
