@@ -49,7 +49,9 @@ theme:
 plugins:
   - search
   - tags
-  - social
+  - social:
+      cards_font: Roboto
+      cards: !ENV [CARDS, false]
 
 markdown_extensions:
   - attr_list
@@ -65,7 +67,10 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.snippets:
       auto_append:
-        - includes/abbreviations.md      
+        - includes/abbreviations.md
+  - toc:
+      permalink: true
+
 extra:
   social:
     - icon: fontawesome/brands/twitter 

@@ -2,11 +2,13 @@
 hide:
   - toc
 ---
-# Home
+# Welcome
 
 Sovol SV06 is an open sourced 3D printer with lots of information dispersed online between forums, reddit and Facebook groups. This is my attempt to gather and curate all the available information into one organised knowledge base.
 
 Still a work in progress! Suggestions and criticism welcome!
+
+Inspired by [bassamantor/everything-sovol-sv06](https://github.com/bassamanator/everything-sovol-sv06)
 
 ## Buy Sovol SV06
 

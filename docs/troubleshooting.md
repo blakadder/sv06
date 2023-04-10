@@ -45,3 +45,9 @@ It is possible that the set screw (grub screw) holding the extrusion gear to the
 </figure>
 
 Remove filament from the extruder. Unscrew the extruder tension adjuster screw which holds the extruder lever. Now you can drop down the lever and look inside. Rotate the extruder knob until you can see the set screw. Tighten it up. Optionally you can add a drop of thread locker or clear nail polish to secure it. This might make future disassembly harder.
+
+## Dry noisy bearings 
+
+The gravelly sound when the print head is travelling is caused by Sovol sending out dry, unlubricated bearings. Best solution is packing them with grease as shown by [SavageLau](https://www.youtube.com/@SavageLau):
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lUvaA4fJWH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
