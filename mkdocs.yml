@@ -39,6 +39,8 @@ theme:
     - toc.follow
     - navigation.top
     - content.action.edit
+    - toc.follow
+
   icon:
     admonition:
       tip: material/shopping-outline  
@@ -47,9 +49,7 @@ theme:
 plugins:
   - search
   - tags
-  - social:
-      cards: !ENV [CARDS, false]
-
+  - social
 
 markdown_extensions:
   - attr_list
