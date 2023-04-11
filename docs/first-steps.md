@@ -68,3 +68,9 @@ Download and install a better slicer and ditch Sovol's outdated fork of Cura.
 [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) comes with built in printer configuration for SV06.
 
 [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) can work with the MK3S configuration, just make the print surface 220x220x250 or use [SavageLau's configuration](https://www.printables.com/model/360315-printer-config).
+
+## Learn to correctly load filament
+
+This is how I always load filament. Preheat the nozzle for your material. Insert a cleanly cut filament end into the opening then use only the extruder wheel to load the filament half way. All the way until you hear a pop or the filament starts extruding is also fine. Then let the firmware continue with the purge.
+
+Same method is recommended by [Sovol](https://www.youtube.com/watch?v=Y5XJXrT-9Ic).
