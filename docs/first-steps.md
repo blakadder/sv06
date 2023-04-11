@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # First Steps
 
 When you receive your SV06 (Plus) and assemble it per instructions do these steps first to avoid most common pitfalls.
@@ -9,6 +13,7 @@ Sovol sends out printers with unlubricated bearings which sounds like walking on
 Wipe the rails clean of dirt and grime. Lightly lubricate the rod then run the bearing over them a couple of times. Repeat as necessary until the part moves silently and smoothly.
 
 Recommended lubricants:
+
 - WD40 Dry Lube with PTFE ([Amazon US](https://www.amazon.com/WD-40-300052-Specialist-Resistant-Spray/dp/B00AF0ODGM?keywords=wd40+dry+lube&qid=1681168661&sr=8-3&linkCode=ll1&tag=blakadders-20&linkId=d5ddcf4639dad80e4e807f181ab30243&language=en_US&ref_=as_li_ss_tl), [Amazon DE](https://www.amazon.de/-/en/WD-40-Specialist-Lubricant-49394-25NBA/dp/B098K1TGSC?crid=15HMWLGJEPKW1&keywords=wd40%2Bptfe&qid=1681168828&sprefix=wd40%2Bptfe%2Caps%2C101&sr=8-3&th=1&linkCode=ll1&tag=blakadders-20&linkId=3b900c7445c69ecc902a0f9dd3c0bb16&language=en_GB&ref_=as_li_ss_tl), [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fwd40%2Fspecialist-ptfe-dry-lubricant-spray))
 - WD40 Dry Lithium Grease ([Amazon US](https://www.amazon.com/WD-40-Specialist-Protective-Lithium-Grease-Straw-Sprays/dp/B00L4QZ1VC?th=1&linkCode=ll1&tag=blakadders-20&linkId=15c680b23fb9dcc06ca78f78733c4200&language=en_US&ref_=as_li_ss_tl), [Amazon DE](https://www.amazon.de/-/en/WD-40-Specialist-White-Lithium-Grease/dp/B0913C2JLX?keywords=wd40%2Bweisses%2Blithium%2Bfett&qid=1681168799&sprefix=wd40%2Bwhite%2Blithi%2Caps%2C98&sr=8-4&th=1&linkCode=ll1&tag=blakadders-20&linkId=d8243e6724885decd1040765698018d0&language=en_GB&ref_=as_li_ss_tl))
 - SuperLube lubricants ([Amazon US](https://www.amazon.com/s?k=Super+Lube&linkCode=ll2&tag=blakadders-20&linkId=8b1fd890fffb395066f04a8b3868317e&language=en_US&ref_=as_li_ss_tl), [Amazon DE](https://www.amazon.de/s?k=Super+Lube&linkCode=ll2&tag=blakadders-20&linkId=a88b9dd863f0ae93da72089be728d0a7&language=en_GB&ref_=as_li_ss_tl))
