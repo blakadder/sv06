@@ -4,7 +4,9 @@ When you receive your SV06 (Plus) and assemble it per instructions do these step
 
 ## Lube linear rods
 
-Sovol sends out printers with unlubricated bearings which sounds like walking on sand or gravel. As an emergency fix you can lube the rods with any kind of PTFE grease, lithium grease, skateboard lube or even fine machine oil. After lightly lubricating the rods run the bearing over them a couple of times. 
+Sovol sends out printers with unlubricated bearings which sounds like walking on sand or gravel. As an emergency fix you can lube the rods with any kind of PTFE grease, lithium grease, skateboard lube or even fine machine oil. 
+
+Wipe the rails clean of dirt and grime. Lightly lubricate the rod then run the bearing over them a couple of times. Repeat as necessary until the part moves silently and smoothly.
 
 Recommended lubricants:
 - WD40 Dry Lube with PTFE ([Amazon US](https://www.amazon.com/WD-40-300052-Specialist-Resistant-Spray/dp/B00AF0ODGM?keywords=wd40+dry+lube&qid=1681168661&sr=8-3&linkCode=ll1&tag=blakadders-20&linkId=d5ddcf4639dad80e4e807f181ab30243&language=en_US&ref_=as_li_ss_tl), [Amazon DE](https://www.amazon.de/-/en/WD-40-Specialist-Lubricant-49394-25NBA/dp/B098K1TGSC?crid=15HMWLGJEPKW1&keywords=wd40%2Bptfe&qid=1681168828&sprefix=wd40%2Bptfe%2Caps%2C101&sr=8-3&th=1&linkCode=ll1&tag=blakadders-20&linkId=3b900c7445c69ecc902a0f9dd3c0bb16&language=en_GB&ref_=as_li_ss_tl), [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fwd40%2Fspecialist-ptfe-dry-lubricant-spray))
@@ -19,15 +21,25 @@ As a permanent fix you will need to disassemble the printer and pack the bearing
 
 Hand tighten all visible screws.
 
-Check the grub screw (set screw) inside the extruder. Compeltely unscrew the extruder tensioner screw and drop down the extruder lever. Rotate the extruder knob until you can see the grub screw inside. Tighten it as much as you can. Optionally: add a drop of thread locker or clear nail polish to secure it. Might affect future maintenance.
+Check the grub screw (set screw) inside the extruder. Completely unscrew the extruder tensioner screw and drop down the extruder lever. Rotate the extruder knob until you can see the grub screw inside. Tighten it as much as you can. Optionally: add a drop of thread locker or clear nail polish to secure it. Might affect future maintenance.
 
 ## Tighten the nozzle
 
 Heat up the nozzle to high temperature, 250°C or more and hand tighten the nozzle with the supplied L wrench. Do not overtighten, that can damage the nozzle or bend your hotend.
 
+## Tighten the belts
+
+Use the belt tensioners to tighten the belts until they're not slack. There's no need to make them super tight like a guitar string, just enough that there's no chance of play or skipping over the pulley teeth. Take care not to overtighten the X-axis belt, that puts strain on the vertical linear rods and can warp them.
+
 ## Make sure the heated bed cable is not inside the gantry
 
 The printer come with the the bed cable tucked below the bed. It is necessary to take it out so the bed can move freely from front to back in order for it to home correctly.
+
+## Adjust Sensorless Homing
+
+If your X and Y axis motors make terrible sounds during homing or completely stall you need to adjust sensorless homing in the firmware.
+
+Navigate to *Configuration --> Advanced Settings --> TCM Drivers --> Sensorless Homing* and raise the value for the axis that needs it. Common recommendation is between 68 and 72 but it can be even higher. You need the axis to hit the gantry with only a tap instead of ramming into it.
 
 ## Print these immediately
 

@@ -25,6 +25,10 @@ This is an attempt at cleaning up branches from various other firmwares while pr
 
 [Download](https://github.com/blastrock/Marlin-sv06/releases){ .md-button }
 
+### TH3D Unified 2 Firmware
+
+<https://support.th3dstudio.com/helpcenter/sovol-sv06-firmware/>
+
 ## Klipper
 
 ### spinixguy's build
