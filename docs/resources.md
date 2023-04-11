@@ -29,3 +29,8 @@ Please take a look at the photo of a part cooling fan base plate:
 These hex screws allow some forward/back adjustment of the base plate. Looks like during extruder assembly it can be adjusted all the way forward, all the way back or somewhere in between.
 I think this is the main reason of inconsistent cooling on different machines.
 Users who suffer from undercooling with 100% part cooling fan should try to adjust the part cooling fan baseplate and see if it helps.
+
+## Install Octoprint on Windows
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gwHarFUTGnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
