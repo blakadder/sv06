@@ -56,7 +56,7 @@ Navigate to *Configuration --> Advanced Settings --> TCM Drivers --> Sensorless 
 
 Make sure to like all the models and post your prints!
 
-### Optional prints
+### and these if you want to
 
 - [Print Head Cable Support](https://www.printables.com/model/427286-sovol-sv06-plus-print-head-cable-support): helps to keep the print head cable above the prints
 - [Snap-on Screen Back Cover](https://www.printables.com/model/409672-lcd-display-back-cover-for-sovol-sv06-3d-printer): very easy to install back cover
