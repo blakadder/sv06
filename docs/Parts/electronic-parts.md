@@ -61,7 +61,7 @@ IEC320 C14 3-pin socket with a fuse. Connected to the power supply with 16AWG te
 
 !!! tip "Buy from"
     [AliExpress](https://www.aliexpress.com/item/32879232862.html?aff_fcid=7ecf30d2610f43eca7c48895096ee2ef-1681170467501-05708-_DCvmZR3&tt=CPS_NORMAL&aff_fsk=_DCvmZR3&aff_platform=shareComponent-detail&sk=_DCvmZR3&aff_trace_key=7ecf30d2610f43eca7c48895096ee2ef-1681170467501-05708-_DCvmZR3&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-    [Amazon US](https://www.amazon.de/Xiatiaosann-220-250V-Appliance-Sockets-Mounting/dp/B09BV5JGL1?crid=2JCCC7W7I242T&keywords=ll-2gt&qid=1681138520&sprefix=ll-2gt%2Caps%2C101&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=ll1&tag=blakadders-20&linkId=60eedf3ec5bcfc79b3825baf03b3d3cd&language=en_GB&ref_=as_li_ss_tl)
+    [Amazon US](https://www.amazon.de/Xiatiaosann-220-250V-Appliance-Sockets-Mounting/dp/B09BV5JGL1?crid=2JCCC7W7I242T&keywords=ll-2gt&qid=1681138520&sprefix=ll-2gt%2Caps%2C101&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=ll1&tag=blakadders-20&linkId=60eedf3ec5bcfc79b3825baf03b3d3cd&language=en_GB&ref_=as_li_ss_tl){ .md-button }
 
 [Wiring images](https://github.com/bassamanator/everything-sovol-sv06#psu-switch) by bassamanator
 
