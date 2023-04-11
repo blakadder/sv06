@@ -1,8 +1,12 @@
 # Video Guides
 
-## Unboxing and Assembly
+## Unboxing and assembly
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/48n7Eu2gGA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Beginner tutorial
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/29yS29fXuew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## How to correctly load filament
 
