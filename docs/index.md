@@ -38,4 +38,7 @@ Still a work in progress! Suggestions and criticism welcome!
 [AliExpress](https://www.aliexpress.com/item/1005005237483248.html?aff_fcid=7348af99cf1d411ab4ffb7cadd6a195f-1681053334741-05363-_DDaMMPP&tt=CPS_NORMAL&aff_fsk=_DDaMMPP&aff_platform=shareComponent-detail&sk=_DDaMMPP&aff_trace_key=7348af99cf1d411ab4ffb7cadd6a195f-1681053334741-05363-_DDaMMPP&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fsv06-plus){ .md-button }
 
-Inspired by [bassamantor/everything-sovol-sv06](https://github.com/bassamanator/everything-sovol-sv06)
+<BR>
+---------------	
+
+<small>Inspired by [bassamantor/everything-sovol-sv06](https://github.com/bassamanator/everything-sovol-sv06)</small>
