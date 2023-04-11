@@ -33,7 +33,8 @@ Uses widely available Gates LL-2GT 6mm. You can also find other brand belts for 
 
 Hardened steel 8mm diameter linear rods.[^1]
 
-X-axis length: 350mm
+X-axis length: 355mm
+Y-axis length: 340mm
 Z-axis length: 400mm
 
-[^1]: [Source](https://www.reddit.com/r/Sovol/comments/1193thu/linear_motion_rods_and_bearings_sv06/)
+[^1]: [Source](https://github.com/bassamanator/everything-sovol-sv06/#linear-motion-guide-rods)
