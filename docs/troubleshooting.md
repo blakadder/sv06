@@ -37,7 +37,7 @@ And then set the nozzle temp to 60 on the display and check if the hotbed is hea
 
 ## Poor extruding or extruder jammed 
 
-It is possible that the set screw (grub screw) holding the extrusion gear to the extruder motor shaft got loose and is rubbing against or catching on the extruder chassis. This manifests in under extrusions, extruder motor skips and ultimately extruder getting jamed.
+It is common[^1][^2] that the set screw (grub screw) holding the extrusion gear to the extruder motor shaft got loose and is rubbing against or catching on the extruder chassis. This manifests in under extrusions, extruder motor skips and ultimately extruder getting jamed.
 
 <figure markdown>
   ![Grub screw loose damage](/images/troubleshooting/loosesetscrew.webp)
@@ -51,3 +51,6 @@ Remove filament from the extruder. Unscrew the extruder tension adjuster screw w
 The gravelly sound when the print head is travelling is caused by Sovol sending out dry, unlubricated bearings. Best solution is packing them with grease as shown by [SavageLau](https://www.youtube.com/@SavageLau):
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lUvaA4fJWH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[^1]: [Source]([https://www.reddit.com/r/Sovol/comments/1144lhc/solved_sv06_gear_stuck/](https://www.reddit.com/r/Sovol/comments/12bewzn/sv06_psa_check_your_extruder_and_apply/))
+[^2]: [Source](https://www.reddit.com/r/Sovol/comments/1144lhc/solved_sv06_gear_stuck/)
