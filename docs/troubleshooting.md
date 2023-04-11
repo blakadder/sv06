@@ -48,7 +48,9 @@ Remove filament from the extruder. Unscrew the extruder tension adjuster screw w
 
 ## Dry noisy bearings 
 
-The gravelly sound when the print head is travelling is caused by Sovol sending out dry, unlubricated bearings. Best solution is packing them with grease as shown by [SavageLau](https://www.youtube.com/@SavageLau):
+The gravelly sound when the print head is travelling is caused by Sovol sending out dry, unlubricated bearings. Best solution is packing them with grease as shown by [lost in tech](https://www.youtube.com/@foundintech) and [SavageLau](https://www.youtube.com/@SavageLau):
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6-iKoJXXwnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lUvaA4fJWH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
