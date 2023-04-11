@@ -44,7 +44,7 @@ The printer come with the the bed cable tucked below the bed. It is necessary to
 
 If your X and Y axis motors make terrible sounds during homing or completely stall you need to adjust sensorless homing in the firmware.
 
-Navigate to *Configuration --> Advanced Settings --> TCM Drivers --> Sensorless Homing* and raise the value for the axis that needs it. Common recommendation is between 68 and 72 but it can be even higher. You need the axis to hit the gantry with only a tap instead of ramming into it.
+Navigate to *Configuration --> Advanced Settings --> TCM Drivers --> Sensorless Homing* and raise the value for the axis that needs it. Common recommendation is between 68 and 75 or even higher. You need the axis to hit the gantry with only a tap instead of ramming into it. Save configuration after you're done.
 
 ## Print these immediately
 
