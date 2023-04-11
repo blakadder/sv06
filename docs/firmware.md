@@ -31,6 +31,10 @@ This is an attempt at cleaning up branches from various other firmwares while pr
 
 ## Klipper
 
+### One-Stop-Shop Sovol SV06 Klipper Configuration
+
+[bassamanator's repository](https://github.com/bassamanator/Sovol-SV06-firmware/) contains the Klipper configuration and firmware for Sovol SV06 with completely stock hardware.
+
 ### spinixguy's build
 
 <https://github.com/spinixguy/Sovol-SV06-firmware>
