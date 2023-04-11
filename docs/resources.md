@@ -30,6 +30,10 @@ These hex screws allow some forward/back adjustment of the base plate. Looks lik
 I think this is the main reason of inconsistent cooling on different machines.
 Users who suffer from undercooling with 100% part cooling fan should try to adjust the part cooling fan baseplate and see if it helps.
 
+## Bed levelling guide
+
+<https://www.reddit.com/r/Sovol/comments/10xnu7k/sv06_perfect_first_layer_across_the_entire_build/>
+
 ## Install Octoprint on Windows
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gwHarFUTGnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
