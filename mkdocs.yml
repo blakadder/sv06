@@ -21,7 +21,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: cyan
-      accent: teal
+      accent: light blue
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode

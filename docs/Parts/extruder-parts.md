@@ -20,9 +20,11 @@ Complete print head assembly including the extruder, hotend, bed probe and fans.
 
 Only the extruder assembly. Includes assembly gears and the motor.
 
-??? tip "Buy from"
+!!! tip "Buy from"
     [Amazon](https://www.amazon.com/Sovol-SV06-Planetary-Extruder-Leveling/dp/B0BQC5FYKJ?&linkCode=ll1&tag=blakadders-20&linkId=43db8bf946d9d18b10ffdd3bdb0d5c14&language=en_US&ref_=as_li_ss_tl){ .md-button } [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fbondtech%2Fdirect-drive-extruder-2){ .md-button } 
 
 ## Set/Grub Ccrew
 
-set screw or grub screw dimensions are M3x3x2
+![Set screw](/images/setscrew.webp){ align=right width="150" }
+
+Called "set screw" or "grub screw" dimensions are M3x3
