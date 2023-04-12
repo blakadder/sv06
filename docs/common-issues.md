@@ -22,3 +22,10 @@ Quick fix is [lubricating the rods](/first-steps/#lube-linear-rods). Best fix is
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lUvaA4fJWH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Motor mounts not 90°
+
+Motors aren't at a true 90° angle to the frame due to mounts. This occurs on Z-axis and Y-axis motor mounts. 
+
+Print [this shim](https://www.printables.com/model/360276) and mount it between the motor and the extrusion.
+
+![Shim the motor mount](/images/troubleshooting/motor_not_true.webp)

@@ -1,4 +1,11 @@
-# Random Resources
+# Useful Resources
+
+## Bed levelling test
+
+> A quick test for adjusting your Z-Probe Offset while printing with the SV06, it draws the skirt right next to the purge line, check this in your .gcode file with your slicer beforehand. You can adjust your Z-Probe Offset while printing until you get the desired results. Make sure to Autolevel your bed before doing a Bed Level Test.
+
+[by @PleaseHelp on Printables](https://www.printables.com/model/376835)
+[by @stormy on Printables](https://www.printables.com/model/445074/files)
 
 ## Z-axis bearing removal
 
@@ -38,3 +45,6 @@ Users who suffer from undercooling with 100% part cooling fan should try to adju
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gwHarFUTGnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## IKEA Lack table enclosure
+
+[@RReuter_493554 on Printables](https://www.printables.com/model/347706)
