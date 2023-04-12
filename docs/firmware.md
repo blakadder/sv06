@@ -33,7 +33,13 @@ This is an attempt at cleaning up branches from various other firmwares while pr
 
 ### One-Stop-Shop Sovol SV06 Klipper Configuration
 
-[bassamanator's repository](https://github.com/bassamanator/Sovol-SV06-firmware/) contains the Klipper configuration and firmware for Sovol SV06 with completely stock hardware.
+A comprehensive [Klipper configuration](https://github.com/bassamanator/Sovol-SV06-firmware/) for multiple variants of the Sovol SV06.
+
+##### Supports
+ 
+- SV06
+- SV06 Plus
+- SV06 with the BTT SKR-Mini-E3-V3.0
 
 ### spinixguy's build
 
