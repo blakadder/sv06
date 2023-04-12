@@ -1,4 +1,4 @@
-# Plus Specific Issues
+# SV06 Plus Specific Issues
 
 ## Silicone sock doesn't fit
 
