@@ -46,8 +46,6 @@ Heated bed with applied insulation, magnetic sticker and cable with all connecto
 
 ## Screen
 
-![Screen](/images/plus/screen.webp){ align=left width="100" }
-
 Uses a standard Creality screen but with Sovol's firmware. Original replacement not available yet.
 
 <br>
@@ -55,6 +53,17 @@ Uses a standard Creality screen but with Sovol's firmware. Original replacement 
 ## PEI Print Sheet
 
 SV06 Plus PEI has a slightly unique design with divots for alignment screws and unusual 320x310mm dimensions. Its painted grid isn't as bad as thethat tends to stick to high temperature prints. 
+
+![PEI sheet alternative](/images/plus/pei_alternative.jpg){ align=right width="100" }
+
+PEI sheets for Ender 3 S1 Plus and Creality CR10 V2 have the two divots but are 310x315mm.
+
+??? tip "Buy from"
+    [Amazon US](https://www.amazon.com/3D-Printer-Painted-Magnetic-Creality/dp/B0BRN3Z1JK?keywords=pei%2Bender%2B3%2Bs1%2Bplus&qid=1681305024&sr=8-4&th=1&linkCode=ll1&tag=blakadders-20&linkId=bf5b8275f88f9782c6ef1ce3ded6f3fd&language=en_US&ref_=as_li_ss_tl
+){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005005305740654.html?aff_fcid=12ddc88b7ddc45c09423c1ccb0723b92-1681304694393-08331-_DndcsjX&tt=CPS_NORMAL&aff_fsk=_DndcsjX&aff_platform=shareComponent-detail&sk=_DndcsjX&aff_trace_key=12ddc88b7ddc45c09423c1ccb0723b92-1681304694393-08331-_DndcsjX&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2F3djake%2Fflexplate-system-with-nano-coating){ .md-button }
+
 
 A standard 310x310 spring steel sheet can work on an SV06 Plus but you'll need to be more careful when placing it.
 
