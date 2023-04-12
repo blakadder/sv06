@@ -21,7 +21,9 @@ Still a work in progress! Suggestions and criticism welcome!
 ![](/images/sv06.webp#only-light){ align=right }
 ![](/images/sv06-dark.webp#only-dark){ align=right }
 
+
 [Amazon US](https://www.amazon.com/Sovol-Planetary-Extruder-25-Point-8-66x8-66x9-84/dp/B0BJV3WB2J?&linkCode=ll1&tag=blakadders-20&linkId=a84b44d69702c51c8d697bcf79a577f7&language=en_US&ref_=as_li_ss_tl){ .md-button } 
+[Amazon CA](https://www.amazon.ca/Sovol-Planetary-Extruder-25-Point-8-66x8-66x9-84/dp/B0BTCMXGBT?&linkCode=ll1&tag=tasmotatemp03-20&linkId=f8aa49254820cf1c9b706acca2b8629e&language=en_CA&ref_=as_li_ss_tl){ .md-button }
 [Amazon DE](https://www.amazon.de/-/en/Sovol-SV06/dp/B0BK89Z388?crid=21UU1VLXQGK1J&keywords=sovol&qid=1681063442&sprefix=sovol%2Caps%2C152&sr=8-2&linkCode=ll1&tag=blakadders-20&linkId=f8c2afe1da53a51bc803f982306071ef&language=en_GB&ref_=as_li_ss_tl){ .md-button }
 
 [Sovol Store](https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button } 
