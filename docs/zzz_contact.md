@@ -1,4 +1,10 @@
+---
+comments: true
+---
+
 # Contact
+
+You can leave suggestions via email or comments which use GitHub Discussions
 
 <form action="https://formspree.io/xbjanvbe" method="POST">    
 <p class="mb-4">Please send your suggestions and links to guides/troubleshooting not covered here</p>
