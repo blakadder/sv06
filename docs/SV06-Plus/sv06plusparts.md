@@ -13,7 +13,8 @@ Uses non-standard high flow nozzles. They look similar to Volcano nozzles but wi
 | - | - | - | 
 | 23.5mm | 15.5mm | 8mm | 
 
-[Buy from Sovol Store](https://sovol3d.com/products/sovol-sv06-plus-high-flow-nozzle-0-4mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
+!!! tip "Buy from"
+    [Buy from Sovol Store](https://sovol3d.com/products/sovol-sv06-plus-high-flow-nozzle-0-4mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
 
 Other sizes and hardened nozzles should be available late April.
 
@@ -23,7 +24,7 @@ Other sizes and hardened nozzles should be available late April.
 
 Complete extruder assembly including the extruder, hotend, bed probe and fans. Drop in replacement for the existing one.
 
-??? tip "Buy from"
+!!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-original-all-metal-planetary-direct-drive-extruder?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button } 
 
 ## Hotend Kit
@@ -41,7 +42,7 @@ SV06 Plus uses a unique hotend design. The original hotend kit repalcement comes
 
 Heated bed with applied insulation, magnetic sticker and cable with all connectors and crimped ends.
 
-??? tip "Buy from"
+!!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sovol-sv06-plus-hotbed?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
 
 ## Screen
@@ -58,9 +59,8 @@ SV06 Plus PEI has a slightly unique design with divots for alignment screws and 
 
 PEI sheets for Ender 3 S1 Plus and Creality CR10 V2 have the two divots but are 310x315mm.
 
-??? tip "Buy from"
-    [Amazon US](https://www.amazon.com/3D-Printer-Painted-Magnetic-Creality/dp/B0BRN3Z1JK?keywords=pei%2Bender%2B3%2Bs1%2Bplus&qid=1681305024&sr=8-4&th=1&linkCode=ll1&tag=blakadders-20&linkId=bf5b8275f88f9782c6ef1ce3ded6f3fd&language=en_US&ref_=as_li_ss_tl
-){ .md-button }
+!!! tip "Buy from"
+    [Amazon US](https://www.amazon.com/3D-Printer-Painted-Magnetic-Creality/dp/B0BRN3Z1JK?keywords=pei%2Bender%2B3%2Bs1%2Bplus&qid=1681305024&sr=8-4&th=1&linkCode=ll1&tag=blakadders-20&linkId=bf5b8275f88f9782c6ef1ce3ded6f3fd&language=en_US&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005005305740654.html?aff_fcid=12ddc88b7ddc45c09423c1ccb0723b92-1681304694393-08331-_DndcsjX&tt=CPS_NORMAL&aff_fsk=_DndcsjX&aff_platform=shareComponent-detail&sk=_DndcsjX&aff_trace_key=12ddc88b7ddc45c09423c1ccb0723b92-1681304694393-08331-_DndcsjX&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
     [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2F3djake%2Fflexplate-system-with-nano-coating){ .md-button }
 
@@ -80,7 +80,7 @@ A standard 310x310 spring steel sheet can work on an SV06 Plus but you'll need t
 
 SV06 original motherboard.
 
-??? tip "Buy from"
+!!! tip "Buy from"
     [Amazon](https://www.amazon.com/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=186de5151e22db03e0c3636032c79fa7&language=en_US&ref_=as_li_ss_tl){ .md-button } 
     [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button } 
 
