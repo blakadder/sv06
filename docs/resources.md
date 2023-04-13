@@ -7,6 +7,10 @@
 [by @PleaseHelp on Printables](https://www.printables.com/model/376835)
 [by @stormy on Printables](https://www.printables.com/model/445074/files)
 
+## Inductive Sensor X Axis Tramming
+
+Use the SV06's inductive sensor to tram the X-axis since the built-in method doesn't work for everyone. [Guide from r/Sovol](https://www.reddit.com/r/Sovol/comments/10z4nyx/sv06_inductive_sensor_x_axis_tramming/).
+
 ## Z-axis bearing removal
 
 [Reddit post](https://www.reddit.com/r/Sovol/comments/129zwxa/sovol_sv06_z_axis_bearings_removal/?utm_source=share&utm_medium=web2x&context=3)

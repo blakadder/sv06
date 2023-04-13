@@ -58,5 +58,9 @@ The gravelly sound when the print head is travelling is caused by Sovol sending 
 
 <https://www.reddit.com/r/Sovol/comments/113ba83/sv06_y_carriage_warped/>
 
+## Official SV06 Help Center
+
+More troubleshooting at the  [Official SV06 Help Center](https://sovol3d.com/blogs/news/help-center-sv06)
+
 [^1]: [Source]([https://www.reddit.com/r/Sovol/comments/1144lhc/solved_sv06_gear_stuck/](https://www.reddit.com/r/Sovol/comments/12bewzn/sv06_psa_check_your_extruder_and_apply/))
 [^2]: [Source](https://www.reddit.com/r/Sovol/comments/1144lhc/solved_sv06_gear_stuck/)

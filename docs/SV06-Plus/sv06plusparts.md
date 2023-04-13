@@ -84,3 +84,21 @@ SV06 original motherboard.
     [Amazon](https://www.amazon.com/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=186de5151e22db03e0c3636032c79fa7&language=en_US&ref_=as_li_ss_tl){ .md-button } 
     [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button } 
 
+## Linear Bearings
+
+![Linear Bearings](/images/linear_bearing.webp){ align=right width="150" }
+
+LM10UU linear bearings. IKO and Misumi are good quality brands.
+
+There are 11 bearings in total, 3 on the X-axis, Z-axis has 4 and 4 more on the Y-axis.
+
+!!! tip "Buy from"
+    [Amazon US](https://www.amazon.com/s?k=LM10UU&crid=3DEWYU7D1284U&sprefix=lm10uu%2Caps%2C205&linkCode=ll2&tag=blakadders-20&linkId=9d14a060bfa240b477db114f6bf9f70f&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/-/en/Turmberg3D-Misumi-Bearing-Replaces-LMU10-8/dp/B07FN9K17H?keywords=linearlager%2B%E2%80%9Elm10uu%E2%80%9C&qid=1681377692&sr=8-19&th=1&linkCode=ll1&tag=blakadders-20&linkId=073de99debedbbfbf1558c0f525bd46a&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005002667827889.html?aff_fcid=d33c53b3544f45789091d555e694a078-1681165359598-03743-_DlPHABJ&tt=CPS_NORMAL&aff_fsk=_DlPHABJ&aff_platform=shareComponent-detail&sk=_DlPHABJ&aff_trace_key=d33c53b3544f45789091d555e694a078-1681165359598-03743-_DlPHABJ&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+
+You can change from linear ball bearings to Igus or Drylin bearings.
+
+## Linear Rods
+
+Hardened steel 10mm diameter linear rods.[^1]

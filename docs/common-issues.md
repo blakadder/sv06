@@ -29,3 +29,7 @@ Motors aren't at a true 90° angle to the frame due to mounts. This occurs on Z-
 Print [this shim](https://www.printables.com/model/360276) and mount it between the motor and the extrusion.
 
 ![Shim the motor mount](/images/troubleshooting/motor_not_true.webp)
+
+## Official SV06 Help Center
+
+More common issues at the  [Official SV06 Help Center](https://sovol3d.com/blogs/news/help-center-sv06)

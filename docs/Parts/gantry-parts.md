@@ -7,18 +7,18 @@ comments: true
 
 ![Linear Bearings](/images/linear_bearing.webp){ align=right width="150" }
 
-LMU8UU linear bearings. IKO and Misumi are good quality brands.
+LM8UU linear bearings. IKO and Misumi are good quality brands.
 
 There are 10 bearings in total, 3 on the X-axis, Z-axis has 4 and 3 more on the Y-axis.
 
 !!! tip "Buy from"
-    [Amazon US](https://www.amazon.com/Genuine-E3D-LM8UU-Box-M-BEARINGS-LM8UU/dp/B07CZ3QCBQ?crid=2M7HT0V0CSSMM&keywords=Genuine+IKO+LM8UU&qid=1681166087&s=industrial&sprefix=genuine+iko+lm8uu%2Cindustrial%2C200&sr=1-1&linkCode=ll1&tag=blakadders-20&linkId=7d88b81ca56a397467d95859c1a43e9b&language=en_US&ref_=as_li_ss_tl){ .md-button }
-    [Amazon CA](https://www.amazon.ca/Genuine-E3D-LM8UU-Box-M-BEARINGS-LM8UU/dp/B07CZ3QCBQ?crid=2M7HT0V0CSSMM&keywords=Genuine+IKO+LM8UU&qid=1681166058&s=industrial&sprefix=genuine+iko+lm8uu%2Cindustrial%2C200&sr=1-1&linkCode=ll1&tag=tasmotatemp03-20&linkId=f91b135c6f701e2f6284c1c5de8ded26&language=en_CA&ref_=as_li_ss_tl){ .md-button }
-    [Amazon DE](https://www.amazon.de/-/en/Linear-Bearing-Printer-RepRap-Mendel/dp/B07XYXHVZG?crid=1CQJ3T72E9HGA&keywords=linearlager+%E2%80%9Elm8uu%E2%80%9C&qid=1681165544&sprefix=lm8uu%22+linear+bearing%2Caps%2C121&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=f0628683ed8f7cfa8f0d83b734ce73ff&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [Amazon US](https://www.amazon.com/Genuine-E3D-LM8UU-Box-M-BEARINGS-LM8UU/dp/B07CZ3QCBQ?crid=2M7HT0V0CSSMM&qid=1681166087&s=industrial&sprefix=genuine+iko+lm8uu%2Cindustrial%2C200&sr=1-1&linkCode=ll1&tag=blakadders-20&linkId=7d88b81ca56a397467d95859c1a43e9b&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon CA](https://www.amazon.ca/Genuine-E3D-LM8UU-Box-M-BEARINGS-LM8UU/dp/B07CZ3QCBQ?crid=2M7HT0V0CSSMM&qid=1681166058&s=industrial&sprefix=genuine+iko+lm8uu%2Cindustrial%2C200&sr=1-1&linkCode=ll1&tag=tasmotatemp03-20&linkId=f91b135c6f701e2f6284c1c5de8ded26&language=en_CA&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/-/en/Linear-Bearing-Printer-RepRap-Mendel/dp/B07XYXHVZG?crid=1CQJ3T72E9HGA&qid=1681165544&sprefix=lm8uu%22+linear+bearing%2Caps%2C121&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=f0628683ed8f7cfa8f0d83b734ce73ff&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005002667827889.html?aff_fcid=d33c53b3544f45789091d555e694a078-1681165359598-03743-_DlPHABJ&tt=CPS_NORMAL&aff_fsk=_DlPHABJ&aff_platform=shareComponent-detail&sk=_DlPHABJ&aff_trace_key=d33c53b3544f45789091d555e694a078-1681165359598-03743-_DlPHABJ&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
     [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fe3d%2Flinear-ball-bearings-set-of-2){ .md-button }
 
-You can change bearing completely and install Igus or Drylin bearings that require less maintenance. [More info...](https://www.reddit.com/r/Sovol/comments/128hf2a/lm8uu_vs_igus_rj4jp_drylin/?utm_source=share&utm_medium=web2x&context=3) 
+You can change from linear ball bearings to Igus or Drylin bearings. [More info...](https://www.reddit.com/r/Sovol/comments/128hf2a/lm8uu_vs_igus_rj4jp_drylin/?utm_source=share&utm_medium=web2x&context=3) 
 
 ## Belts
 
@@ -33,8 +33,26 @@ Uses widely available Gates LL-2GT 6mm. You can also find other brand belts for 
 
 Hardened steel 8mm diameter linear rods.[^1]
 
-X-axis length: 355mm
-Y-axis length: 340mm
-Z-axis length: 400mm
+X-axis length: 355mm    
+Y-axis length: 340mm    
+Z-axis length: 400mm    
+
+## Lead Screw
+
+Uses two T8, 2mm Pitch, 4mm Lead, 2 Start lead screws for Z-axis.[^2]
+
+| Length | Dia. | Pitch | Lead | Start | 
+| - | - | - | - | - | 
+| 376mm | 8mm | 2mm | 4mm | 2 |
+
+<small>_Pitch_ is the distance between threads.    
+_Lead_ is the displacement of the nut on the axis of the screw after one turn of the screw.</small>
+
+### Z-Axis Couplers
+
+| Type | Qty | Dia.| Length | Motor Shaft Dia. | Lead Screw Dia. |
+| - | - | - | - | - | - |
+| Rigid | 2 | 20mm | 25mm | 5mm | 8mm |
 
 [^1]: [Source](https://github.com/bassamanator/everything-sovol-sv06/#linear-motion-guide-rods)
+[^2]: [Source](https://forum.sovol3d.com/t/z-axis-lead-screw/1246)
