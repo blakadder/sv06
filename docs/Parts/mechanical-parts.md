@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Gantry
+# Mechanical
 
 ## Linear Bearings
 
@@ -63,6 +63,10 @@ D20L25 5x8x25mm Rigid Coupling
     [Amazon US](https://www.amazon.com/Zeberoxyz-Coupling-Aluminum-Diameter-Connector/dp/B08ZJ854Z6?th=1&linkCode=ll1&tag=blakadders-20&linkId=227b83b46ee39996da8f5b91bb8354d8&language=en_US&ref_=as_li_ss_tl){ .md-button }
     [Amazon CA](https://www.amazon.ca/Zeberoxyz-Coupling-Aluminum-Diameter-Connector/dp/B08ZJ854Z6?th=1&linkCode=ll1&tag=tasmotatemp03-20&linkId=f754318c753bf5fd6c0dbd3b78d2dee5&language=en_CA&ref_=as_li_ss_tl){ .md-button }
     [Amazon DE](https://www.amazon.de/dp/B08ZJ854Z6?&linkCode=ll1&tag=blakadders-20&linkId=1499dc6be3570e64b120b6fafdc455f5&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+
+## Motors
+
+Motors that drive the three axes are NEMA17 42-34 0.8A motors.
 
 [^1]: [Source](https://github.com/bassamanator/everything-sovol-sv06/#linear-motion-guide-rods)
 [^2]: [Source](https://forum.sovol3d.com/t/z-axis-lead-screw/1246)

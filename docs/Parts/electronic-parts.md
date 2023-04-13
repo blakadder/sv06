@@ -33,10 +33,6 @@ SV06 original mainboard.
 ??? info "Pinout"
     ![Mainboard](/images/motherboard_pinout.webp)
     
-## Motors
-
-Motors that drive the three axis are NEMA17 42-34 0.8A motors.
-
 ## Print Head PCB
 
 [![Extruder PCB](/images/extruder_board.webp)](/images/extruder_board.webp)
