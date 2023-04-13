@@ -50,9 +50,19 @@ _Lead_ is the displacement of the nut on the axis of the screw after one turn of
 
 ### Z-Axis Couplers
 
+![Z-Axis Couplers](/images/z-coupling.webp){ align=right width="150" }
+
+D20L25 5x8x25mm Rigid Coupling
+
 | Type | Qty | Dia.| Length | Motor Shaft Dia. | Lead Screw Dia. |
 | - | - | - | - | - | - |
 | Rigid | 2 | 20mm | 25mm | 5mm | 8mm |
+
+!!! tip "Buy from"
+    [AliExpress](https://www.aliexpress.com/item/1005001445571799.html?aff_fcid=a33bd454b85c461588baf5a20b6d064c-1681380656716-05203-_DDa94iN&tt=CPS_NORMAL&aff_fsk=_DDa94iN&aff_platform=shareComponent-detail&sk=_DDa94iN&aff_trace_key=a33bd454b85c461588baf5a20b6d064c-1681380656716-05203-_DDa94iN&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+    [Amazon US](https://www.amazon.com/Zeberoxyz-Coupling-Aluminum-Diameter-Connector/dp/B08ZJ854Z6?th=1&linkCode=ll1&tag=blakadders-20&linkId=227b83b46ee39996da8f5b91bb8354d8&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon CA](https://www.amazon.ca/Zeberoxyz-Coupling-Aluminum-Diameter-Connector/dp/B08ZJ854Z6?th=1&linkCode=ll1&tag=tasmotatemp03-20&linkId=f754318c753bf5fd6c0dbd3b78d2dee5&language=en_CA&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/dp/B08ZJ854Z6?&linkCode=ll1&tag=blakadders-20&linkId=1499dc6be3570e64b120b6fafdc455f5&language=en_GB&ref_=as_li_ss_tl){ .md-button }
 
 [^1]: [Source](https://github.com/bassamanator/everything-sovol-sv06/#linear-motion-guide-rods)
 [^2]: [Source](https://forum.sovol3d.com/t/z-axis-lead-screw/1246)
