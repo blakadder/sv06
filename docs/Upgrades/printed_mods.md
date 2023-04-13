@@ -6,9 +6,13 @@ comments: true
 
 Make sure to give a like to the designers and post your make.
 
-Filaments that are close to SV06 color:
+Filaments that are close to SV06's color but not exactly the same:
 
 - eSUN PLA+ Light Blue ([Amazon US](https://www.amazon.com/dp/B07FQJ9H8F?th=1&linkCode=ll1&tag=blakadders-20&linkId=fca96c4840aab42abf51e158f26fc314&language=en_US&ref_=as_li_ss_tl), [Amazon DE](https://www.amazon.de/dp/B07FQJ9H8F?th=1&linkCode=ll1&tag=blakadders-20&linkId=b4e6e8c3e41ae42e8eee074b48bb232f&language=en_GB&ref_=as_li_ss_tl), [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fesun%2Fpla-light-blue-2), [AliExpress](https://www.aliexpress.com/item/1005001298882187.html?aff_fcid=5dfadba2cfb142d2b5df2f45b9893552-1681340741041-06851-_DlEpG4h&tt=CPS_NORMAL&aff_fsk=_DlEpG4h&aff_platform=shareComponent-detail&sk=_DlEpG4h&aff_trace_key=5dfadba2cfb142d2b5df2f45b9893552-1681340741041-06851-_DlEpG4h&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y))
+- Duramic 3D PLA+ Light Blue ([Amazon US](https://www.amazon.com/DURAMIC-3D-Filament-Printing-Dimensional/dp/B09968Q4ZL?th=1&linkCode=ll1&tag=blakadders-20&linkId=3ab1687bfe9ab117f3a4ea96f9665a57&language=en_US&ref_=as_li_ss_tl))
+- Overture PLA Pro Light Blue ([Overture](https://overture3d.com/products/overture-pla-professional-1-75mm?variant=41113591546044), [Amazon US](https://www.amazon.com/OVERTURE-Professional-Toughness-Dimensional-Probability/dp/B0991VZG6W?th=1&linkCode=ll1&tag=blakadders-20&linkId=0cc6bae7d67b979fa7c1359425d336d1&language=en_US&ref_=as_li_ss_tl), [Amazon DE](https://www.amazon.de/OVERTURE-Professional-Toughness-Dimensional-Probability/dp/B0991VZG6W?th=1))
+
+Sovol is planning to release their own filament of the exact color used on SV06 (Plus) sometime in May.
 
 ## Cable strain relief
 
