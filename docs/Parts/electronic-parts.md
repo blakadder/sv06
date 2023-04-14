@@ -32,7 +32,11 @@ SV06 original mainboard.
 
 ??? info "Pinout"
     ![Mainboard](/images/motherboard_pinout.webp)
-    
+
+## Mainboard Fan
+
+4010 24V 5500rpm axial fan with an JST XH2.54 2-Pin connector
+
 ## Print Head PCB
 
 [![Extruder PCB](/images/extruder_board.webp)](/images/extruder_board.webp)

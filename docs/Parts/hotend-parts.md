@@ -32,6 +32,8 @@ If you want the ones similar to the shipped one search for "Ender S1 MK8 nozzle"
 [Amazon US](https://www.amazon.com/Creality-Nozzles-Extruder-Compatible-Filament/dp/B08W4F8TKK?crid=2I0S5F0ET7CB&keywords=ender+s1+mk8+nozzle&qid=1681064579&sprefix=ender+s1+mk8+nozzle%2Caps%2C202&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=f426fd34b17bd7c63e432cb2b719f83d&language=en_US&ref_=as_li_ss_tl){ .md-button }
 [Amazon DE](https://www.amazon.de/-/en/Creality-Official-Printer-Nozzles-CT-3800000/dp/B0B2NZXVVW?crid=1GGE3BPQRKDY1&keywords=mk8+d%C3%BCse&qid=1681064415&sprefix=mk8+nozzle%2Caps%2C132&sr=8-8&linkCode=ll1&tag=blakadders-20&linkId=b3fc78d1b45840031912c0e6ecd6b44a&language=en_GB&ref_=as_li_ss_tl){ .md-button }[AliExpress](https://www.aliexpress.com/item/1005004402619598.html?aff_fcid=1d189084d0a44c828d76e59ee994cb8c-1681064720714-05879-_Dn4GBMN&tt=CPS_NORMAL&aff_fsk=_Dn4GBMN&aff_platform=shareComponent-detail&sk=_Dn4GBMN&aff_trace_key=1d189084d0a44c828d76e59ee994cb8c-1681064720714-05879-_Dn4GBMN&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 
+[See here for upgrades.](/Upgrades/nozzle-upgrades.md)
+
 ## Bi-Metal Heatbreak
 
 | Length | Heatbreak body | Outer Dia. | Inner Dia. | Heatblock thread |
