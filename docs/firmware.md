@@ -92,4 +92,4 @@ gcode:
     SET_PIN PIN=BEEPER_pin VALUE=0
 ```
 
-Borrowed from: https://dev.to/wallclocks/enable-buzzer-in-klipper-for-creality-boards-422-427-19mg
+Borrowed from: <https://dev.to/wallclocks/enable-buzzer-in-klipper-for-creality-boards-422-427-19mg>
