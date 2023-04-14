@@ -29,7 +29,7 @@ Only the extruder assembly. Includes assembly gears and the motor.
 
 ## ABL Probe
 
-![Proximity Switch](/images/proximity_switch.webp){ align=right width="800" }
+![Proximity Switch](/images/proximity_switch.webp){ align=right width="80" }
 
 Inductive proximity switch LJ12A3-4-Z/AX-5V 5V NPN NC (normally closed). Connected to the [print head PCB](https://sv06.blakadder.com/Parts/electronic-parts/#print-head-pcb) with a JST 1.25 5-Pin connector.
 
