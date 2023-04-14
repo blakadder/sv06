@@ -32,7 +32,13 @@ Only the extruder assembly. Includes assembly gears and the motor.
 
 ## ABL Probe
 
-Proximity switch LJ12A3-4-Z-AX 5V NPN normally closed. Connected to the [print head PCB](https://sv06.blakadder.com/Parts/electronic-parts/#print-head-pcb) with a JST 1.25 5-Pin connector.
+![Proximity Switch](/images/proximity_switch.webp){ align=right width="800" }
+
+Inductive proximity switch LJ12A3-4-Z/AX-5V 5V NPN NC (normally closed). Connected to the [print head PCB](https://sv06.blakadder.com/Parts/electronic-parts/#print-head-pcb) with a JST 1.25 5-Pin connector.
+
+
+!!! tip "Buy from"
+    [AliExpress](https://www.aliexpress.com/item/4000542028133.html?aff_fcid=0c1065d7a7164ed68f9bb1711ebb6144-1681466318251-02359-_DDqjYEZ&tt=CPS_NORMAL&aff_fsk=_DDqjYEZ&aff_platform=shareComponent-detail&sk=_DDqjYEZ&aff_trace_key=0c1065d7a7164ed68f9bb1711ebb6144-1681466318251-02359-_DDqjYEZ&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
 
 ## Set/Grub Screw
 
