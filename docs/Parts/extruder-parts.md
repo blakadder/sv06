@@ -21,7 +21,10 @@ Complete print head assembly including the extruder, hotend, bed probe and fans.
 Only the extruder assembly. Includes assembly gears and the motor.
 
 !!! tip "Buy from"
-    [Amazon](https://www.amazon.com/Sovol-SV06-Planetary-Extruder-Leveling/dp/B0BQC5FYKJ?&linkCode=ll1&tag=blakadders-20&linkId=43db8bf946d9d18b10ffdd3bdb0d5c14&language=en_US&ref_=as_li_ss_tl){ .md-button } [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fbondtech%2Fdirect-drive-extruder-2){ .md-button } 
+    [Amazon US](https://www.amazon.com/Sovol-SV06-Planetary-Extruder-Leveling/dp/B0BQC5FYKJ?&linkCode=ll1&tag=blakadders-20&linkId=43db8bf946d9d18b10ffdd3bdb0d5c14&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon UK](https://www.amazon.co.uk/Sovol-SV06-Extruder-Kit/dp/B0BQC5FYKJ?&linkCode=ll1&tag=blakadders-20&linkId=9d867a436990568046788fa1409b2a9b&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/-/en/Sovol-SV06-Upgrade-Extruder/dp/B0BQR79RKJ?crid=3LXSQTOQMU9K7&keywords=sv06+plus&qid=1681551730&sprefix=sv06+plus%2Caps%2C125&sr=8-3&linkCode=ll1&tag=blakadders-20&linkId=2961d7bc3def5caf40919f07db8eadf1&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fbondtech%2Fdirect-drive-extruder-2){ .md-button }
 
 ## Part Cooling and Cold End Fans 
 
@@ -45,5 +48,6 @@ Commonly called "set screw" or "grub screw". They fix the extruder gear to the e
 
 Dimensions are M3x3.
 
-[Amazon US](https://www.amazon.com/Socket-Screws-Stainless-Wrench-Length/dp/B072XWQ8JF?crid=3NLDEALAE9L3K&keywords=set%2Bscrew%2Bm3x3&qid=1681287168&sprefix=set%2Bscrew%2Bm3x%2Caps%2C277&sr=8-11&th=1&linkCode=ll1&tag=blakadders-20&linkId=1828967d35a1de086c77488a9189a28f&language=en_US&ref_=as_li_ss_tl){ .md-button }
-[AliExpress](https://www.aliexpress.com/item/1005002334008184.html?aff_fcid=a29a2e5476474129a3e58780429a401a-1681288659885-00405-_DCJSkY1&tt=CPS_NORMAL&aff_fsk=_DCJSkY1&aff_platform=shareComponent-detail&sk=_DCJSkY1&aff_trace_key=a29a2e5476474129a3e58780429a401a-1681288659885-00405-_DCJSkY1&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button } 
+!!! tip "Buy from"
+    [Amazon US](https://www.amazon.com/Socket-Screws-Stainless-Wrench-Length/dp/B072XWQ8JF?crid=3NLDEALAE9L3K&keywords=set%2Bscrew%2Bm3x3&qid=1681287168&sprefix=set%2Bscrew%2Bm3x%2Caps%2C277&sr=8-11&th=1&linkCode=ll1&tag=blakadders-20&linkId=1828967d35a1de086c77488a9189a28f&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005002334008184.html?aff_fcid=a29a2e5476474129a3e58780429a401a-1681288659885-00405-_DCJSkY1&tt=CPS_NORMAL&aff_fsk=_DCJSkY1&aff_platform=shareComponent-detail&sk=_DCJSkY1&aff_trace_key=a29a2e5476474129a3e58780429a401a-1681288659885-00405-_DCJSkY1&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button } 
