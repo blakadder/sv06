@@ -7,6 +7,13 @@ comments: true
 
 [Video instructions](https://www.youtube.com/watch?v=p6l253OJa34)
 
+Troubleshooting steps if you cannot flash the new firmware:
+
+- firmware file is the only file on the SD Card
+- rename the firmware file to something unique
+- change extension to `.BIN` (capital letters)
+- make sure the SD Card is less than 16Gb and formatted as FAT32 4096 blocks
+
 ## Marlin 
 
 ### Sovol Firmware
