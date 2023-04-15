@@ -93,3 +93,7 @@ gcode:
 ```
 
 Borrowed from: <https://dev.to/wallclocks/enable-buzzer-in-klipper-for-creality-boards-422-427-19mg>
+
+### Guided filament change macro
+
+<https://www.reddit.com/r/klippers/comments/m57iai/mom_my_overpowered_m600_command/>

@@ -27,8 +27,10 @@ Replacement screen is a common 128640 type screen used in Creality's Ender-3.
 SV06 original mainboard.
 
 !!! tip "Buy from"
-    [Amazon](https://www.amazon.com/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=186de5151e22db03e0c3636032c79fa7&language=en_US&ref_=as_li_ss_tl){ .md-button } 
-    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button } 
+    [Amazon US](https://www.amazon.com/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=186de5151e22db03e0c3636032c79fa7&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=9fef5dc4f72233ea06a2ab722e52cee8&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [Amazon UK](https://www.amazon.co.uk/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=b05ee5d6bf36b7d69709eef2b4e8bb1d&ref_=as_li_ss_tl){ .md-button }
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button }
 
 ??? info "Pinout"
     ![Mainboard](/images/motherboard_pinout.webp)

@@ -10,13 +10,14 @@ comments: true
 Complete drop-in replacement with heatbreak, thermistor, heater cartridge and 0.4 nozzle.
 
 !!! tip "Buy from"
-    [Amazon US](https://www.amazon.com/Sovol-SV06-Hotend-Kit-Thermistor/dp/B0BQC82P3D?&linkCode=ll1&tag=blakadders-20&linkId=f337b5a67369c624c6e504f39b253e01&language=en_US&ref_=as_li_ss_tl){ .md-button } 
-    [Amazon DE](https://www.amazon.de/-/en/Sovol-SV06-All-Metal-Hotend/dp/B0BQR5CT8Z?crid=21UU1VLXQGK1J&keywords=sovol&qid=1681063442&sprefix=sovol%2Caps%2C152&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=a6eec1bb6c9e08c0b93a314043e7da66&language=en_GB&ref_=as_li_ss_tl){ .md-button } 
-    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fhotend-12){ .md-button } 
+    [Amazon US](https://www.amazon.com/Sovol-SV06-Hotend-Kit-Thermistor/dp/B0BQC82P3D?&linkCode=ll1&tag=blakadders-20&linkId=f337b5a67369c624c6e504f39b253e01&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/-/en/Sovol-SV06-All-Metal-Hotend/dp/B0BQR5CT8Z?crid=21UU1VLXQGK1J&keywords=sovol&qid=1681063442&sprefix=sovol%2Caps%2C152&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=a6eec1bb6c9e08c0b93a314043e7da66&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [Amazon UK](https://www.amazon.co.uk/Sovol-SV06-Hotend-Kit/dp/B0BQC82P3D?crid=A2GXMZCFT3KY&keywords=sovol&qid=1681552117&s=industrial&sprefix=sovol%2Cindustrial%2C111&sr=1-32&linkCode=ll1&tag=blakadders-20&linkId=bedeb44f15a431adca948a5108a07481&ref_=as_li_ss_tl){ .md-button }
+    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fhotend-12){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005005403108813.html?aff_fcid=8d9ab75a2cbc45c1a87fbf6d5c54f7ef-1681061390001-03431-_DE08f8N&tt=CPS_NORMAL&aff_fsk=_DE08f8N&aff_platform=shareComponent-detail&sk=_DE08f8N&aff_trace_key=8d9ab75a2cbc45c1a87fbf6d5c54f7ef-1681061390001-03431-_DE08f8N&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-    [Sovol Store](https://sovol3d.com/collections/sv06-replacement/products/sv06-all-metal-hotend?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button } 
+    [Sovol Store](https://sovol3d.com/collections/sv06-replacement/products/sv06-all-metal-hotend?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
 
-!!! info 
+!!! info
     ![SHCS](/images/shcs.webp){ align=left width="80" }
 
     The heatblock is mounted to the extruder with two M2.5x10mm socket head cap screws (SHCS).
@@ -30,7 +31,8 @@ You don't need to buy from Sovol since the hotend uses standard MK8 nozzles with
 If you want the ones similar to the shipped one search for "Ender S1 MK8 nozzle"
 
 [Amazon US](https://www.amazon.com/Creality-Nozzles-Extruder-Compatible-Filament/dp/B08W4F8TKK?crid=2I0S5F0ET7CB&keywords=ender+s1+mk8+nozzle&qid=1681064579&sprefix=ender+s1+mk8+nozzle%2Caps%2C202&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=f426fd34b17bd7c63e432cb2b719f83d&language=en_US&ref_=as_li_ss_tl){ .md-button }
-[Amazon DE](https://www.amazon.de/-/en/Creality-Official-Printer-Nozzles-CT-3800000/dp/B0B2NZXVVW?crid=1GGE3BPQRKDY1&keywords=mk8+d%C3%BCse&qid=1681064415&sprefix=mk8+nozzle%2Caps%2C132&sr=8-8&linkCode=ll1&tag=blakadders-20&linkId=b3fc78d1b45840031912c0e6ecd6b44a&language=en_GB&ref_=as_li_ss_tl){ .md-button }[AliExpress](https://www.aliexpress.com/item/1005004402619598.html?aff_fcid=1d189084d0a44c828d76e59ee994cb8c-1681064720714-05879-_Dn4GBMN&tt=CPS_NORMAL&aff_fsk=_Dn4GBMN&aff_platform=shareComponent-detail&sk=_Dn4GBMN&aff_trace_key=1d189084d0a44c828d76e59ee994cb8c-1681064720714-05879-_Dn4GBMN&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+[Amazon DE](https://www.amazon.de/-/en/Printer-Silicone-Nozzles-Heating-Extruder/dp/B07PBW6T7S?&linkCode=ll1&tag=blakadders-20&linkId=26f3ca399fec9bfaa9abedd69f502a01&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+[AliExpress](https://www.aliexpress.com/item/1005004402619598.html?aff_fcid=1d189084d0a44c828d76e59ee994cb8c-1681064720714-05879-_Dn4GBMN&tt=CPS_NORMAL&aff_fsk=_Dn4GBMN&aff_platform=shareComponent-detail&sk=_Dn4GBMN&aff_trace_key=1d189084d0a44c828d76e59ee994cb8c-1681064720714-05879-_Dn4GBMN&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 
 [See here for upgrades.](/Upgrades/nozzle-upgrades.md)
 
@@ -106,7 +108,7 @@ Sovol uses a standard MK8 hotend silicone sock, mine has embossed "Cr" on it.
 
 ??? tip "Buy from"
     [Amazon US](https://www.amazon.com/Printer-Hotend-Silicone-Heater-Creality/dp/B09VKZJKQ2?crid=3BVTP84RWQ8SV&keywords=cr+silicone+sock&qid=1681064313&sprefix=cr+silicone+soc%2Caps%2C195&sr=8-5&linkCode=ll1&tag=blakadders-20&linkId=5434d4680c5085ca993113b39833574e&language=en_US&ref_=as_li_ss_tl){ .md-button }
-    [Amazon DE](https://www.amazon.de/-/en/Creality-Official-Silicone-Original-Extruder/dp/B09QS1D3NC?crid=RIP9AE0VD0RO&keywords=cr%2Bsilikon%2Bsocke&qid=1681064258&sprefix=cr%2Bsilicone%2Bsock%2Caps%2C149&sr=8-2&th=1&linkCode=ll1&tag=blakadders-20&linkId=1101633f7fb4a01a2b80948741e75b4e&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/Creality-Official-Silicone-Original-Extruder/dp/B09QS1D3NC?th=1&linkCode=ll1&tag=blakadders-20&linkId=8a0b0274e1eea1d183217cd995ec63d3&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005003399756538.html?aff_fcid=fc3ddc66ed3e4180b0635621fd585240-1681064242768-06610-_DCP4VhP&tt=CPS_NORMAL&aff_fsk=_DCP4VhP&aff_platform=shareComponent-detail&sk=_DCP4VhP&aff_trace_key=fc3ddc66ed3e4180b0635621fd585240-1681064242768-06610-_DCP4VhP&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 
 <!-- FOOTNOTES -->

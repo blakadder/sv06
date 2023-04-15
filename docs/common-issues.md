@@ -30,6 +30,13 @@ Print [this shim](https://www.printables.com/model/360276) and mount it between 
 
 ![Shim the motor mount](/images/troubleshooting/motor_not_true.webp)
 
+## No bed adhesion
+
+Can be caused by many factors:
+
+- PEI sheet is not clean enough: Clean it thoroughly with dish soap and warm water then dry immediately. Maintain a clean surface with isopropyl alcohol and lint free cloth.
+- Z-offset too high: Z-offset is so high that the nozzle doesn't squish the melted plastic onto the print sheet which results in poor or no adhesion.
+
 ## Official SV06 Help Center
 
 More common issues at the  [Official SV06 Help Center](https://sovol3d.com/blogs/news/help-center-sv06)
