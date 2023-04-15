@@ -28,7 +28,7 @@ Complete drop-in replacement with heatbreak, thermistor, heater cartridge and 0.
 
 You don't need to buy from Sovol since the hotend uses standard MK8 nozzles with M6 thread.
 
-If you want the ones similar to the shipped one search for "Ender S1 MK8 nozzle"
+If you want the ones similar to the shipped one search for "CR-6 SE" or "Ender S1 nozzle"
 
 [Amazon US](https://www.amazon.com/Creality-Nozzles-Extruder-Compatible-Filament/dp/B08W4F8TKK?crid=2I0S5F0ET7CB&keywords=ender+s1+mk8+nozzle&qid=1681064579&sprefix=ender+s1+mk8+nozzle%2Caps%2C202&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=f426fd34b17bd7c63e432cb2b719f83d&language=en_US&ref_=as_li_ss_tl){ .md-button }
 [Amazon DE](https://www.amazon.de/-/en/Printer-Silicone-Nozzles-Heating-Extruder/dp/B07PBW6T7S?&linkCode=ll1&tag=blakadders-20&linkId=26f3ca399fec9bfaa9abedd69f502a01&language=en_GB&ref_=as_li_ss_tl){ .md-button }
@@ -79,7 +79,7 @@ Heater cartridge is glued into the heatblock. The replacement should be able to 
 | - | - | - | - | - |
 | 24V | 40W | 6x20mm | JST PH 2.0 2-Pin | 40mm |
 
-And Ender S1 Pro replacement cartridge looks similar but uses an JST XH2.54 connector which is too big.
+!!! warning "The Ender S1 Pro replacement cartridge looks similar but uses an JST XH2.54 connector which is too big."
 
 <!-- !!! tip "Buy from"
     [AliExpress](https://www.aliexpress.com/item/1005005274488537.html?aff_fcid=2967b39f05d447a4afe0e5e740af08cc-1681129312546-02521-_DeuV545&tt=CPS_NORMAL&aff_fsk=_DeuV545&aff_platform=shareComponent-detail&sk=_DeuV545&aff_trace_key=2967b39f05d447a4afe0e5e740af08cc-1681129312546-02521-_DeuV545&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
