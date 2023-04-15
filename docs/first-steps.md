@@ -77,6 +77,7 @@ Same method is recommended by [Sovol](https://www.youtube.com/watch?v=Y5XJXrT-9I
 
 ## Tune your printer
 
-[Teaching Tech](https://teachingtechyt.github.io/calibration.html) has a great resource about tuning all the aspects of your new 3D printer.
+Resources about tuning 3D printers:
 
-Extruder E-steps calibration
+- [Teaching Tech 3D Printer Site](https://teachingtechyt.github.io/calibration.html) has a great resource about tuning all the aspects of your new 3D printer.
+- [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/articles/index_tuning.html)

@@ -37,7 +37,16 @@ SV06 original mainboard.
 
 ## Mainboard Fan
 
+![4010 Axial Fan](/images/4010_axial.webp){ align=right width="80" }
+
 4010 24V 5500rpm axial fan with an JST XH2.54 2-Pin connector
+
+!!! tip "Buy from"
+    [Amazon US](https://www.amazon.com/WINSINN-Ender-Upgrade-Bearing-CR-10S/dp/B08R9L9YR2?th=1&linkCode=ll1&tag=blakadders-20&linkId=a383183d8fc6f3ad21d6b12d32049571&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/WINSINN-Cooling-Upgrade-Double-Bearings/dp/B0757RPCN9?th=1&linkCode=ll1&tag=blakadders-20&linkId=574e5f1a1421b573a79dae404cafd25d&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [Amazon UK](https://www.amazon.co.uk/WINSINN-Cooling-40x40x10mm-Extruder-Makerbot/dp/B0757RPCN9?th=1&linkCode=ll1&tag=blakadders-20&linkId=6fbba8718fb66187c2c845d878eb8c45&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005003878703039.html?aff_fcid=6dd0e720b01c47f19b9a9f656f1fe010-1681574036321-04929-_DEuUX2H&tt=CPS_NORMAL&aff_fsk=_DEuUX2H&aff_platform=shareComponent-detail&sk=_DEuUX2H&aff_trace_key=6dd0e720b01c47f19b9a9f656f1fe010-1681574036321-04929-_DEuUX2H&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+
 
 ## Print Head PCB
 
@@ -85,6 +94,16 @@ Cable looks exactly like Creality's Sprite Extruder replacement cable but is wir
 ### Double Z Axis Motor Wire
 
 [![Schematic](/images/sch_doublezaxiswire.jpg){ width="50%" }](/images/sch_doublezaxiswire.jpg)
+
+!!! tip "Buy from"
+    [Amazon US](https://www.amazon.com/dp/B09QG9VRGW?th=1&linkCode=ll1&tag=blakadders-20&linkId=e6b52f208bf36e6be426e63e1b349c0a&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005004321018294.html?aff_fcid=4a9c6d2c30874a11bbb00f4109a81ba8-1681152562164-01956-_DdqVdoN&tt=CPS_NORMAL&aff_fsk=_DdqVdoN&aff_platform=shareComponent-detail&sk=_DdqVdoN&aff_trace_key=4a9c6d2c30874a11bbb00f4109a81ba8-1681152562164-01956-_DdqVdoN&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+
+### Extruder Motor Wire
+
+1007 28AWG 4P wire
+
+[![Schematic](/images/sch_extruderwire.jpg){ width="50%" }](/images/sch_extruderwire.jpg)
 
 !!! tip "Buy from"
     [Amazon US](https://www.amazon.com/dp/B09QG9VRGW?th=1&linkCode=ll1&tag=blakadders-20&linkId=e6b52f208bf36e6be426e63e1b349c0a&language=en_US&ref_=as_li_ss_tl){ .md-button }

@@ -63,7 +63,7 @@ Glass bead thermistor glued into the the heatblock. Removing it will likely dest
 | - | - | - | - |
 | NTC100KΩ 3950K | 2mm | JST 1.25mm 2-Pin | 40mm |
 
-And Ender S1 Pro replacement part will fit but the cable might be longer different.[^1]
+And Ender S1 Pro replacement part will fit but the cable might be longer.[^1]
 
 !!! tip "Buy from"
     [Amazon US](https://www.amazon.com/Creality-Thermistor-3D-Replacement-Compatible/dp/B09QPH3HMR?keywords=ender%2Bs1%2Bthermistor&qid=1681121408&sr=8-3&th=1&linkCode=ll1&tag=blakadders-20&linkId=ecafac23db4e14c067790dc725cb2a04&language=en_US&ref_=as_li_ss_tl){ .md-button }
@@ -80,6 +80,8 @@ Heater cartridge is glued into the heatblock. The replacement should be able to 
 | 24V | 40W | 6x20mm | JST PH 2.0 2-Pin | 40mm |
 
 !!! warning "The Ender S1 Pro replacement cartridge looks similar but uses an JST XH2.54 connector which is too big."
+
+[![Schematic](/images/sch_heatercartridge.jpg){ width="150" }](/images/sch_heatercartridge.jpg)
 
 <!-- !!! tip "Buy from"
     [AliExpress](https://www.aliexpress.com/item/1005005274488537.html?aff_fcid=2967b39f05d447a4afe0e5e740af08cc-1681129312546-02521-_DeuV545&tt=CPS_NORMAL&aff_fsk=_DeuV545&aff_platform=shareComponent-detail&sk=_DeuV545&aff_trace_key=2967b39f05d447a4afe0e5e740af08cc-1681129312546-02521-_DeuV545&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }

@@ -28,7 +28,20 @@ Only the extruder assembly. Includes assembly gears and the motor.
 
 ## Part Cooling and Cold End Fans 
 
-4010 24V 0.1A 8000rpm blower fan connected with a JST 1.25 2-Pin connector
+![4010 Fan](/images/4010_fan.webp){ align=right width="80" }
+
+4010 24V 0.1A 8000rpm blower fan connected with a JST 1.25 2-Pin connector.
+
+When choosing the type of fan remember: Brushless < Hydraulic < Dual Ball Bearing
+
+!!! tip "Buy from"
+    [Amazon US](https://www.amazon.com/WINSINN-Blower-Upgrade-Bearing-CR-10S/dp/B08R9J189W?th=1&linkCode=ll1&tag=blakadders-20&linkId=03f1504a7dbc59fd7a8433ed9b85b35f&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/WINSINN-4010-turbine-ducting-parts/dp/B07L2WTH7H?&linkCode=ll1&tag=blakadders-20&linkId=354f9141d5dbd6748d77cbffdb973309&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [Amazon UK](https://www.amazon.co.uk/WINSINN-Blower-Upgrade-Bearing-CR-10S/dp/B08R9J189W?&linkCode=ll1&tag=blakadders-20&linkId=b74ecd97397a2cc553c8d816959d0339&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005003878405207.html?aff_fcid=fb95bf65406d4f06ac78939717c58f59-1681572135525-07664-_DDPJoZX&tt=CPS_NORMAL&aff_fsk=_DDPJoZX&aff_platform=shareComponent-detail&sk=_DDPJoZX&aff_trace_key=fb95bf65406d4f06ac78939717c58f59-1681572135525-07664-_DDPJoZX&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+
+
+Most replacement fans come with XH2.54 connector or without them. [See here](/Parts/electronic-parts/#wires-with-connectors) for pre-crimped wires and an easy way to join them.
 
 ## ABL Probe
 
@@ -39,6 +52,8 @@ Inductive proximity switch LJ12A3-4-Z/AX-5V 5V NPN NC (normally closed). Connect
 
 !!! tip "Buy from"
     [AliExpress](https://www.aliexpress.com/item/4000542028133.html?aff_fcid=0c1065d7a7164ed68f9bb1711ebb6144-1681466318251-02359-_DDqjYEZ&tt=CPS_NORMAL&aff_fsk=_DDqjYEZ&aff_platform=shareComponent-detail&sk=_DDqjYEZ&aff_trace_key=0c1065d7a7164ed68f9bb1711ebb6144-1681466318251-02359-_DDqjYEZ&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+
+[![Schematic](/images/sch_ablprobe.jpg){ width="50%" }](/images/sch_ablprobe.jpg)
 
 ## Set/Grub Screw
 
