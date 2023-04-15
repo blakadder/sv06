@@ -12,9 +12,9 @@ See [list of filaments](/Parts/printable-parts/#sovol-colored-filament) that are
 
 This is a **MUST HAVE**. They install under the existing heated bed cable strain relief with a zip tie or two.
 
+- [@ShinIshiSou](https://www.printables.com/model/452682-sovol-sv06-strain-relief)
 - [@lollo99](https://www.printables.com/model/423797-cable-strain-relief-for-sovol-sv06-curve)
 - [@rogerquin](https://www.printables.com/model/409660)
-- [@ShinIshiSou](https://www.printables.com/model/432542-sovol-sv06-strain-relief)
 
 ![Cable strain relief](/images/upgrades/cable_strain_relief.webp){ width="100%" }
 

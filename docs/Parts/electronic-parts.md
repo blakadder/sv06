@@ -99,6 +99,24 @@ Cable looks exactly like Creality's Sprite Extruder replacement cable but is wir
 
 These connectors are commonly used in RC and widely available.
 
+## Wires with Connectors
+
+Pre-crimped wires with JST 1.25 connectors that you can solder onto aftermarket fans. 
+
+!!! tip "Buy from"
+    [Amazon US](https://www.amazon.com/Letool-Electrical-Female-Connector-Cables/dp/B07FP2FCYC?&linkCode=ll1&tag=blakadders-20&linkId=07658403336b796912d08f7bd61a008e&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/dp/B08JV96C4N?th=1&linkCode=ll1&tag=blakadders-20&linkId=d09b2510840381e19ef64ea6ac615c2f&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/32907978236.html?aff_fcid=e3d9e4bae2954a5bbdd73b32e7886368-1681567397890-09490-_DlusJpj&tt=CPS_NORMAL&aff_fsk=_DlusJpj&aff_platform=shareComponent-detail&sk=_DlusJpj&aff_trace_key=e3d9e4bae2954a5bbdd73b32e7886368-1681567397890-09490-_DlusJpj&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+
+### Heat Shrink Solder Connector
+
+If you're not that great at soldering these heat shrink solder tubes will quickly join two wires while insulating and waterproofing.
+
+!!! tip "Buy from"
+    [AliExpress](https://www.aliexpress.com/item/1005001876995719.html?aff_fcid=31a6c3cc687e417f88eb92bbe5df1fd1-1681568033021-01590-_DC0f1d7&tt=CPS_NORMAL&aff_fsk=_DC0f1d7&aff_platform=shareComponent-detail&sk=_DC0f1d7&aff_trace_key=31a6c3cc687e417f88eb92bbe5df1fd1-1681568033021-01590-_DC0f1d7&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+    [Amazon US](https://www.amazon.com/Connectors-karmiero-Waterproof-Electrical-Automotive/dp/B0BDDFLGKW?&linkCode=ll1&tag=blakadders-20&linkId=edde9a0f626673fc224ef01f44934d65&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/Connectors-Waterproof-Insulated-Connector-Electronic/dp/B0B5934WGY?th=1&linkCode=ll1&tag=blakadders-20&linkId=de1777f9f04e7f8eee98843b4beb417b&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+
 <!-- FOOTER -->
 
 [^1]: From [:fontawesome-brands-reddit: post](https://www.reddit.com/r/Sovol/comments/11o991h/sv06_replacement_print_head_ribbon_cable/)
