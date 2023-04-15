@@ -3,6 +3,10 @@ comments: true
 ---
 # Firmware
 
+## How to flash firmware
+
+[Video instructions](https://www.youtube.com/watch?v=p6l253OJa34)
+
 ## Marlin 
 
 ### Sovol Firmware

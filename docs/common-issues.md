@@ -36,6 +36,7 @@ Can be caused by many factors:
 
 - PEI sheet is not clean enough: Clean it thoroughly with dish soap and warm water then dry immediately. Maintain a clean surface with isopropyl alcohol and lint free cloth.
 - Z-offset too high: Z-offset is so high that the nozzle doesn't squish the melted plastic onto the print sheet which results in poor or no adhesion.
+- Bed mesh issues: Make sure to upgrade to latest firmware and that the startup G-Code in your slicer contains `M420 S1` to use the saved bed mesh. 
 
 ## Official SV06 Help Center
 
