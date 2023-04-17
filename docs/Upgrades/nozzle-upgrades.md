@@ -3,7 +3,7 @@ comments: true
 ---
 # Nozzle Upgrades
 
-Sovol SV06 uses standard MK8 nozzles with M6 thread. Any MK8 nozzle will work!
+Sovol SV06 uses standard MK8 nozzles with M6 thread, specifically a **CR-6 SE** nozzle also used in Creality's Sprite Extruder but any MK8 nozzle with M6 thread will work! If a nozzle is a lot shorter you will need to adjusst the ABL probe height.
 
 ## Hardened
 
@@ -12,6 +12,7 @@ You need hardened nozzles when printing more abrasive materials which quickly de
 - Micro Swiss MK8 Plated A2 Tool Steel ([Amazon](https://www.amazon.com/gp/product/B07DJY52CC?ie=UTF8&th=1&linkCode=ll1&tag=blakadders-20&linkId=3944caf647796a48323e9e76cbaf0a4d&language=en_US&ref_=as_li_ss_tl), [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.uk%2Fmicro-swiss%2Fmk8-nozzle-hardened-steel))
 - Creality MK8 from [Amazon.de](https://www.amazon.de/dp/B0B96Z2TZV?_encoding=UTF8&psc=1&linkCode=ll1&tag=blakadders-20&linkId=16c56d9bd09a4c0e48c373f0796af112&language=en_GB&ref_=as_li_ss_tl)
 - Phaetus x PrimaCreator MK8 Tungsten Nozzle from [Amazon.de](https://www.amazon.de/gp/product/B07XM5PCHD?fbclid=IwAR1_3IJNH31c-fviXcG2RZHxjdkfWXgNOA95i4DDZNilaWe9rEiU5GK7RE4&th=1&linkCode=ll1&tag=blakadders-20&linkId=951d67a2fe5a677e2a4f3a7329e94b46&language=en_GB&ref_=as_li_ss_tl)
+- SE6 Chrome Zirconium Copper ([AliExpress](https://www.aliexpress.com/item/1005004795792640.html?aff_fcid=91cb58b12bb248c198701555da92fcba-1681556050822-07564-_DCFNMYH&tt=CPS_NORMAL&aff_fsk=_DCFNMYH&aff_platform=shareComponent-detail&sk=_DCFNMYH&aff_trace_key=91cb58b12bb248c198701555da92fcba-1681556050822-07564-_DCFNMYH&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y))
 
 ## CHT High Flow
 

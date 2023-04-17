@@ -1,5 +1,9 @@
 # Troubleshooting 
 
+## General 3D Printer Troubleshooting
+
+[Teaching Tech](https://teachingtechyt.github.io/troubleshooting.html) has a great resource about general 3D printer troubleshooting.
+
 ## Blue Screen
 
 The bootloader on the 32bit controller boards **requires** FAT32 format and can not use any other formats.

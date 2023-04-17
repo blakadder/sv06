@@ -74,3 +74,10 @@ Download and install a better slicer and ditch Sovol's outdated fork of Cura.
 This is how I always load filament. Preheat the nozzle for your material. Insert a cleanly cut filament end into the opening then use only the extruder wheel to load the filament half way. All the way until you hear a pop or the filament starts extruding is also fine. Then let the firmware continue with the purge.
 
 Same method is recommended by [Sovol](https://www.youtube.com/watch?v=Y5XJXrT-9Ic).
+
+## Tune your printer
+
+Resources about tuning 3D printers:
+
+- [Teaching Tech 3D Printer Site](https://teachingtechyt.github.io/calibration.html) has a great resource about tuning all the aspects of your new 3D printer.
+- [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/articles/index_tuning.html)

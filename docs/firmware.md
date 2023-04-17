@@ -3,6 +3,17 @@ comments: true
 ---
 # Firmware
 
+## How to flash firmware
+
+[Video instructions](https://www.youtube.com/watch?v=p6l253OJa34)
+
+Troubleshooting steps if you cannot flash the new firmware:
+
+- firmware file is the only file on the SD Card
+- rename the firmware file to something unique
+- change extension to `.BIN` (capital letters)
+- make sure the SD Card is less than 16Gb and formatted as FAT32 4096 blocks
+
 ## Marlin 
 
 ### Sovol Firmware
@@ -92,4 +103,8 @@ gcode:
     SET_PIN PIN=BEEPER_pin VALUE=0
 ```
 
-Borrowed from: https://dev.to/wallclocks/enable-buzzer-in-klipper-for-creality-boards-422-427-19mg
+Borrowed from: <https://dev.to/wallclocks/enable-buzzer-in-klipper-for-creality-boards-422-427-19mg>
+
+### Guided filament change macro
+
+<https://www.reddit.com/r/klippers/comments/m57iai/mom_my_overpowered_m600_command/>
