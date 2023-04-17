@@ -26,7 +26,7 @@ Quick fix is [lubricating the rods](/first-steps/#lube-linear-rods). Best fix is
 
 Motors aren't at a true 90° angle to the frame due to mounts. This occurs on Z-axis and Y-axis motor mounts. 
 
-Print [this shim](https://www.printables.com/model/360276) and mount it between the motor and the extrusion.
+You can try to bend the bracket but that requires some disassembly. As a quick fix print [this shim](https://www.printables.com/model/360276) and mount it between the motor and the extrusion.
 
 ![Shim the motor mount](/images/troubleshooting/motor_not_true.webp)
 
