@@ -1,5 +1,16 @@
 # Common Issues
 
+## No bed adhesion
+
+Can be caused by many factors:
+
+- PEI sheet is not clean enough: Clean it thoroughly with dish soap and warm water then dry immediately. Maintain a clean surface with isopropyl alcohol and lint free cloth.
+- Z-offset too high: Z-offset is so high that the nozzle doesn't squish the melted plastic onto the print sheet which results in poor or no adhesion.
+- Bed mesh issues: Make sure to upgrade to latest firmware and that the startup G-Code in your slicer contains `M420 S1` to use the saved bed mesh.
+- Gantry not square:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N5qbWdmn0VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Hotend not level
 
 The nozzle sits at an angle and is not paralled to the axes. This commonly happens to a bent heatbreak. Some printers will print fine with this issue but others will show symptoms of un-levelled bed, it all depends on the way it bends and the severity of the bend.
@@ -12,7 +23,7 @@ To avoid always hold the heatblock firmly with wrench or plies while tightening 
 
 [Reddit post with the issue](https://www.reddit.com/r/Sovol/comments/10vi5j0/hot_end_not_level_is_this_normal_got_the_feeling/)
 
-## Noisy bearings 
+## Noisy bearings
 
 The gravelly sound when the bearings are travelling over the linear rods is caused by Sovol sending out dry, unlubricated bearings. 
 
@@ -29,14 +40,6 @@ Motors aren't at a true 90° angle to the frame due to mounts. This occurs on Z-
 You can try to bend the bracket but that requires some disassembly. As a quick fix print [this shim](https://www.printables.com/model/360276) and mount it between the motor and the extrusion.
 
 ![Shim the motor mount](/images/troubleshooting/motor_not_true.webp)
-
-## No bed adhesion
-
-Can be caused by many factors:
-
-- PEI sheet is not clean enough: Clean it thoroughly with dish soap and warm water then dry immediately. Maintain a clean surface with isopropyl alcohol and lint free cloth.
-- Z-offset too high: Z-offset is so high that the nozzle doesn't squish the melted plastic onto the print sheet which results in poor or no adhesion.
-- Bed mesh issues: Make sure to upgrade to latest firmware and that the startup G-Code in your slicer contains `M420 S1` to use the saved bed mesh. 
 
 ## Official SV06 Help Center
 
