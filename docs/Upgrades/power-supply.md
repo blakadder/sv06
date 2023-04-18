@@ -11,8 +11,14 @@ Upgrade the cheaply built power supply with a better power supply. Meanwell LRS-
 
 [TH3D's video instructions](https://www.th3dstudio.com/product/24v-350w-psu-replacement-upgrade-mean-well/). They sell a [printed cover](https://www.th3dstudio.com/product/meanwell-th3d-psu-cover-v2-0-for-sovol-sv06-ender-3-ender-3-pro/) and the [Meanwell PSU].
 
-## Fan mod to 70mm
+## 70mm Fan
 
 Change original power supply to a silent 70mm fan. You'll need to print a new PSU cover.
 
 [@felixna on Printables](https://www.printables.com/model/341847)
+
+## Power Supply Fan Noise Reduction
+
+[Taeky on Cults3D](https://cults3d.com/en/3d-model/tool/sovol-sv06-power-supply-simply-nois-reduction)
+
+See [video for comparison](https://www.youtube.com/watch?v=2u8GBGv_-go).

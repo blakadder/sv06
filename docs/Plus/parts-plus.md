@@ -18,6 +18,11 @@ Uses non-standard high flow nozzles. They look similar to Volcano nozzles but wi
 
 Other sizes and hardened nozzles should be available late April.
 
+A similar nozzle from Creativity exists. It is 23mm long and the 0.5mm difference shouldn't be that significant.
+
+!!! tip "Buy from"
+    [AliExpress](https://s.click.aliexpress.com/e/_DC7XulR)
+
 ## Extruder Kit
 
 ![Extruder Kit](/images/plus_extruder_kit.webp){ align=left width="150" }
