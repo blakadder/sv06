@@ -55,6 +55,35 @@ Inductive proximity switch LJ12A3-4-Z/AX-5V 5V NPN NC (normally closed). Connect
 
 [![Schematic](/images/sch_ablprobe.jpg){ width="50%" }](/images/sch_ablprobe.jpg)
 
+## Dual Drive Extruder Gears
+
+![Extruder Dual Gear](/images/extruder_dual_gear.webp){ align=right width="150" }
+
+Two gears responsible for driving the filament to the hotend. Same ones are used in the [Orbiter Extruder](https://www.orbiterprojects.com/orbiter-1-5/).
+
+!!! tip "Buy from"
+    [AliExpress](https://www.aliexpress.com/item/1005003577354563.html?aff_fcid=936615d08c7a4c17b8f54ff15f8e9729-1681807954933-04191-_DEtm2Y9&tt=CPS_NORMAL&aff_fsk=_DEtm2Y9&aff_platform=shareComponent-detail&sk=_DEtm2Y9&aff_trace_key=936615d08c7a4c17b8f54ff15f8e9729-1681807954933-04191-_DEtm2Y9&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005002371687284.html?aff_fcid=ffeb3e425adb4557a7a3e00730621e69-1681807131048-04031-_De864ZJ&tt=CPS_NORMAL&aff_fsk=_De864ZJ&aff_platform=shareComponent-detail&sk=_De864ZJ&aff_trace_key=ffeb3e425adb4557a7a3e00730621e69-1681807131048-04031-_De864ZJ&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+
+## Planetary Motor Gears
+
+![Extruder Planetary Gears](/images/extruder_planetary_gears.webp){ align=right width="150" }
+
+Three T27 spur gears. Same ones are used in the [Orbiter Extruder](https://www.orbiterprojects.com/orbiter-1-5/).
+
+!!! tip "Buy from"
+    [AliExpress](https://www.aliexpress.com/item/1005002371687284.html?aff_fcid=ffeb3e425adb4557a7a3e00730621e69-1681807131048-04031-_De864ZJ&tt=CPS_NORMAL&aff_fsk=_De864ZJ&aff_platform=shareComponent-detail&sk=_De864ZJ&aff_trace_key=ffeb3e425adb4557a7a3e00730621e69-1681807131048-04031-_De864ZJ&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+
+## Latch Tensioner
+
+![Extruder Tensioner](/images/extruder_tensioner.webp){ align=right width="150" }
+
+Same ones are used in the [Orbiter Extruder](https://www.orbiterprojects.com/orbiter-1-5/).
+
+!!! tip "Buy from"
+    [AliExpress](https://www.aliexpress.com/item/1005004727225150.html?aff_fcid=e23f2fa845684f8f9b463763603269d6-1681808037970-00220-_Dkai54D&tt=CPS_NORMAL&aff_fsk=_Dkai54D&aff_platform=shareComponent-detail&sk=_Dkai54D&aff_trace_key=e23f2fa845684f8f9b463763603269d6-1681808037970-00220-_Dkai54D&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005002371687284.html?aff_fcid=ffeb3e425adb4557a7a3e00730621e69-1681807131048-04031-_De864ZJ&tt=CPS_NORMAL&aff_fsk=_De864ZJ&aff_platform=shareComponent-detail&sk=_De864ZJ&aff_trace_key=ffeb3e425adb4557a7a3e00730621e69-1681807131048-04031-_De864ZJ&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+
 ## Set/Grub Screw
 
 ![Set screw](/images/setscrew.webp){ align=right width="150" }

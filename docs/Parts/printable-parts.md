@@ -1,6 +1,6 @@
 # Printable
 
-## Sovol colored filament
+## Sovol Colored Filament
 
 Filaments that are close to SV06's color:
 
@@ -12,11 +12,11 @@ Filaments that are close to SV06's color:
 
 Sovol is planning to release their own filament of the exact color used on SV06 (Plus) sometime in May.
 
-## All molded parts
+## Molded Parts
 
 Sovol open sourced the design of the SV06 and all molded parts are available as STL and STEP files on their [GitHub](https://github.com/Sovol3d/SV06-Fully-Open-Source/tree/main/Molded%20Parts%20STL)
 
-## SavageLau's upgrades
+## SavageLau's Upgrades
 
 SavageLau upgraded some of the parts and put them on [Printables](https://www.printables.com/model/400638-sv06-printable-parts):
 
@@ -25,12 +25,16 @@ SavageLau upgraded some of the parts and put them on [Printables](https://www.pr
 - Screen knob
 - Extruder knob
 
-## Screen mount plate
+## Screen Mount Plate
 
 Remix of the original metal screen mounting bracket adapted to be functional as a 3D printed part.
 
 [FLYN INDUSTRIES on Printables](https://www.printables.com/model/415071-sovol-sv01-pro-sv06-sv06-plus-screen-mount)
 
-## Part cooling fan duct
+## Part Cooling Fan Duct
 
 [@the3dhammer on Printables](https://www.printables.com/model/305352)
+
+## Stiffer X-Axis Blocks
+
+[jayksopp on Printables](https://www.printables.com/model/455509-sovol-sv06-stiffer-x-axis-blocks)
