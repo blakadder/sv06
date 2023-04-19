@@ -40,7 +40,7 @@ A dual wing fan duct prototype based on the stock Sovol fan duct.
 
 [@SirKeldon on Printables](https://www.printables.com/model/417565-sovol-sv06-stock-dual-wing-fan-duct-wip)
 
-## Honeycomb frame grill
+## Honeycomb Frame Grill
 
 Cosmetic mod to change the look of your SV06.
 
@@ -48,7 +48,7 @@ Cosmetic mod to change the look of your SV06.
 
 ![Honeycomb frame grill](/images/upgrades/honeycomb_grill.webp){ width="250"  }
 
-## Spool holder
+## Spool Holder
 
 This spool holder mounts over the existing spool holder. 
 
@@ -56,7 +56,7 @@ This spool holder mounts over the existing spool holder.
 
 ![Spool holder](/images/upgrades/spool_holder.webp){ width="250"  }
 
-## Screen back cover
+## Screen Back Cover
 
 This is a very easy-to-print, easy-to-install SNAP-ON back cover for the SV06 screen.
 
@@ -64,7 +64,11 @@ This is a very easy-to-print, easy-to-install SNAP-ON back cover for the SV06 sc
 
 ![Screen back cover](/images/upgrades/screen_back_cover.webp){ width="250"  }
 
-## Cable chain
+## Extruder Hand-Winder
+
+[Gumo Design on Printables](https://www.printables.com/model/456126-sv06-sv06-plus-extruder-hand-winder)
+
+## Cable Chain
 
 This cable chain (spine) supports the extruder ribbon cable and stops it from sagging on taller prints. Works on SV06 Plus but you'll need to print more links.
 
