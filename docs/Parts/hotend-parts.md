@@ -26,9 +26,9 @@ Complete drop-in replacement with heatbreak, thermistor, heater cartridge and 0.
 
 ![Nozzle](/images/nozzle.webp){ align=right width="120" }
 
-You don't need to buy from Sovol since the hotend uses standard MK8 nozzles with M6 thread.
+Sovol SV06 uses standard MK8 nozzles with M6 thread, specifically a **Creality MK nozzle** used in CR-6 SE, Ender S1 and Sprite extruders from Creality. Any MK8 nozzle with M6 thread will also work with SV06's hotend. If a nozzle is a lot shorter you will need to adjust the ABL probe height.
 
-If you want the ones similar to the shipped one search for "CR-6 SE" or "Ender S1 nozzle"
+If you want the ones similar to original one search for "Creality MK", "CR-6 SE" or "Ender S1" nozzle
 
 [Amazon US](https://www.amazon.com/Creality-Nozzles-Extruder-Compatible-Filament/dp/B08W4F8TKK?crid=2I0S5F0ET7CB&keywords=ender+s1+mk8+nozzle&qid=1681064579&sprefix=ender+s1+mk8+nozzle%2Caps%2C202&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=f426fd34b17bd7c63e432cb2b719f83d&language=en_US&ref_=as_li_ss_tl){ .md-button }
 [Amazon DE](https://www.amazon.de/-/en/Printer-Silicone-Nozzles-Heating-Extruder/dp/B07PBW6T7S?&linkCode=ll1&tag=blakadders-20&linkId=26f3ca399fec9bfaa9abedd69f502a01&language=en_GB&ref_=as_li_ss_tl){ .md-button }
