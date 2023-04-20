@@ -21,7 +21,7 @@ Other sizes and hardened nozzles should be available late April.
 A similar nozzle from Creativity exists. It is 23mm long and the 0.5mm difference shouldn't be that significant.
 
 !!! tip "Buy from"
-    [AliExpress](https://s.click.aliexpress.com/e/_DC7XulR)
+    [AliExpress](https://s.click.aliexpress.com/e/_DC7XulR){ .md-button }
 
 ## Extruder Kit
 
