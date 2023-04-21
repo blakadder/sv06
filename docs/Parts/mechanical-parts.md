@@ -9,7 +9,7 @@ comments: true
 
 LM8UU linear bearings. IKO and Misumi are good quality brands.
 
-There are 10 bearings in total, 3 on the X-axis, Z-axis has 4 and 3 more on the Y-axis.
+There are 10 bearings in total, 3 on the X-axis, Z-axis has 4 and 3 more on the Y-axis. [Guide to replacing bearings](https://www.reddit.com/r/Sovol/comments/zxmt0g/comment/j214seu/).
 
 !!! tip "Buy from"
     [Amazon US](https://www.amazon.com/Genuine-E3D-LM8UU-Box-M-BEARINGS-LM8UU/dp/B07CZ3QCBQ?crid=2M7HT0V0CSSMM&qid=1681166087&s=industrial&sprefix=genuine+iko+lm8uu%2Cindustrial%2C200&sr=1-1&linkCode=ll1&tag=blakadders-20&linkId=7d88b81ca56a397467d95859c1a43e9b&language=en_US&ref_=as_li_ss_tl){ .md-button }
