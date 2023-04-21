@@ -47,7 +47,6 @@ SV06 original mainboard.
     [Amazon UK](https://www.amazon.co.uk/WINSINN-Cooling-40x40x10mm-Extruder-Makerbot/dp/B0757RPCN9?th=1&linkCode=ll1&tag=blakadders-20&linkId=6fbba8718fb66187c2c845d878eb8c45&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005003878703039.html?aff_fcid=6dd0e720b01c47f19b9a9f656f1fe010-1681574036321-04929-_DEuUX2H&tt=CPS_NORMAL&aff_fsk=_DEuUX2H&aff_platform=shareComponent-detail&sk=_DEuUX2H&aff_trace_key=6dd0e720b01c47f19b9a9f656f1fe010-1681574036321-04929-_DEuUX2H&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 
-
 ## Print Head PCB
 
 [![Extruder PCB](/images/extruder_board.webp)](/images/extruder_board.webp)
@@ -76,6 +75,12 @@ IEC320 C14 3-pin socket with a fuse. Connected to the power supply with 16AWG te
 
 [Wiring images](https://github.com/bassamanator/everything-sovol-sv06#psu-switch) by bassamanator
 
+## Power Supply Fan
+
+![6015 Axial Fan](/images/6015_axial.webp){ align=right width="80" }
+
+6015 24V 0.08A axial brushless fan with an JST XH2.54 2-Pin connector
+
 ## Wiring
 
 ### Print Head Cable
@@ -89,7 +94,6 @@ Cable looks exactly like Creality's Sprite Extruder replacement cable but is wir
 ### Display Cable
 
 [![Schematic](/images/sch_displaycable.jpg){ width="50%" }](/images/sch_displaycable.jpg)
-
 
 ### Double Z Axis Motor Wire
 

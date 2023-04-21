@@ -21,7 +21,7 @@ Here’s what the engineer suggests to rule out the bluescreen issues. I hope th
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p6l253OJa34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Blue/Black/Blank Screen issue
+## Blue/Black/Blank Screen issue
 
 [Reddit post](https://www.reddit.com/r/Sovol/comments/12686c3/how_to_troubleshoot_the_blueblackblank_issue_on/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -41,14 +41,28 @@ And then set the nozzle temp to 60 on the display and check if the hotbed is hea
 
 ## Poor extruding or extruder jammed 
 
-It is common[^1][^2] that the set screw (grub screw) holding the extrusion gear to the extruder motor shaft got loose and is rubbing against or catching on the extruder chassis. This manifests in under extrusions, extruder motor skips and ultimately extruder getting jamed.
+It is common[^1][^2] that the set screw (grub screw) holding the extrusion gear to the extruder motor shaft got loose and is rubbing against or catching on the extruder chassis. This manifests in under extrusions, extruder motor skips and ultimately extruder getting jammed.
+
+To fix or avoid the issue, first remove filament from the extruder. 
 
 <figure markdown>
-  ![Grub screw loose damage](/images/troubleshooting/loosesetscrew.webp)
-  <figcaption>Damage caused by loose set screw</figcaption>
+  ![Unscrew the extruder tensioner screw](/images/troubleshooting/extruder_screw1.webp)
+  <figcaption>Unscrew the extruder tensioner screw</figcaption>
 </figure>
 
-Remove filament from the extruder. Unscrew the extruder tension adjuster screw which holds the extruder lever. Now you can drop down the lever and look inside. Rotate the extruder knob until you can see the set screw. Tighten it up. Optionally you can add a drop of thread locker or clear nail polish to secure it. This might make future disassembly harder.
+<figure markdown>
+  ![Rotate the extruder until you see the grub screw and tighten it](/images/troubleshooting/extruder_screw2.webp)
+  <figcaption>Rotate the extruder until you see the grub screw and tighten it</figcaption>
+</figure>
+
+Optionally you can add a drop of thread locker (blue) or clear nail polish to secure it. This might make future disassembly harder.
+
+<figure markdown>
+  ![Grub screw needs to hold the shaft at the marked spot](/images/troubleshooting/extruder_screw3.webp)
+  <figcaption>Grub screw needs to grip the extruder shaft at the marked spot</figcaption>
+</figure>
+
+If you spot metal shavings you will need to [disassemble the extruder](https://youtu.be/mFIRd1ZH81I) and thoroughly clean it. If there is damage contact [Sovol support](https://sovol3d.com/pages/contact-us) and ask for a replacement.
 
 ## Dry noisy bearings 
 
