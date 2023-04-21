@@ -33,6 +33,8 @@ SV06 original mainboard.
     [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button }
 
 ??? info "Pinout"
+    [GDM32F103 Pins](https://forum.drucktipps3d.de/forum/thread/21977-pinbelegung-sovol-sv06-board-und-hotend-stecker/)
+    
     ![Mainboard](/images/motherboard_pinout.webp)
 
 ## Mainboard Fan

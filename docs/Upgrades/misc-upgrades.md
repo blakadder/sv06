@@ -14,3 +14,7 @@ RNC Nano Coated 8mm dual drive gears. Necessary if you're going to print some ve
 
 !!! tip "Buy from"
     [AliExpress](https://www.aliexpress.com/item/1005003489229336.html?aff_fcid=e485c4c83b8d445fbf7ec23cb5629314-1681809540283-02962-_DBAPudB&tt=CPS_NORMAL&aff_fsk=_DBAPudB&aff_platform=shareComponent-detail&sk=_DBAPudB&aff_trace_key=e485c4c83b8d445fbf7ec23cb5629314-1681809540283-02962-_DBAPudB&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+
+## SuperPINDA Mod
+
+[forum.drucktipps3d.de](https://forum.drucktipps3d.de/forum/thread/25599-sovol-sv06-superpinda-mod/) (in German)
