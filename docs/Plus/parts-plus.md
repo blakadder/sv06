@@ -125,3 +125,17 @@ You can change from linear ball bearings to Igus or Drylin bearings.
 ## Linear Rods
 
 Hardened steel 10mm diameter linear rods.[^1]
+
+## Motors
+
+### X-Axis
+
+NEMA17 42x34 42BYGH160-A-20DN from Shengyang Motors
+
+### Y-Axis
+
+NEMA17 42x34 1.2A 42D21C412-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
+
+### Z-Axis
+
+NEMA17 42x34 42BYGH160-A-20DN from Shengyang Motors
