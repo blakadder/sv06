@@ -128,14 +128,18 @@ Hardened steel 10mm diameter linear rods.[^1]
 
 ## Motors
 
-### X-Axis
+### X-Axis Motor
 
 NEMA17 42x34 42BYGH160-A-20DN from Shengyang Motors
 
-### Y-Axis
+### Y-Axis Motor
 
 NEMA17 42x34 1.2A 42D21C412-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
 
-### Z-Axis
+### Z-Axis Motor
 
 NEMA17 42x34 42BYGH160-A-20DN from Shengyang Motors
+
+### Extruder Motor
+
+NEMA17 42x23

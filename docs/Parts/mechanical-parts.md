@@ -66,17 +66,21 @@ D20L25 5x8x25mm Rigid Coupling
 
 ## Motors
 
-### X-Axis
+### X-Axis Motor
 
 NEMA17 42x34 1.3A 42D16C409-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
 
-### Y-Axis
+### Y-Axis Motor
 
 NEMA17 42x34 1.3A 42D16C409-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
 
-### Z-Axis
+### Z-Axis Motor
 
 NEMA17 42x34 0.8A 42D16C404-01 from [dgjlmotor.com](https://www.dgjlmotor.com)
+
+### Extruder Motor
+
+NEMA17 42x23
 
 [^1]: [Source](https://github.com/bassamanator/everything-sovol-sv06/#linear-motion-guide-rods)
 [^2]: [Source](https://forum.sovol3d.com/t/z-axis-lead-screw/1246)
