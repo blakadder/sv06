@@ -124,7 +124,7 @@ You can change from linear ball bearings to Igus or Drylin bearings.
 
 ## Linear Rods
 
-Hardened steel 10mm diameter linear rods.[^1]
+Hardened steel 10mm diameter linear rods.
 
 ## Motors
 
