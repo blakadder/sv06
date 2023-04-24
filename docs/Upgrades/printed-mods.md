@@ -75,3 +75,10 @@ This cable chain (spine) supports the extruder ribbon cable and stops it from sa
 [@rogerquin on Printables](https://www.printables.com/model/447467-cable-chain-spine-for-sovol-sv06-3d-printer-extrud)
 
 <iframe width="200" height="356" src="https://www.youtube.com/embed/bT2nM9XymbM" title="Cable spine for Sovol SV06 (Plus)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## ABL Probe Mount Mod
+
+New probe mount if your probe mount is deformed and sits too high when screwed tightly.
+
+[@SteveandBob on Thingiverse](https://www.thingiverse.com/thing:5988095)
+
