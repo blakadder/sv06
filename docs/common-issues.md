@@ -13,7 +13,7 @@ Can be caused by many factors:
 
 ## Hotend not level
 
-The nozzle sits at an angle and is not paralled to the axes. This commonly happens to a bent heatbreak. Some printers will print fine with this issue but others will show symptoms of un-levelled bed, it all depends on the way it bends and the severity of the bend.
+The nozzle sits at an angle and is not parallel to the axes. This commonly happens to a bent heatbreak. Some printers will print fine with this issue but others will show symptoms of un-levelled bed, it all depends on the way it bends and the severity of the bend.
 
 This is a known factory assembly issue but can also be caused from excessive mechanical stress when changing the nozzle or improperly tightened screws (two) mounting the hotend to the extruder. 
 

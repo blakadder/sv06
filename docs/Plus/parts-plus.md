@@ -18,10 +18,15 @@ Uses non-standard high flow nozzles. They look similar to Volcano nozzles but wi
 
 Other sizes and hardened nozzles should be available late April.
 
-A similar nozzle from Creativity exists. It is 23mm long and the 0.5mm difference shouldn't be that significant.
+Similar nozzles from Creativity and Polisi3D exist. They are 23mm long and the 0.5mm difference shouldn't be that significant.
 
 !!! tip "Buy from"
     [AliExpress](https://s.click.aliexpress.com/e/_DC7XulR){ .md-button }
+    [Amazon US](https://www.amazon.com/Temperature-Hardened-Artillery-Sidewinder-Printing/dp/B08963FRM2?th=1&linkCode=ll1&tag=blakadders-20&linkId=4a2eca00f0dfa4a54b6a98db72edda0f&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon CA](https://www.amazon.ca/dp/B08963FRM2?th=1&linkCode=ll1&tag=tasmotatemp03-20&linkId=283b46179d799411be6f9e6ef37d9332&language=en_CA&ref_=as_li_ss_tl){ .md-button }
+    [Amazon UK](https://www.amazon.co.uk/Temperature-Hardened-Artillery-Sidewinder-Printing/dp/B08963FRM2?th=1&linkCode=ll1&tag=blakadders-20&linkId=ad7bc7566dbb4479180857819443dfc8&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/dp/B08963FRM2?th=1&linkCode=ll1&tag=blakadders-20&linkId=5ea3a393c103bee273e5b3a362aeff20&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [Amazon SE](https://www.amazon.se/dp/B08963FRM2?th=1&linkCode=ll1&tag=blakadder06-21&linkId=d144098893c867241a296086932255ad&language=sv_SE&ref_=as_li_ss_tl){ .md-button }
 
 ## Extruder Kit
 
@@ -30,7 +35,7 @@ A similar nozzle from Creativity exists. It is 23mm long and the 0.5mm differenc
 Complete extruder assembly including the extruder, hotend, bed probe and fans. Drop in replacement for the existing one.
 
 !!! tip "Buy from"
-    [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-original-all-metal-planetary-direct-drive-extruder?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button } 
+    [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-original-all-metal-planetary-direct-drive-extruder?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
 
 ## Hotend Kit
 
@@ -119,4 +124,22 @@ You can change from linear ball bearings to Igus or Drylin bearings.
 
 ## Linear Rods
 
-Hardened steel 10mm diameter linear rods.[^1]
+Hardened steel 10mm diameter linear rods.
+
+## Motors
+
+### X-Axis Motor
+
+NEMA17 42x34 42BYGH160-A-20DN from Shengyang Motors
+
+### Y-Axis Motor
+
+NEMA17 42x34 1.2A 42D21C412-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
+
+### Z-Axis Motor
+
+NEMA17 42x34 42BYGH160-A-20DN from Shengyang Motors
+
+### Extruder Motor
+
+NEMA17 42x23

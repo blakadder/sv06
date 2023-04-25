@@ -71,6 +71,10 @@ Two gears responsible for driving the filament to the hotend. Same ones are used
 
 Three T27 spur gears. Same ones are used in the [Orbiter Extruder](https://www.orbiterprojects.com/orbiter-1-5/).
 
+| Outer Dia. | Inner Dia. | Thick | Teeth |
+| - | - | - | - |
+| 14.5mm | 5mm | 3.75mm | 27 |
+
 !!! tip "Buy from"
     [AliExpress](https://www.aliexpress.com/item/1005002371687284.html?aff_fcid=ffeb3e425adb4557a7a3e00730621e69-1681807131048-04031-_De864ZJ&tt=CPS_NORMAL&aff_fsk=_De864ZJ&aff_platform=shareComponent-detail&sk=_De864ZJ&aff_trace_key=ffeb3e425adb4557a7a3e00730621e69-1681807131048-04031-_De864ZJ&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
 

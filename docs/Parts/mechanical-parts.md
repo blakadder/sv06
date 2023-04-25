@@ -18,7 +18,7 @@ There are 10 bearings in total, 3 on the X-axis, Z-axis has 4 and 3 more on the 
     [AliExpress](https://www.aliexpress.com/item/1005002667827889.html?aff_fcid=d33c53b3544f45789091d555e694a078-1681165359598-03743-_DlPHABJ&tt=CPS_NORMAL&aff_fsk=_DlPHABJ&aff_platform=shareComponent-detail&sk=_DlPHABJ&aff_trace_key=d33c53b3544f45789091d555e694a078-1681165359598-03743-_DlPHABJ&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
     [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fe3d%2Flinear-ball-bearings-set-of-2){ .md-button }
 
-You can change from linear ball bearings to Igus or Drylin bearings. [More info...](https://www.reddit.com/r/Sovol/comments/128hf2a/lm8uu_vs_igus_rj4jp_drylin/?utm_source=share&utm_medium=web2x&context=3) 
+You can change from linear ball bearings to Igus Drylin or similar polymer bearings. [More info...](https://www.reddit.com/r/Sovol/comments/128hf2a/lm8uu_vs_igus_rj4jp_drylin/?utm_source=share&utm_medium=web2x&context=3) 
 
 ## Belts
 
@@ -66,7 +66,21 @@ D20L25 5x8x25mm Rigid Coupling
 
 ## Motors
 
-Motors that drive the three axes are NEMA17 42-34 0.8A motors.
+### X-Axis Motor
+
+NEMA17 42x34 1.3A 42D16C409-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
+
+### Y-Axis Motor
+
+NEMA17 42x34 1.3A 42D16C409-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
+
+### Z-Axis Motor
+
+NEMA17 42x34 0.8A 42D16C404-01 from [dgjlmotor.com](https://www.dgjlmotor.com)
+
+### Extruder Motor
+
+NEMA17 42x23
 
 [^1]: [Source](https://github.com/bassamanator/everything-sovol-sv06/#linear-motion-guide-rods)
 [^2]: [Source](https://forum.sovol3d.com/t/z-axis-lead-screw/1246)
