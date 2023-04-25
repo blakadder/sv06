@@ -4,14 +4,14 @@
 
 SV06 printer profile is included in Cura v5.3+
 
-## Material Profiles
+### Material Profiles
 
 - [PETG](/files/PETG.curaprofile)
 - [PETG for 0.6 nozzle](/files/jeremy_petg_06_super_fast.curaprofile)
 - [TPU](/files/TPU.curaprofile)
 - [TPU for 0.6 nozzle](/files/TPU_06.curaprofile)
 
-## Improved Startup G-Code
+### Improved Startup G-Code
 
 ??? info "G-Code"
     ```gcode
@@ -37,6 +37,10 @@ SV06 printer profile is included in Cura v5.3+
     G92 E0 ; Reset Extruder
     G1 Z 3.0 F3000 ; Move Z up to prevent Scratching
     ```
+
+### SV06 Plus Profile
+
+[https://www.reddit.com/r/Sovol/comments/12ycn1g/tip_this_is_how_you_can_import_sovol_slicers_sv06/](https://www.reddit.com/r/Sovol/comments/12ycn1g/tip_this_is_how_you_can_import_sovol_slicers_sv06/)
 
 ## PrusaSlicer
 

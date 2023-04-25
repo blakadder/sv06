@@ -34,7 +34,7 @@ If you want the ones similar to original one search for "Creality MK", "CR-6 SE"
 [Amazon DE](https://www.amazon.de/-/en/Printer-Silicone-Nozzles-Heating-Extruder/dp/B07PBW6T7S?&linkCode=ll1&tag=blakadders-20&linkId=26f3ca399fec9bfaa9abedd69f502a01&language=en_GB&ref_=as_li_ss_tl){ .md-button }
 [AliExpress](https://www.aliexpress.com/item/1005004402619598.html?aff_fcid=1d189084d0a44c828d76e59ee994cb8c-1681064720714-05879-_Dn4GBMN&tt=CPS_NORMAL&aff_fsk=_Dn4GBMN&aff_platform=shareComponent-detail&sk=_Dn4GBMN&aff_trace_key=1d189084d0a44c828d76e59ee994cb8c-1681064720714-05879-_Dn4GBMN&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 
-[See here for upgrades.](/Upgrades/nozzle-upgrades.md)
+[See here for upgrades.](/Upgrades/nozzle-upgrades)
 
 ## Bi-Metal Heatbreak
 
