@@ -130,16 +130,16 @@ Hardened steel 10mm diameter linear rods.
 
 ### X-Axis Motor
 
-NEMA17 42x34 42BYGH160-A-20DN from Shengyang Motors
+NEMA17 42-34 1.3A 1.8° D5, shaft length 24mm, 42BYGH160-A-20DN from Shengyang Motors
 
 ### Y-Axis Motor
 
-NEMA17 42x34 1.2A 42D21C412-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
+NEMA17 42-40 1.2A 1.8° D5, shaft length 24mm, 42D21C412-02 from [dgjlmotor.com](https://www.dgjlmotor.com)
 
 ### Z-Axis Motor
 
-NEMA17 42x34 42BYGH160-A-20DN from Shengyang Motors
+NEMA17 42-34 0.8A 1.8° D5, shaft length 24mm, 42BYGH160-A-20DN from Shengyang Motors
 
 ### Extruder Motor
 
-NEMA17 42x23
+NEMA17 42-23 stepper motor (double output with gear).
