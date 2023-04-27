@@ -5,6 +5,7 @@
 Original Sovol firmware. Firmware from 23 Feb 2023 is v1.1.4 shipped with SV06 Plus.
 
 [Download](https://sovol3d.com/pages/download){ .md-button }
+[Source](https://github.com/Sovol3d/SV06-PLUS){ .md-button }
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b2jUo1KnxZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
