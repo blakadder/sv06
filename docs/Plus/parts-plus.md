@@ -122,6 +122,19 @@ There are 11 bearings in total, 3 on the X-axis, Z-axis has 4 and 4 more on the 
 
 You can change from linear ball bearings to Igus or Drylin bearings.
 
+## Hotend Thermistor
+
+| Rating | Size | Connection | Cable Length |
+| - | - | - | - |
+| NTC100KΩ 3950K | 2mm | XH 1.25mm 2-Pin | 40mm |
+
+Identical to the one used in Ender S1 Pro.
+
+!!! tip "Buy from"
+    [Amazon US](https://www.amazon.com/dp/B09QPH3HMR?&linkCode=ll1&tag=blakadders-20&linkId=4560614c39d87bc294cd667a22802807&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/dp/B09QPH3HMR?&linkCode=ll1&tag=blakadders-20&linkId=490995f89152041043b6c4c7c89a41cb&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005005428934207.html?aff_fcid=3cd15a52469a450ea456c98a38bd80e1-1682672434742-07683-_DlpSGX7&tt=CPS_NORMAL&aff_fsk=_DlpSGX7&aff_platform=shareComponent-detail&sk=_DlpSGX7&aff_trace_key=3cd15a52469a450ea456c98a38bd80e1-1682672434742-07683-_DlpSGX7&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
+
 ## Linear Rods
 
 Hardened steel 10mm diameter linear rods.
@@ -143,3 +156,4 @@ NEMA17 42-34 0.8A 1.8° D5, shaft length 24mm, 42BYGH160-A-20DN from Shengyang M
 ### Extruder Motor
 
 NEMA17 42-23 stepper motor (double output with gear).
+
