@@ -65,7 +65,7 @@ SV06 original mainboard.
 
 Comes as part of the [complete extruder kit](/Parts/extruder-parts.md), currently not available to buy separately.
 
-??? tip "Pinout for the mainboard cable
+??? tip "Pinout for the mainboard cable"
     [![Extruder Cable plug pinout](/images/extruder_cable_pinout.jpg)](/images/extruder_cable_pinout.jpg)
 
 ## Power Supply Socket with Switch
