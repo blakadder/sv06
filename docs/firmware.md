@@ -108,3 +108,7 @@ Borrowed from: <https://dev.to/wallclocks/enable-buzzer-in-klipper-for-creality-
 ### Guided filament change macro
 
 <https://www.reddit.com/r/klippers/comments/m57iai/mom_my_overpowered_m600_command/>
+
+### Home Assistant Integration
+
+<https://github.com/fryc88/HomeAssistant-Moonraker-for-Klipper>
