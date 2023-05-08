@@ -14,8 +14,9 @@ Uses non-standard high flow nozzles. They look similar to Volcano nozzles but wi
 | - | - | - | 
 | 23.5mm | 15.5mm | 8mm | 
 
-!!! tip "Buy from"
-    [Buy from Sovol Store](https://sovol3d.com/products/sovol-sv06-plus-high-flow-nozzle-0-4mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
+!!! tip "Buy nozzles Sovol store"
+    [0.4 Standard](https://sovol3d.com/products/sovol-sv06-plus-high-flow-nozzle-0-4mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
+    [0.4/0.6/0.8 Hardened](https://sovol3d.com/collections/sv06-plus-replacement-parts-1/products/sv06-plus-hardened-tool-steel-tungsten-nozzles-0-4-0-6-0-8-1mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
 
 Other sizes and hardened nozzles should be available late April.
 
