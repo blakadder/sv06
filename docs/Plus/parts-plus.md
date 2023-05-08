@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Parts list for SV06 Plus
+description: Parts list for SV06 Plus
 ---
 # Parts for SV06 Plus
 

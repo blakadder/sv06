@@ -1,3 +1,8 @@
+---
+description: Parts for Sovol SV06 printable by yourself
+comments: true
+---
+
 # Printable
 
 ## Sovol Colored Filament

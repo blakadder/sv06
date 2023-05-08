@@ -1,5 +1,5 @@
 ---
-title: Upgrades for Sovol SV06 Plus
+description: Upgrades for Sovol SV06 Plus
 comments: true
 ---
 

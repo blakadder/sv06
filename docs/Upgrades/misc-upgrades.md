@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Upgrades for Sovol SV06
+description: Upgrades for Sovol SV06
 ---
 
 # Other Upgrades

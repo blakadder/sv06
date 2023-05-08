@@ -1,6 +1,8 @@
 ---
+description: Hotend parts for Sovol SV06
 comments: true
 ---
+
 
 # Hotend
 

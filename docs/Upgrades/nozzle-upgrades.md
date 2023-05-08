@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Nozzle Upgrades for Sovol SV06
+description: Nozzle Upgrades for Sovol SV06
 ---
 
 # Nozzle Upgrades

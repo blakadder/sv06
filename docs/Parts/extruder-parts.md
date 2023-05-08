@@ -1,6 +1,8 @@
 ---
+description: Extruder parts for Sovol SV06
 comments: true
 ---
+
 # Extruder
 
 ## Complete Kit

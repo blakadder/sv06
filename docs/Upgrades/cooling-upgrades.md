@@ -1,5 +1,5 @@
 ---
-title: Cooling and Fan Upgrades for Sovol SV06
+description: Cooling and Fan Upgrades for Sovol SV06
 comments: true
 ---
 

@@ -1,3 +1,8 @@
+---
+description: Troubleshooting Sovol SV06 (Plus) problems
+comments: true
+---
+
 # Troubleshooting 
 
 ## General 3D Printer Troubleshooting

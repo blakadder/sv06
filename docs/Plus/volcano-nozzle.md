@@ -1,6 +1,8 @@
 ---
+description: How to replace the Sovol SV06 Plus nozzle with a standar Volcano style one
 comments: true
 ---
+
 
 # Use volcano nozzles
 

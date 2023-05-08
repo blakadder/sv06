@@ -1,4 +1,5 @@
 ---
+description: Electronic parts for Sovol SV06
 comments: true
 ---
 

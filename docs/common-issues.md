@@ -1,3 +1,8 @@
+---
+description: Common SV06 issues and solutions
+comments: true
+---
+
 # Common Issues
 
 ## No bed adhesion

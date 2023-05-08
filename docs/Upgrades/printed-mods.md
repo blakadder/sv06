@@ -1,6 +1,8 @@
 ---
+description: Printable modifications for Sovol SV06
 comments: true
 ---
+
 
 # Easy Printed Mods
 

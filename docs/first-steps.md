@@ -1,5 +1,6 @@
 ---
 comments: true
+title: First steps to do when you get your Sovol SV06 (Plus) printer
 ---
 
 # First Steps

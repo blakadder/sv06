@@ -1,6 +1,8 @@
 ---
+description: Print bed parts for Sovol SV06
 comments: true
 ---
+
 
 # Print Bed
 

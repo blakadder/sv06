@@ -1,6 +1,8 @@
 ---
+description: Firmware options for Sovol SV06
 comments: true
 ---
+
 # Firmware
 
 ## How to flash firmware

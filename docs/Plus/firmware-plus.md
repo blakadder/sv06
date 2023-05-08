@@ -1,3 +1,8 @@
+---
+description: Firmware for Sovol SV06 Plus
+comments: true
+---
+
 # Firmware for SV06 Plus
 
 ## Sovol Firmware

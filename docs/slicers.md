@@ -1,3 +1,8 @@
+---
+description: Slicer configurations for Sovol SV06 (Plus)
+comments: true
+---
+
 # Slicer Configurations
 
 ## Cura

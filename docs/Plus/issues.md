@@ -1,3 +1,8 @@
+---
+description: Sovol SV06 Plus specific issues and troubleshooting
+comments: true
+---
+
 # SV06 Plus Specific Issues
 
 ## Silicone sock doesn't fit

@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Power Supply Upgrades for Sovol SV06
+description: Power Supply Upgrades for Sovol SV06
 ---
 
 # Power Supply Upgrades
