@@ -1,6 +1,8 @@
 ---
 comments: true
+title: Nozzle Upgrades for Sovol SV06
 ---
+
 # Nozzle Upgrades
 
 Sovol SV06 uses standard MK8 nozzles with M6 thread, specifically a Creality MK nozzle used in CR-6 SE, Ender S1 and Sprite extruders from Creality. Any MK8 nozzle with M6 thread will also work with SV06's hotend. If a nozzle is a lot shorter you will need to adjust the ABL probe height.
@@ -14,6 +16,7 @@ You need hardened nozzles when printing more abrasive materials which quickly de
 - Creality MK8 from [Amazon.de](https://www.amazon.de/dp/B0B96Z2TZV?_encoding=UTF8&psc=1&linkCode=ll1&tag=blakadders-20&linkId=16c56d9bd09a4c0e48c373f0796af112&language=en_GB&ref_=as_li_ss_tl)
 - Phaetus x PrimaCreator MK8 Tungsten Nozzle from [Amazon.de](https://www.amazon.de/gp/product/B07XM5PCHD?fbclid=IwAR1_3IJNH31c-fviXcG2RZHxjdkfWXgNOA95i4DDZNilaWe9rEiU5GK7RE4&th=1&linkCode=ll1&tag=blakadders-20&linkId=951d67a2fe5a677e2a4f3a7329e94b46&language=en_GB&ref_=as_li_ss_tl)
 - SE6 Chrome Zirconium Copper ([AliExpress](https://www.aliexpress.com/item/1005004795792640.html?aff_fcid=91cb58b12bb248c198701555da92fcba-1681556050822-07564-_DCFNMYH&tt=CPS_NORMAL&aff_fsk=_DCFNMYH&aff_platform=shareComponent-detail&sk=_DCFNMYH&aff_trace_key=91cb58b12bb248c198701555da92fcba-1681556050822-07564-_DCFNMYH&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y))
+- TH3D EZFlow copper, high-flow, wear resistant nozzles - ([TH3D](https://www.th3dstudio.com/product/sovol-sv06-copper-high-flow-nozzles-ezflow/?share=blakadder&campaign=sovol))
 
 ## CHT High Flow
 

@@ -1,3 +1,8 @@
+---
+title: Cooling and Fan Upgrades for Sovol SV06
+comments: true
+---
+
 # Cooling Upgrades
 
 ## Heatbreak fan adapter to 4020
@@ -24,3 +29,6 @@ Fan duct for 5015 fan optimized with Computational Fluid Dynamics (CFD) Version 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hw39j5DV56M" title="Added a 5015 Blower Fan to my Sovol SV06" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## TH3D 5015 Upgrade Kit
+
+Kit includes an ABS printed 5015 fan mount along with the 5015 fan and all the nuts, bolts, and washers to install the kit on your SV06. Available from [TH3D](https://www.th3dstudio.com/product/sovol-sv06-5015-layer-fan-upgrade-kit/?share=blakadder&campaign=sovol).

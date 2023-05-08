@@ -1,5 +1,6 @@
 ---
 comments: true
+title: Mehanical parts for SV06
 ---
 # Mechanical
 
