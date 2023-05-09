@@ -50,8 +50,9 @@ plugins:
   - search
   - tags
   - social:
-      cards_font: Roboto
-      cards: !ENV [CARDS, false]
+      cards_layout_options:
+        background_color: "#CC5500" 
+        font_family: Roboto
 
 markdown_extensions:
   - attr_list
