@@ -51,7 +51,7 @@ plugins:
   - tags
   - social:
       cards_layout_options:
-        background_color: "#CC5500" 
+        background_color: teal
         font_family: Roboto
 
 markdown_extensions:
