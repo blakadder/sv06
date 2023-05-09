@@ -39,9 +39,9 @@ screw3_name: F _RIGHT
 screw4: 164,136
 screw4_name: F_CENT _RIGHT
 screw5: 84, 216
-screw5_name: B_CENT _RIGHT
+screw5_name: B_CENT _LEFT
 screw6: 164,216
-screw6_name: B_CENT _LEFT
+screw6_name: B_CENT _RIGHT
 screw7: 5,295
 screw7_name: B _LEFT
 screw8: 244,295
