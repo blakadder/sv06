@@ -51,7 +51,7 @@ plugins:
   - tags
   - social:
       cards_layout_options:
-        background_color: "#008B8B"
+        background_color: "#5F9EA0"
         font_family: Roboto
 
 markdown_extensions:
