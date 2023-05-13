@@ -1,15 +1,14 @@
 ---
 description: Hotend parts for Sovol SV06
 comments: true
+title: Hot End Parts for SV06
+description: List of parts used in Sovol SV06 hot end.
 ---
-
-
-# Hotend
 
 ## Complete Kit
 
 ![Hotend Kit](/images/hotend.webp){ align=left width="150" }
-Complete drop-in replacement with heatbreak, thermistor, heater cartridge and 0.4 nozzle.
+Complete drop-in replacement with heat break, thermistor, heater cartridge and 0.4 nozzle.
 
 !!! tip "Buy from"
     [Amazon US](https://www.amazon.com/Sovol-SV06-Hotend-Kit-Thermistor/dp/B0BQC82P3D?&linkCode=ll1&tag=blakadders-20&linkId=f337b5a67369c624c6e504f39b253e01&language=en_US&ref_=as_li_ss_tl){ .md-button }
@@ -38,20 +37,20 @@ If you want the ones similar to original one search for "Creality MK", "CR-6 SE"
 
 [See here for upgrades.](/Upgrades/nozzle-upgrades)
 
-## Bi-Metal Heatbreak
+## Bi-Metal Heat Break
 
-| Length | Heatbreak body | Outer Dia. | Inner Dia. | Heatblock thread |
+| Length | Heat Break body | Outer Dia. | Inner Dia. | Heat Block Thread |
 | - | - | - | - | - |
 | 22mm | 15mm | 7mm | 2mm | M6 |
 
-Sovol SV04 heatbreak does not fit in the sv06 extruder
+Sovol SV04 heat break does not fit in the SV06 Extruder
 
 Aftermarket replacement[^bassamanator]:
 
 [AliExpress](https://www.aliexpress.com/item/1005002776624332.html?aff_fcid=3c82ff6a6222487a9db39ca57a407ed6-1681138884028-08152-_DD2BFNn&tt=CPS_NORMAL&aff_fsk=_DD2BFNn&aff_platform=shareComponent-detail&sk=_DD2BFNn&aff_trace_key=3c82ff6a6222487a9db39ca57a407ed6-1681138884028-08152-_DD2BFNn&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button } 
-[Amazon US](https://www.amazon.de/-/en/Bi-Metal-Heatbreak-Copper-Volcano-Filament/dp/B093MFB98F?crid=WYSOJKSIOZ24&keywords=bimetall+heatbreak&qid=1681139754&sprefix=bi-metal+heatbreak%2Caps%2C113&sr=8-10&linkCode=ll1&tag=blakadders-20&linkId=0c6cfeba375e5bd125f69a352a4e83b5&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+[Amazon US](https://www.amazon.de/-/en/Bi-Metal-Heatbreak-Copper-Volcano-Filament/dp/B093MFB98F?crid=WYSOJKSIOZ24&keywords=bimetall+heat break&qid=1681139754&sprefix=bi-metal+heat break%2Caps%2C113&sr=8-10&linkCode=ll1&tag=blakadders-20&linkId=0c6cfeba375e5bd125f69a352a4e83b5&language=en_GB&ref_=as_li_ss_tl){ .md-button }
 
-Search terms: _"Prusa i3 MK3 heatbreak"_
+Search terms: _"Prusa i3 MK3 heat break"_
 
 ![Heatbreak](/images/heatbreak.webp)
 

@@ -1,10 +1,9 @@
 ---
 hide:
   - toc
-title: Sovol SV06 and SV06 Plus Knowledge Base
-description: Information, guides, parts, mods and upgrades for Sovol SV06 and SV06 Plus 3D printers
+title: SV06 Knowledge Base
+description: Everything about Sovol SV06 and SV06 Plus 3D printers. Parts list, guides, troubleshooting, upgrades and mods.
 ---
-# Welcome
 
 Sovol SV06 is an open sourced 3D printer with lots of information dispersed online between forums, reddit and Facebook groups. This is my attempt to gather and curate all the available information into one organised knowledge base.
 

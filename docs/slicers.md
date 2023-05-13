@@ -1,9 +1,8 @@
 ---
-description: Slicer configurations for Sovol SV06 (Plus)
 comments: true
+title: Slicer Configurations for SV06 (Plus)
+description: Slicer configurations for SV06 and SV06 Plus (Cura, PrusaSlicer, OrcaSlicer, SuperSlicer)
 ---
-
-# Slicer Configurations
 
 ## Cura
 
@@ -95,3 +94,9 @@ SoftFever/OrcaSlicer configuration with nozzle 0.4 base Marlin profile and a 0.6
 
 [Download](/files/SoftFever.rar){ .md-button .md-button--primary }
 
+## SuperSlicer
+
+bassamanator's profile
+
+[SV06](https://github.com/bassamanator/Sovol-SV06-firmware/blob/master/misc/){ .md-button .md-button--primary }
+[SV06 Plus](https://github.com/bassamanator/Sovol-SV06-firmware/tree/sv06-plus/misc){ .md-button .md-button--primary }

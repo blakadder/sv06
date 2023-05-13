@@ -1,9 +1,8 @@
 ---
-description: Firmware for Sovol SV06 Plus
 comments: true
+title: Firmware for SV06 Plus
+description: Firmware upgrades and configurations for SV06 Plus
 ---
-
-# Firmware for SV06 Plus
 
 ## Sovol Firmware
 
@@ -14,7 +13,7 @@ Original Sovol firmware. Firmware from 23 Feb 2023 is v1.1.4 shipped with SV06 P
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b2jUo1KnxZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Klipper 
+## Klipper
 
 ### One-Stop-Shop Sovol SV06 Plus Klipper Configuration
 

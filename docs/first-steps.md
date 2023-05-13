@@ -1,9 +1,8 @@
 ---
 comments: true
-title: First steps to do when you get your Sovol SV06 (Plus) printer
+title: First Steps with a New Sovol SV06 or SV06 Plus
+description: Necessary steps to take with a new SV06 or SV06 Plus printer.
 ---
-
-# First Steps
 
 When you receive your SV06 (Plus) and assemble it per instructions do these steps first to avoid most common pitfalls.
 
