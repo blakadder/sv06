@@ -14,6 +14,10 @@ Replace Sovol's nozzle with a typical Volcano nozzle. [Instructions here](/Plus/
 
 ![Hurricane](/images/plus/upgrades/hurricane.webp){ width="150" }
 
+## Nozzle LED Light
+
+[Instructions](/upgrades/nozzle-led.md)
+
 ## CR Touch Probe
 
 Replace the inductive probe with a Creality CR-Touch ([Amazon](https://www.amazon.com/Professional-Auto-Leveling-Specially-Designed/dp/B0979F7RWN?crid=1MSC9M58TGJF1&keywords=cr+touch&qid=1681466792&sprefix=cr+%2Caps%2C616&sr=8-3&linkCode=ll1&tag=blakadders-20&linkId=31d299c65d33f37e51c522d4ff1c688b&language=en_US&ref_=as_li_ss_tl))
