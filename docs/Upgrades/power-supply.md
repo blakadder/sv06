@@ -29,8 +29,15 @@ Upgrade the cheaply built power supply with a better power supply. Meanwell LRS-
 
 See [video for comparison](https://www.youtube.com/watch?v=2u8GBGv_-go).
 
-## 70mm Fan Noise Reduction
+## 70mm Fan Mod
 
-Change original power supply to a silent 70mm fan. You'll need to print a new PSU cover.
+Change original power supply fan to a silent 70mm fan. You'll need to print a new PSU cover.
 
 [@felixna on Printables](https://www.printables.com/model/341847)
+
+## 80mm Fan Mod
+
+Change original power supply fan to a silent 80mm fan. You'll need to print a new PSU cover.
+
+[@crasbe on Printables](https://www.printables.com/model/437662-remix-sovol-sv06-psu-case-cover-for-silent-80mm-fa)
+

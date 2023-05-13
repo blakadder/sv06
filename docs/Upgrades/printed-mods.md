@@ -5,9 +5,6 @@ title: Printable Upgrades for SV06
 description: Upgrades and mods for SV06 you can print yourself.
 ---
 
-
-# Easy Printed Mods
-
 Make sure to give a like to the designers and post your make.
 
 See [list of filaments](/Parts/printable-parts/#sovol-colored-filament) that are close to SV06's color.
@@ -86,3 +83,8 @@ New probe mount if your probe mount is deformed and sits too high when screwed t
 
 [@SteveandBob on Thingiverse](https://www.thingiverse.com/thing:5988095)
 
+## Bowden Tube Extruder Mount
+
+Bowden tube mount for M6 bowden coupler.
+
+[@Leander Perez Blanco on Thingiverse](https://www.printables.com/model/462049-sovol-sv06-plus-bowden-tube-mount)

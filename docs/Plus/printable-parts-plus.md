@@ -16,3 +16,8 @@ This is a simple support to move the display in any position on your desk.
 
 [@the3dhammer on Printables](https://www.printables.com/model/305352)
 
+## Power Supply 92mm Fan Mod
+
+Change original power supply fan to a silent 92mm fan. You'll need to print a new PSU cover.
+
+[@DevCyclops on Printables](https://www.printables.com/model/463200-sovol-sv06-plus-power-supply-cover-92mm-fan)
