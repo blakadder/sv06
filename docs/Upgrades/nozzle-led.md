@@ -7,14 +7,15 @@ description: Add lights to the SV06 (Plus) extruder to easier inspect the print 
 You've seen [SV07](https://sovol3d.com/products/sovol-sv07-klipper-direct-drive-3d-printer-print-speed-250mm-s?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol) LED light and now you're jealous? No need for that anymore!
 
 !!! warning "This modification doesn't work with stock part cooling fan" 
-    You need to [upgrade the fan](/Upgrades/cooling-upgrades.md) to a different orientation.
+    You need to [move the stock fan](http://127.0.0.1:8000/Upgrades/printed-mods/#back-mounted-stock-part-cooling-fan) or [upgrade the fan](/Upgrades/cooling-upgrades.md) 
+    to a different orientation.
 
 You will need the following to build your own nozzle LED:
 1. 5V COB 320/m natural white LED strip: [Amazon](https://www.amazon.com/Powered-Density-Backlight-Bedroom-Lighting/dp/B0BK8MJF6W?crid=30T5GXQ6U5ML&keywords=5v%2Bcob%2Bled%2B320&qid=1683997218&sprefix=5v%2Bcob%2Bled%2B320%2Caps%2C186&sr=8-25&th=1&linkCode=ll1&tag=blakadders-20&linkId=622711267f67e3dd7ee4cd798b88db39&language=en_US&ref_=as_li_ss_tl), [AliExpress](https://www.aliexpress.com/item/1005003307581709.html?aff_fcid=e81223618e5d438eb4eb150dc91dbdf4-1683997769400-03610-_DkUXSZ3&tt=CPS_NORMAL&aff_fsk=_DkUXSZ3&aff_platform=shareComponent-detail&sk=_DkUXSZ3&aff_trace_key=e81223618e5d438eb4eb150dc91dbdf4-1683997769400-03610-_DkUXSZ3&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y)
 2. JST 1.25 3-pin male connector with wires: [AliExpress](https://www.aliexpress.com/item/1005002332868366.html?aff_fcid=bf906959668142fbaa9e87880fb37b25-1683997737882-05066-_Dkbww29&tt=CPS_NORMAL&aff_fsk=_Dkbww29&aff_platform=shareComponent-detail&sk=_Dkbww29&aff_trace_key=bf906959668142fbaa9e87880fb37b25-1683997737882-05066-_Dkbww29&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y)
 3. Soldering iron and solder
 
-Print the LED strip mount from [Printables](https://www.printables.com/model/452216-sv06-plus-vortex-v2-adjustable-cooling-led-system/files)(Only the LED Mount STL file). It is recommended to print it with ASA or PETG.
+Print the LED strip mount from [Printables](https://www.printables.com/model/452216-sv06-plus-vortex-v2-adjustable-cooling-led-system/files) (Only the LED Mount STL file). It is recommended to print it with ASA or PETG.
 
 Cut a piece of the LED strip that fits the LED mount. My LED strip had the copper tabs spaced exactly to length.
 
