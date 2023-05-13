@@ -4,7 +4,7 @@ title: Add LED lights to SV06 extruder
 description: Add lights to the SV06 (Plus) extruder to easier inspect the print and nozzle.
 ---
 
-You've seen SV07's LED light and now you're jealous? No need for that anymore!
+You've seen [SV07](https://sovol3d.com/products/sovol-sv07-klipper-direct-drive-3d-printer-print-speed-250mm-s?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol) LED light and now you're jealous? No need for that anymore!
 
 !!! warning "This modification doesn't work with stock part cooling fan" 
     You need to [upgrade the fan](/Upgrades/cooling-upgrades.md) to a different orientation.
