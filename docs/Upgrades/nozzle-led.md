@@ -7,7 +7,7 @@ description: Add lights to the SV06 (Plus) extruder to easier inspect the print 
 You've seen [SV07](https://sovol3d.com/products/sovol-sv07-klipper-direct-drive-3d-printer-print-speed-250mm-s?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol) LED light and now you're jealous? No need for that anymore!
 
 !!! warning "This modification doesn't work with stock part cooling fan" 
-    You need to [move the stock fan](http://127.0.0.1:8000/Upgrades/printed-mods/#back-mounted-stock-part-cooling-fan) or [upgrade the fan](/Upgrades/cooling-upgrades.md) 
+    You need to [move the stock fan](/Upgrades/printed-mods/#back-mounted-stock-part-cooling-fan) or [upgrade the fan](/Upgrades/cooling-upgrades.md) 
     to a different orientation.
 
 You will need the following to build your own nozzle LED:
