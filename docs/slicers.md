@@ -84,9 +84,9 @@ Just extract and drop it into your Prusaslicer location, f.e "C:\Program Files\P
 
 [Download](/files/prusaslicer_profiles_chris.zip){ .md-button .md-button--primary }
 
-### Preston's SV06 Plus Profile
+### MAK's SV06 and SV06 Plus Preset
 
-[Download](/files/Preston_SV06Plus_Prusaslicer.ini){ .md-button .md-button--primary }
+[Download](https://www.printables.com/model/480897-mak-prusaslicer-sovol-sv06-plus-preset-bundle){ .md-button .md-button--primary }
 
 ## OrcaSlicer 
 
