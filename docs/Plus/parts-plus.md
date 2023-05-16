@@ -18,7 +18,7 @@ Complete toolhead including the extruder, hot end, bed probe and fans. Drop in r
 
 ### Assembled Kit
 
-![hot end Kit](/images/plus_hot end.webp){ align=left width="150" }
+![hot end Kit](/images/plus_hotend.webp){ align=left width="150" }
 
 SV06 Plus uses a unique hot end design. The original hot end kit replacement comes with an 0.4 nozzle and a silicone sock
 
