@@ -64,6 +64,9 @@ Pronterface is a portable program for Windows or MacOS to control your 3D printe
 
 Download [Pronterface](https://github.com/kliment/Printrun/releases) to the computer. Connect the computer to the printer with a data USB cable. 
 
+!!! warning
+    Use a good quality **data** USB cable. It is highly recommended to block the V pin on the USB cable to prevent power backfeeds and damage to electronics. [How to tape it over](https://community.octoprint.org/t/put-tape-on-the-5v-pin-why-and-how/13574). Alternatively you can purchase an USB power blocker ([Amazon](https://www.amazon.com/PortaPow-Cased-Power-Blocker-Single/dp/B094FYL9QT?th=1&linkCode=ll1&tag=blakadders-20&linkId=fb8fec1c392c6063bc1955a9ffea0835&language=en_US&ref_=as_li_ss_tl))
+
 Start Pronterface and connect to the **Port** associated with the 3D printer.
 
 ![Connect via Pronterface](/images/upgrades/pronterface_connect.jpg)
