@@ -23,8 +23,6 @@ RNC Nano Coated 8mm dual drive gears. Necessary if you're going to print some ve
 
 [forum.drucktipps3d.de](https://forum.drucktipps3d.de/forum/thread/25599-sovol-sv06-superpinda-mod/) (in German)
 
-[forum.drucktipps3d.de](https://forum.drucktipps3d.de/forum/thread/25599-sovol-sv06-superpinda-mod/) (in German)
-
 ## EZABL™ Pro Bed Leveling Sensor
 
 EZABL™ Pro Bed Leveling Kit from [TH3D](https://www.th3dstudio.com/product/ezabl-pro-bed-leveling-kit-for-sovol-sv06/?share=blakadder&campaign=sovol)
