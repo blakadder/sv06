@@ -76,7 +76,6 @@ nav:
     - Upgrades: Plus/upgrades-plus.md
     - Firmware: Plus/firmware-plus.md
 
-
 plugins:
   - search
   - tags
