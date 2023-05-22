@@ -13,3 +13,11 @@ From Facebook SV06 User Group:
 From my picture of the new vs old you can see they've trimmed the corner. My advice here is if you have one side of the sock sagging down, remove it and trim a tiny bit to make clearance for the cartridge wiring. Hopefully this saves you any potential issue that I experienced.
 
 ![Silicone Sock Issue](/images/plus/silicone_sock_difference.jpg)
+
+## Filament sensor causes print issues
+
+Due to the filament sensor design it can create a lot of strain on the filament path to the point that the extruder cannot pull the filament and you get under extrusion print issues.
+
+[@mak77](https://www.printables.com/@mak77) created a [printable mod](https://www.printables.com/model/487121-mak-sovol-sv06-low-friction-sensor-mod) for the filament sensor that ensures a more natural path for the filament.
+
+There are other mounting options using [a bearing](https://www.printables.com/model/384065-sovol-sv06-f688zz-filament-runout-sensor-mount) designed by [@Lars](https://www.printables.com/@Lars_569158)
