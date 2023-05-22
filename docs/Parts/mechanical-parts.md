@@ -1,8 +1,8 @@
 ---
 comments: true
-description: Mehanical parts for SV06
+title: Mechanical Parts for SV06
+description: Bearings, motors and other mechanical parts used in SV06
 ---
-# Mechanical
 
 ## Linear Bearings
 

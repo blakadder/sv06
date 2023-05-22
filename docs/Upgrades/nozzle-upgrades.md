@@ -1,11 +1,10 @@
 ---
 comments: true
-description: Nozzle Upgrades for Sovol SV06
+title: Nozzle Upgrades for SV06
+description: Nozzle upgrade options for SV06
 ---
 
-# Nozzle Upgrades
-
-Sovol SV06 uses standard MK8 nozzles with M6 thread, specifically a Creality MK nozzle used in CR-6 SE, Ender S1 and Sprite extruders from Creality. Any MK8 nozzle with M6 thread will also work with SV06's hotend. If a nozzle is a lot shorter you will need to adjust the ABL probe height.
+Sovol SV06 uses standard MK8 nozzles with M6 thread, specifically a Creality MK nozzle used in CR-6 SE, Ender S1 and Sprite extruders from Creality. Any MK8 nozzle with M6 thread will also work with SV06's hot end. If a nozzle is a lot shorter you will need to adjust the ABL probe height.
 
 ## Hardened
 

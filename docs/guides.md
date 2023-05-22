@@ -1,6 +1,14 @@
-# Useful Resources
+---
+comments: true
+title: Guides for SV06 (Plus)
+description: Useful guides and tutorials for SV06 and SV06 Plus
+---
 
-## Bed levelling test
+## Bed Leveling Guide
+
+<https://www.reddit.com/r/Sovol/comments/10xnu7k/sv06_perfect_first_layer_across_the_entire_build/>
+
+## Bed Leveling Test
 
 > A quick test for adjusting your Z-Probe Offset while printing with the SV06, it draws the skirt right next to the purge line, check this in your .gcode file with your slicer beforehand. You can adjust your Z-Probe Offset while printing until you get the desired results. Make sure to Autolevel your bed before doing a Bed Level Test.
 
@@ -11,15 +19,15 @@
 
 Use the SV06's inductive sensor to tram the X-axis since the built-in method doesn't work for everyone. [Guide from r/Sovol](https://www.reddit.com/r/Sovol/comments/10z4nyx/sv06_inductive_sensor_x_axis_tramming/).
 
-## Z-axis bearing removal
+## Z-axis Bearing Removal
 
 [Reddit post](https://www.reddit.com/r/Sovol/comments/129zwxa/sovol_sv06_z_axis_bearings_removal/?utm_source=share&utm_medium=web2x&context=3)
 
-## LM8UU vs Igus RJ4JP (Drylin) bearings
+## LM8UU vs Igus RJ4JP (Drylin) Bearings
 
 [Reddit post](https://www.reddit.com/r/Sovol/comments/128hf2a/lm8uu_vs_igus_rj4jp_drylin/?utm_source=share&utm_medium=web2x&context=3)
 
-## Improving part cooling with stock fan
+## Improving Part Cooling Stock Fan Performance
 
 Source [Sovol forum](https://forum.sovol3d.com/t/sv06-overhangs-curling-upwards-making-nozzle-knock-over-the-print/1335/26?u=blakadder):
 
@@ -41,14 +49,14 @@ These hex screws allow some forward/back adjustment of the base plate. Looks lik
 I think this is the main reason of inconsistent cooling on different machines.
 Users who suffer from undercooling with 100% part cooling fan should try to adjust the part cooling fan baseplate and see if it helps.
 
-## Bed levelling guide
+## Video Guides from Sovol
 
-<https://www.reddit.com/r/Sovol/comments/10xnu7k/sv06_perfect_first_layer_across_the_entire_build/>
+[Video Guides](videos.md)
 
 ## Install Octoprint on Windows
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gwHarFUTGnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## IKEA Lack table enclosure
+## IKEA Lack Table Enclosure
 
 [@RReuter_493554 on Printables](https://www.printables.com/model/347706)

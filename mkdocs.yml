@@ -4,7 +4,6 @@ site_url: https://sv06.blakadder.com
 repo_url: https://github.com/blakadder/sv06
 edit_uri: edit/main/docs/
 
-
 theme:
   name: material
   custom_dir: overrides
@@ -32,19 +31,51 @@ theme:
     - navigation.footer
     - navigation.instant
     - navigation.tracking
-    # - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes 
     - toc.follow
     - navigation.top
     - content.action.edit
     - toc.follow
-
   icon:
     admonition:
       tip: material/shopping-outline  
   logo: images/logo.png
+
+nav:
+  - Knowledge Base:
+    - index.md
+    - First Steps with a New SV06: first-steps.md
+    - Slicer Configurations: slicers.md
+    - Guides: guides.md
+    - Common Issues: common-issues.md
+    - Troubleshooting: troubleshooting.md
+    - Firmware: firmware.md
+    - Contact Me: contact.md
+  - Parts:
+    - Electronics: Parts/electronic-parts.md
+    - Extruder: Parts/extruder-parts.md
+    - Hot End: Parts/hotend-parts.md
+    - Mechanical: Parts/mechanical-parts.md
+    - Power Supply: Parts/printable-parts.md
+    - Printable: Parts/printable-parts.md
+    - Print Bed: Parts/print-bed-parts.md
+  - Upgrades:
+    - Nozzle: Upgrades/nozzle-upgrades.md
+    - Cooling: Upgrades/cooling-upgrades.md
+    - Extruder: Upgrades/extruder-upgrades.md
+    - Nozzle Light: Upgrades/nozzle-led.md
+    - Printable: Upgrades/printed-mods.md
+    - Silicone Bed Spacers: Upgrades/silicone-mod.md
+  - SV06 Plus:
+    - Common Issues: Plus/issues.md
+    - Parts List: Plus/parts-plus.md
+    - Pritnable Parts: Plus/printable-parts-plus.md
+    - Upgrades: Plus/upgrades-plus.md
+    - Firmware: Plus/firmware-plus.md
+
 
 plugins:
   - search
