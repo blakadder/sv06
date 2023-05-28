@@ -41,3 +41,9 @@ Upgrade the cheaply built power supply with a quality Meanwell one. You will nee
 
 [Printables](https://www.printables.com/@Blakadder/collections/584841)
 
+## 12864 LCD Conversion
+
+This TH3D kit replaces the touch screen with a stock LCD screen. Requires a firmware update!
+
+Entire kit available from [TH3D](https://www.th3dstudio.com/product/sovol-sv06-plus-12864-lcd-conversion-upgrade-kit/).
+
