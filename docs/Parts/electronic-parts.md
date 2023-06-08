@@ -132,7 +132,7 @@ These connectors are commonly used in RC and widely available.
 
 ## Wires with Connectors
 
-Pre-crimped wires with JST 1.25 connectors that you can solder onto aftermarket fans. 
+Pre-crimped wires with Micro JST 1.25 connectors (also labelled as MX or PicoBlade) that you can solder onto aftermarket fans. 
 
 !!! tip "Buy from"
     [Amazon US](https://www.amazon.com/Letool-Electrical-Female-Connector-Cables/dp/B07FP2FCYC?&linkCode=ll1&tag=blakadders-20&linkId=07658403336b796912d08f7bd61a008e&language=en_US&ref_=as_li_ss_tl){ .md-button }
