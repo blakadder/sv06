@@ -36,7 +36,7 @@ Remix of the original metal screen mounting bracket adapted to be functional as 
 
 ## Part Cooling Fan Duct
 
-[@the3dhammer on Printables](https://www.printables.com/model/305352)
+[@Sergiienko Valentyn on Printables](https://www.printables.com/model/481385-sovol-sv06-plus-better-fan-duct)
 
 ## Stiffer X-Axis Blocks
 
