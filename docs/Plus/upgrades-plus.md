@@ -6,7 +6,7 @@ description: Upgrades and mods for SV06 Plus
 
 ## Volcano Nozzle
 
-Replace Sovol's nozzle with a typical Volcano nozzle. [Instructions here](/Plus/volcano-nozzle.md)
+Replace Sovol's nozzle with a typical Volcano nozzle. [Instructions here](/Plus/volcano-nozzle/)
 
 ## 5015 Part Cooling Fan
 
@@ -16,7 +16,7 @@ Replace Sovol's nozzle with a typical Volcano nozzle. [Instructions here](/Plus/
 
 ## Nozzle LED Light
 
-[Instructions](/upgrades/nozzle-led.md)
+[Instructions](/Upgrades/nozzle-led/)
 
 ## CR Touch Probe
 
