@@ -6,6 +6,10 @@ description: Parts for SV06 Plus you can 3D print yourself
 
 See [list of filaments](/Parts/printable-parts/#sovol-colored-filament) that are close to SV06's color.
 
+## Molded Parts
+
+Sovol open sourced the design of the SV06 and all molded parts are available as STL and STEP files on their [GitHub](https://github.com/Sovol3d/SV06-PLUS)
+
 ## Screen Mount Plate
 
 This is a simple support to move the display in any position on your desk.
