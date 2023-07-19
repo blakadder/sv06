@@ -1,7 +1,9 @@
 ---
+description: Extruder parts for Sovol SV06
 comments: true
+title: Extruder Parts for SV06
+description: List of parts used in Sovol SV06 extruder.
 ---
-# Extruder
 
 ## Complete Kit
 

@@ -1,9 +1,31 @@
 ---
 comments: true
+description: Parts list for SV06 Plus
 ---
-# Parts for SV06 Plus
 
-## Nozzles
+## Tool Head
+
+### Complete Kit
+
+![Extruder Kit](/images/plus_extruder_kit.webp){ align=left width="150" }
+
+Complete toolhead including the extruder, hot end, bed probe and fans. Drop in replacement for the existing one. It can also be used on SV06.
+
+!!! tip "Buy from"
+    [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-original-all-metal-planetary-direct-drive-extruder?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
+
+## Hot End
+
+### Assembled Kit
+
+![hot end Kit](/images/plus_hotend.webp){ align=left width="150" }
+
+SV06 Plus uses a unique hot end design. The original hot end kit replacement comes with an 0.4 nozzle and a silicone sock
+
+!!! tip "Buy from"
+    [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-all-metal-hot end?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
+
+### Nozzle
 
 ![Nozzle](/images/plus/nozzle.webp){ align=right width="120" }
 
@@ -21,6 +43,8 @@ Uses non-standard high flow nozzles. They look similar to Volcano nozzles but wi
 
 Similar nozzles from Creativity and Polisi3D exist. They are 23mm long and the 0.5mm difference shouldn't be that significant.
 
+[![Alternative Nozzle Comparison](/images/plus/alternative_nozzle.jpg){ align=right width="200" }](/images/plus/alternative_nozzle.jpg)
+
 !!! tip "Buy from"
     [AliExpress](https://s.click.aliexpress.com/e/_DC7XulR){ .md-button }
     [Amazon US](https://www.amazon.com/Temperature-Hardened-Artillery-Sidewinder-Printing/dp/B08963FRM2?th=1&linkCode=ll1&tag=blakadders-20&linkId=4a2eca00f0dfa4a54b6a98db72edda0f&language=en_US&ref_=as_li_ss_tl){ .md-button }
@@ -29,11 +53,7 @@ Similar nozzles from Creativity and Polisi3D exist. They are 23mm long and the 0
     [Amazon DE](https://www.amazon.de/dp/B08963FRM2?th=1&linkCode=ll1&tag=blakadders-20&linkId=5ea3a393c103bee273e5b3a362aeff20&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [Amazon SE](https://www.amazon.se/dp/B08963FRM2?th=1&linkCode=ll1&tag=blakadder06-21&linkId=d144098893c867241a296086932255ad&language=sv_SE&ref_=as_li_ss_tl){ .md-button }
 
-## Extruder Kit
-
-![Extruder Kit](/images/plus_extruder_kit.webp){ align=left width="150" }
-
-Complete extruder assembly including the extruder, hotend, bed probe and fans. Drop in replacement for the existing one.
+### Thermistor
 
 !!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-original-all-metal-planetary-direct-drive-extruder?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
@@ -52,7 +72,11 @@ SV06 Plus uses a unique hotend design. The original hotend kit repalcement comes
 
 ![Heated Bed](/images/plus_heated_bed.webp){ align=left width="100" }
 
-Heated bed with applied insulation, magnetic sticker and cable with all connectors and crimped ends.
+| Rating | Size | Connection | Cable Length |
+| - | - | - | - |
+| NTC100KΩ 3950K | 2mm | XH 1.25mm 2-Pin | 40mm |
+
+Identical to the one used in Ender S1 Pro.
 
 !!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sovol-sv06-plus-hotbed?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
@@ -61,10 +85,13 @@ Heated bed with applied insulation, magnetic sticker and cable with all connecto
 ## Screen
 
 Uses a standard Creality screen but with Sovol's firmware. Original replacement not available yet.
+    [Amazon US](https://www.amazon.com/dp/B09QPH3HMR?&linkCode=ll1&tag=blakadders-20&linkId=4560614c39d87bc294cd667a22802807&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon DE](https://www.amazon.de/dp/B09QPH3HMR?&linkCode=ll1&tag=blakadders-20&linkId=490995f89152041043b6c4c7c89a41cb&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005005428934207.html?aff_fcid=3cd15a52469a450ea456c98a38bd80e1-1682672434742-07683-_DlpSGX7&tt=CPS_NORMAL&aff_fsk=_DlpSGX7&aff_platform=shareComponent-detail&sk=_DlpSGX7&aff_trace_key=3cd15a52469a450ea456c98a38bd80e1-1682672434742-07683-_DlpSGX7&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
 
-<br>
+## Print Bed
 
-## PEI Print Sheet
+### PEI Print Sheet
 
 SV06 Plus PEI has a slightly unique design with divots for alignment screws and unusual 320x310mm dimensions. Its painted grid isn't as bad as the SV06 one and doesn't stick to prints.
 
@@ -89,6 +116,20 @@ A standard 310x310 spring steel sheet can work on an SV06 Plus but you'll need t
     [AliExpress](https://www.aliexpress.com/item/1005004992757753.html?aff_fcid=a55a184cf61a4e0d8fbf9838e03516fb-1681063039824-00995-_DFXOXfb&tt=CPS_NORMAL&aff_fsk=_DFXOXfb&aff_platform=shareComponent-detail&sk=_DFXOXfb&aff_trace_key=a55a184cf61a4e0d8fbf9838e03516fb-1681063039824-00995-_DFXOXfb&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
     [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2F3djake%2Fflexplate-system-with-nano-coating){ .md-button }
 
+### Heated Bed
+
+![Heated Bed](/images/plus_heated_bed.webp){ align=left width="100" }
+
+Heated bed with applied insulation, magnetic sticker and cable with all connectors and crimped ends.
+
+!!! tip "Buy from"
+    [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sovol-sv06-plus-hotbed?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
+
+## Screen
+
+Uses a standard Creality screen but with Sovol's firmware. Original replacement not available yet.
+
+<br>
 
 ## Power Supply
 
@@ -96,19 +137,18 @@ A standard 310x310 spring steel sheet can work on an SV06 Plus but you'll need t
 
 A 24V 500W power supply.
 
-
 ??? tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/sv06-plus-replacement-parts-1/products/sovol-sv06-plus-power-supply?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
 
-## Motherboard
+## Mainboard
 
 ![Motherboard](/images/motherboard.webp){ align=right width="150" }
 
-SV06 original motherboard.
+SV06 original mainboard.
 
 !!! tip "Buy from"
-    [Amazon](https://www.amazon.com/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=186de5151e22db03e0c3636032c79fa7&language=en_US&ref_=as_li_ss_tl){ .md-button } 
-    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button } 
+    [Amazon](https://www.amazon.com/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=186de5151e22db03e0c3636032c79fa7&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button }
 
 ## Linear Bearings
 
@@ -124,19 +164,6 @@ There are 11 bearings in total, 3 on the X-axis, Z-axis has 4 and 4 more on the 
     [AliExpress](https://www.aliexpress.com/item/1005002667827889.html?aff_fcid=d33c53b3544f45789091d555e694a078-1681165359598-03743-_DlPHABJ&tt=CPS_NORMAL&aff_fsk=_DlPHABJ&aff_platform=shareComponent-detail&sk=_DlPHABJ&aff_trace_key=d33c53b3544f45789091d555e694a078-1681165359598-03743-_DlPHABJ&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 
 You can change from linear ball bearings to Igus or Drylin bearings.
-
-## Hotend Thermistor
-
-| Rating | Size | Connection | Cable Length |
-| - | - | - | - |
-| NTC100KΩ 3950K | 2mm | XH 1.25mm 2-Pin | 40mm |
-
-Identical to the one used in Ender S1 Pro.
-
-!!! tip "Buy from"
-    [Amazon US](https://www.amazon.com/dp/B09QPH3HMR?&linkCode=ll1&tag=blakadders-20&linkId=4560614c39d87bc294cd667a22802807&language=en_US&ref_=as_li_ss_tl){ .md-button }
-    [Amazon DE](https://www.amazon.de/dp/B09QPH3HMR?&linkCode=ll1&tag=blakadders-20&linkId=490995f89152041043b6c4c7c89a41cb&language=en_GB&ref_=as_li_ss_tl){ .md-button }
-    [AliExpress](https://www.aliexpress.com/item/1005005428934207.html?aff_fcid=3cd15a52469a450ea456c98a38bd80e1-1682672434742-07683-_DlpSGX7&tt=CPS_NORMAL&aff_fsk=_DlpSGX7&aff_platform=shareComponent-detail&sk=_DlpSGX7&aff_trace_key=3cd15a52469a450ea456c98a38bd80e1-1682672434742-07683-_DlpSGX7&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
 
 ## Linear Rods
 
@@ -159,4 +186,3 @@ NEMA17 42-34 0.8A 1.8° D5, shaft length 24mm, 42BYGH160-A-20DN from Shengyang M
 ### Extruder Motor
 
 NEMA17 42-23 stepper motor (double output with gear).
-

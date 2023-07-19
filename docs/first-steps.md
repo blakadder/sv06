@@ -1,8 +1,8 @@
 ---
 comments: true
+title: First Steps with a New Sovol SV06 or SV06 Plus
+description: Necessary steps to take with a new SV06 or SV06 Plus printer.
 ---
-
-# First Steps
 
 When you receive your SV06 (Plus) and assemble it per instructions do these steps first to avoid most common pitfalls.
 
@@ -40,7 +40,7 @@ Use the belt tensioners to tighten the belts until they're not slack. There's no
 
 The printer come with the the bed cable tucked below the bed. It is necessary to take it out so the bed can move freely from front to back in order for it to home correctly.
 
-## Adjust Sensorless Homing
+## Adjust sensorless homing
 
 If your X and Y axis motors make terrible sounds during homing or completely stall you need to adjust sensorless homing in the firmware.
 
@@ -49,9 +49,10 @@ Navigate to *Configuration --> Advanced Settings --> TCM Drivers --> Sensorless 
 ## Print these immediately
 
 - [Heated bed cable guide](https://www.printables.com/model/409689-heatbed-cable-support-for-sovol-sv06-3d-printer): mandatory, will keep your cable from rubbing against the printer and snagging
-- [Cable strain relief](https://www.printables.com/model/423797-cable-strain-relief-for-sovol-sv06-curve): I prefer this version since it works great in combination with the cable guide
-    - [Smaller angle version](https://www.printables.com/model/432542-sovol-sv06-strain-relief)
-    - [Short version](https://www.printables.com/model/409689-heatbed-cable-support-for-sovol-sv06-3d-printer)
+- Cable strain relief:
+    - [@ShinIshiSou](https://www.printables.com/model/452682-sovol-sv06-strain-relief)
+    - [@rogerquin](https://www.printables.com/model/461239-raised-cable-strain-relief-for-sovol-sv06-3d-print)
+    - [@lollo99](https://www.printables.com/model/423797-cable-strain-relief-for-sovol-sv06-curve)
 - [Belt Mounted Y-Stop](https://www.printables.com/model/410274-gt2-belt-mounted-y-stop-for-sovol-sv06-3d-printer)
 
 Make sure to like all the models and post your prints!

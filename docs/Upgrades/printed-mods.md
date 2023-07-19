@@ -1,24 +1,26 @@
 ---
+description: Printable modifications for Sovol SV06
 comments: true
+title: Printable Upgrades for SV06
+description: Upgrades and mods for SV06 you can print yourself.
 ---
-
-# Easy Printed Mods
 
 Make sure to give a like to the designers and post your make.
 
 See [list of filaments](/Parts/printable-parts/#sovol-colored-filament) that are close to SV06's color.
 
-## Cable strain relief
+## Cable Strain Relief
 
 This is a **MUST HAVE**. They install under the existing heated bed cable strain relief with a zip tie or two.
 
 - [@ShinIshiSou](https://www.printables.com/model/452682-sovol-sv06-strain-relief)
+- [@rogerquin](https://www.printables.com/model/461239-raised-cable-strain-relief-for-sovol-sv06-3d-print)
 - [@lollo99](https://www.printables.com/model/423797-cable-strain-relief-for-sovol-sv06-curve)
 - [@rogerquin](https://www.printables.com/model/409660)
 
 ![Cable strain relief](/images/upgrades/cable_strain_relief.webp){ width="100%" }
 
-## Heated bed cable support
+## Heated Bed Cable Support
 
 This is a **MUST HAVE**. This mod keeps the heated bed cable from dragging on the work surface and rubbing on the plastic cover of the frame.
 
@@ -26,7 +28,7 @@ This is a **MUST HAVE**. This mod keeps the heated bed cable from dragging on th
 
 ![Heatbed cable support](/images/upgrades/heatbed_cable_support.webp){ width="100%" }
 
-## Back mounted stock part cooling fan
+## Back Mounted Stock Part Cooling Fan
 
 This small modification makes it easy to relocate the stock cooling fan to the back of the X-Carriage and provides better viewing of the hot end from the front.
 
@@ -82,3 +84,8 @@ New probe mount if your probe mount is deformed and sits too high when screwed t
 
 [@SteveandBob on Thingiverse](https://www.thingiverse.com/thing:5988095)
 
+## Bowden Tube Extruder Mount
+
+Bowden tube mount for M6 bowden coupler.
+
+[@Leander Perez Blanco on Thingiverse](https://www.printables.com/model/462049-sovol-sv06-plus-bowden-tube-mount)

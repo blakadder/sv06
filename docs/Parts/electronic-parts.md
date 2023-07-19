@@ -1,5 +1,8 @@
 ---
+description: Electronic parts for Sovol SV06
 comments: true
+title: Electronic parts list for SV06
+description: Electronic and electrical parts and wiring used in SV06
 ---
 
 # Electronics
@@ -49,7 +52,7 @@ SV06 original mainboard.
     [Amazon UK](https://www.amazon.co.uk/WINSINN-Cooling-40x40x10mm-Extruder-Makerbot/dp/B0757RPCN9?th=1&linkCode=ll1&tag=blakadders-20&linkId=6fbba8718fb66187c2c845d878eb8c45&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005003878703039.html?aff_fcid=6dd0e720b01c47f19b9a9f656f1fe010-1681574036321-04929-_DEuUX2H&tt=CPS_NORMAL&aff_fsk=_DEuUX2H&aff_platform=shareComponent-detail&sk=_DEuUX2H&aff_trace_key=6dd0e720b01c47f19b9a9f656f1fe010-1681574036321-04929-_DEuUX2H&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
 
-## Print Head PCB
+## Tool Head PCB
 
 [![Extruder PCB](/images/extruder_board.webp)](/images/extruder_board.webp)
 
@@ -129,7 +132,7 @@ These connectors are commonly used in RC and widely available.
 
 ## Wires with Connectors
 
-Pre-crimped wires with JST 1.25 connectors that you can solder onto aftermarket fans. 
+Pre-crimped wires with Micro JST 1.25 connectors (also labelled as MX or PicoBlade) that you can solder onto aftermarket fans. 
 
 !!! tip "Buy from"
     [Amazon US](https://www.amazon.com/Letool-Electrical-Female-Connector-Cables/dp/B07FP2FCYC?&linkCode=ll1&tag=blakadders-20&linkId=07658403336b796912d08f7bd61a008e&language=en_US&ref_=as_li_ss_tl){ .md-button }

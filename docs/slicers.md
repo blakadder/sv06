@@ -1,4 +1,8 @@
-# Slicer Configurations
+---
+comments: true
+title: Slicer Configurations for SV06 (Plus)
+description: Slicer configurations for SV06 and SV06 Plus (Cura, PrusaSlicer, OrcaSlicer, SuperSlicer)
+---
 
 ## Cura
 
@@ -80,9 +84,9 @@ Just extract and drop it into your Prusaslicer location, f.e "C:\Program Files\P
 
 [Download](/files/prusaslicer_profiles_chris.zip){ .md-button .md-button--primary }
 
-### Preston's SV06 Plus Profile
+### MAK's SV06 and SV06 Plus Preset
 
-[Download](/files/Preston_SV06Plus_Prusaslicer.ini){ .md-button .md-button--primary }
+[Download](https://www.printables.com/model/480897-mak-prusaslicer-sovol-sv06-plus-preset-bundle){ .md-button .md-button--primary }
 
 ## OrcaSlicer 
 
@@ -90,3 +94,9 @@ SoftFever/OrcaSlicer configuration with nozzle 0.4 base Marlin profile and a 0.6
 
 [Download](/files/SoftFever.rar){ .md-button .md-button--primary }
 
+## SuperSlicer
+
+bassamanator's profile
+
+[SV06](https://github.com/bassamanator/Sovol-SV06-firmware/blob/master/misc/){ .md-button .md-button--primary }
+[SV06 Plus](https://github.com/bassamanator/Sovol-SV06-firmware/tree/sv06-plus/misc){ .md-button .md-button--primary }

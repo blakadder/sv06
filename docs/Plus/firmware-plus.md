@@ -1,4 +1,8 @@
-# Firmware for SV06 Plus
+---
+comments: true
+title: Firmware for SV06 Plus
+description: Firmware upgrades and configurations for SV06 Plus
+---
 
 ## Sovol Firmware
 
@@ -9,7 +13,7 @@ Original Sovol firmware. Firmware from 23 Feb 2023 is v1.1.4 shipped with SV06 P
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b2jUo1KnxZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Klipper 
+## Klipper
 
 ### One-Stop-Shop Sovol SV06 Plus Klipper Configuration
 
@@ -34,9 +38,9 @@ screw3_name: F _RIGHT
 screw4: 164,136
 screw4_name: F_CENT _RIGHT
 screw5: 84, 216
-screw5_name: B_CENT _RIGHT
+screw5_name: B_CENT _LEFT
 screw6: 164,216
-screw6_name: B_CENT _LEFT
+screw6_name: B_CENT _RIGHT
 screw7: 5,295
 screw7_name: B _LEFT
 screw8: 244,295

@@ -1,9 +1,11 @@
 ---
+description: Firmware options for Sovol SV06
 comments: true
+title: Firmware for SV06
+description: Firmwares and configurations for SV06
 ---
-# Firmware
 
-## How to flash firmware
+## How to Flash Firmware
 
 [Video instructions](https://www.youtube.com/watch?v=p6l253OJa34)
 
@@ -46,7 +48,7 @@ This is an attempt at cleaning up branches from various other firmwares while pr
 
 A comprehensive [Klipper configuration](https://github.com/bassamanator/Sovol-SV06-firmware/) for multiple variants of the Sovol SV06.
 
-##### Supports
+#### Supports
  
 - SV06
 - SV06 Plus
