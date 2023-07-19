@@ -13,11 +13,11 @@ Uses non-standard high flow nozzles. They look similar to Volcano nozzles but wi
 | - | - | - | 
 | 23.5mm | 15.5mm | 8mm | 
 
-!!! tip "Buy nozzles Sovol store"
-    [0.4 Standard](https://sovol3d.com/products/sovol-sv06-plus-high-flow-nozzle-0-4mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
-    [0.4/0.6/0.8 Hardened](https://sovol3d.com/collections/sv06-plus-replacement-parts-1/products/sv06-plus-hardened-tool-steel-tungsten-nozzles-0-4-0-6-0-8-1mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
-
-Other sizes and hardened nozzles should be available late April.
+!!! tip "Buy from"
+    [Sovol Brass](https://sovol3d.com/products/sovol-sv06-plus-high-flow-nozzle-0-4mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
+    [Sovol Hardened](https://sovol3d.com/collections/sv06-plus-replacement-parts-1/products/sv06-plus-hardened-tool-steel-tungsten-nozzles-0-4-0-6-0-8-1mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
+    [3DJake Brass](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fduese-messing-fuer-sv06-plus-sv07){ .md-button }
+    [3DJake Hardened](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fduese-stahl-gehaertet-fuer-sv06-plus-sv07){ .md-button }
 
 Similar nozzles from Creativity and Polisi3D exist. They are 23mm long and the 0.5mm difference shouldn't be that significant.
 
@@ -37,6 +37,7 @@ Complete extruder assembly including the extruder, hotend, bed probe and fans. D
 
 !!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-original-all-metal-planetary-direct-drive-extruder?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.de%2Fbondtech%2Fdirect-drive-extruder-2%3Futm_source%3Dawin%26utm_medium%3Dcpc%26utm_campaign%3Dawin_3djake_de){ .md-button }
 
 ## Hotend Kit
 
@@ -55,6 +56,7 @@ Heated bed with applied insulation, magnetic sticker and cable with all connecto
 
 !!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sovol-sv06-plus-hotbed?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fflexible-dauerdruckplatte%3Fsai%3D14909){ .md-button }
 
 ## Screen
 
