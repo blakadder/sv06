@@ -63,10 +63,11 @@ Similar nozzles from Creativity and Polisi3D exist. They are 23mm long and the 0
 
 ![Hotend Kit](/images/plus_hotend.webp){ align=left width="150" }
 
-SV06 Plus uses a unique hotend design. The original hotend kit repalcement comes with an 0.4 nozzle and a silicone sock
+SV06 Plus uses a unique hotend design. The original hotend kit replacement comes with an 0.4 nozzle and a silicone sock
 
 !!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-all-metal-hotend?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button } 
+    [3D Jake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fhotend-12){ .md-button }
 
 ## Heated Bed
 
@@ -84,7 +85,14 @@ Identical to the one used in Ender S1 Pro.
 
 ## Screen
 
-Uses a standard Creality screen but with Sovol's firmware. Original replacement not available yet.
+![Screen](/images/plus/screen.webp){ align=right width="150" }
+
+This is a Creality screen but with Sovol's firmware.
+
+!!! tip "Original screen"
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fbildschirm-2){ .md-button }
+
+??? tip "Aftermarket options"
     [Amazon US](https://www.amazon.com/dp/B09QPH3HMR?&linkCode=ll1&tag=blakadders-20&linkId=4560614c39d87bc294cd667a22802807&language=en_US&ref_=as_li_ss_tl){ .md-button }
     [Amazon DE](https://www.amazon.de/dp/B09QPH3HMR?&linkCode=ll1&tag=blakadders-20&linkId=490995f89152041043b6c4c7c89a41cb&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005005428934207.html?aff_fcid=3cd15a52469a450ea456c98a38bd80e1-1682672434742-07683-_DlpSGX7&tt=CPS_NORMAL&aff_fsk=_DlpSGX7&aff_platform=shareComponent-detail&sk=_DlpSGX7&aff_trace_key=3cd15a52469a450ea456c98a38bd80e1-1682672434742-07683-_DlpSGX7&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
@@ -105,7 +113,7 @@ PEI sheets for Ender 3 S1 Plus and Creality CR10 V2 have the two divots but are 
 ??? tip "Buy from"
     [Amazon US](https://www.amazon.com/3D-Printer-Painted-Magnetic-Creality/dp/B0BRN3Z1JK?keywords=pei%2Bender%2B3%2Bs1%2Bplus&qid=1681305024&sr=8-4&th=1&linkCode=ll1&tag=blakadders-20&linkId=bf5b8275f88f9782c6ef1ce3ded6f3fd&language=en_US&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005005305740654.html?aff_fcid=12ddc88b7ddc45c09423c1ccb0723b92-1681304694393-08331-_DndcsjX&tt=CPS_NORMAL&aff_fsk=_DndcsjX&aff_platform=shareComponent-detail&sk=_DndcsjX&aff_trace_key=12ddc88b7ddc45c09423c1ccb0723b92-1681304694393-08331-_DndcsjX&terminal_id=5328bb0326ad4ecea39a5766fa327b23&afSmartRedirect=y){ .md-button }
-    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2F3djake%2Fflexplate-system-with-nano-coating){ .md-button }
+    [3D Jake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2F3djake%2Fflexplate-system-mit-nano-beschichtung){ .md-button }
 
 A standard 310x310 spring steel sheet can work on an SV06 Plus but you'll need to be more careful when placing it.
 
@@ -114,7 +122,6 @@ A standard 310x310 spring steel sheet can work on an SV06 Plus but you'll need t
     [Amazon CA](https://www.amazon.ca/IdeaFormer-3D-Flexible%E3%80%90-Printing-310x310mm-Removable/dp/B09C5NZ18K?crid=SNW0ETSGS8U2&keywords=cr10%2Bpei%2Bsheet&qid=1681142742&sprefix=cr10pei%2Bsheet%2Caps%2C181&sr=8-8&th=1&linkCode=ll1&tag=tasmotatemp03-20&linkId=bba8de64785df934061a7155bf4f4f4a&language=en_CA&ref_=as_li_ss_tl){ .md-button }
     [Amazon DE](https://www.amazon.de/dp/B09J4TG9JY?_encoding=UTF8&psc=1&linkCode=ll1&tag=blakadders-20&linkId=67ba2fadb9d13f977b85d188bab85c33&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005004992757753.html?aff_fcid=a55a184cf61a4e0d8fbf9838e03516fb-1681063039824-00995-_DFXOXfb&tt=CPS_NORMAL&aff_fsk=_DFXOXfb&aff_platform=shareComponent-detail&sk=_DFXOXfb&aff_trace_key=a55a184cf61a4e0d8fbf9838e03516fb-1681063039824-00995-_DFXOXfb&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2F3djake%2Fflexplate-system-with-nano-coating){ .md-button }
 
 ### Heated Bed
 
@@ -148,7 +155,7 @@ SV06 original mainboard.
 
 !!! tip "Buy from"
     [Amazon](https://www.amazon.com/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=186de5151e22db03e0c3636032c79fa7&language=en_US&ref_=as_li_ss_tl){ .md-button }
-    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button }
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fmainboard-11%3Fsai%3D14914){ .md-button }
 
 ## Linear Bearings
 

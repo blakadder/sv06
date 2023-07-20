@@ -19,7 +19,7 @@ Sovol's SV06 PEI has a painted grid that tends to stick to high temperature prin
     [Amazon CA](https://www.amazon.ca/VOXELAB-Magnetic-Flexible-Aquila-Printer/dp/B09Y1R3N46?keywords=pei%2Bsheet&qid=1681063151&sr=8-3&th=1&linkCode=ll1&tag=tasmotatemp03-20&linkId=02ebf3b1379c693c727b895ced2cb0c1&language=en_CA&ref_=as_li_ss_tl){ .md-button }
     [Amazon DE](https://www.amazon.de/dp/B09J4TG9JY?_encoding=UTF8&psc=1&linkCode=ll1&tag=blakadders-20&linkId=67ba2fadb9d13f977b85d188bab85c33&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005004992757753.html?aff_fcid=a55a184cf61a4e0d8fbf9838e03516fb-1681063039824-00995-_DFXOXfb&tt=CPS_NORMAL&aff_fsk=_DFXOXfb&aff_platform=shareComponent-detail&sk=_DFXOXfb&aff_trace_key=a55a184cf61a4e0d8fbf9838e03516fb-1681063039824-00995-_DFXOXfb&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2F3djake%2Fflexplate-system-with-nano-coating){ .md-button }
+    [3D Jake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2F3djake%2Fflexplate-system-mit-nano-beschichtung){ .md-button }
 
 
 !!! warning "You need to use a metal sheet due to the inductive bed level probe"

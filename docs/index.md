@@ -29,7 +29,7 @@ Sovol SV06 is an open sourced 3D printer with lots of information dispersed onli
 [Amazon SE](https://www.amazon.se/dp/B0BK89Z388?&linkCode=ll1&tag=blakadder06-21&linkId=601b39f4bf7165227c68e3b6c8c89171&language=sv_SE&ref_=as_li_ss_tl){ .md-button }
 [Sovol Store](https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button } 
 [AliExpress](https://www.aliexpress.com/item/1005005061314862.html?aff_fcid=b01193a302754ad5a04b3ffcac968624-1681053035903-00240-_DDg1H8N&tt=CPS_NORMAL&aff_fsk=_DDg1H8N&aff_platform=shareComponent-detail&sk=_DDg1H8N&aff_trace_key=b01193a302754ad5a04b3ffcac968624-1681053035903-00240-_DDg1H8N&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-[3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fsv06){ .md-button }
+[3DJake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fsv06){ .md-button }
 
 ## Buy Sovol SV06 Plus
 
@@ -42,7 +42,7 @@ Sovol SV06 is an open sourced 3D printer with lots of information dispersed onli
 [Amazon SE](https://www.amazon.se/dp/B0BXL1R1PM?&linkCode=ll1&tag=blakadder06-21&linkId=617018e9a8e07ad3813cd85b72792e89&language=sv_SE&ref_=as_li_ss_tl){ .md-button }
 [Sovol Store](https://sovol3d.com/products/sovol-sv06-plus?sca_ref=3309524.Vd4MGn0pGL){ .md-button }
 [AliExpress](https://www.aliexpress.com/item/1005005237483248.html?aff_fcid=7348af99cf1d411ab4ffb7cadd6a195f-1681053334741-05363-_DDaMMPP&tt=CPS_NORMAL&aff_fsk=_DDaMMPP&aff_platform=shareComponent-detail&sk=_DDaMMPP&aff_trace_key=7348af99cf1d411ab4ffb7cadd6a195f-1681053334741-05363-_DDaMMPP&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-[3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fsv06-plus){ .md-button }
+[3DJake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fsv06-plus){ .md-button }
 
 <BR>
 ---------------	

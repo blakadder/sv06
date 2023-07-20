@@ -14,7 +14,7 @@ Complete drop-in replacement with heat break, thermistor, heater cartridge and 0
     [Amazon US](https://www.amazon.com/Sovol-SV06-Hotend-Kit-Thermistor/dp/B0BQC82P3D?&linkCode=ll1&tag=blakadders-20&linkId=f337b5a67369c624c6e504f39b253e01&language=en_US&ref_=as_li_ss_tl){ .md-button }
     [Amazon DE](https://www.amazon.de/-/en/Sovol-SV06-All-Metal-Hotend/dp/B0BQR5CT8Z?crid=21UU1VLXQGK1J&keywords=sovol&qid=1681063442&sprefix=sovol%2Caps%2C152&sr=8-4&linkCode=ll1&tag=blakadders-20&linkId=a6eec1bb6c9e08c0b93a314043e7da66&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [Amazon UK](https://www.amazon.co.uk/Sovol-SV06-Hotend-Kit/dp/B0BQC82P3D?crid=A2GXMZCFT3KY&keywords=sovol&qid=1681552117&s=industrial&sprefix=sovol%2Cindustrial%2C111&sr=1-32&linkCode=ll1&tag=blakadders-20&linkId=bedeb44f15a431adca948a5108a07481&ref_=as_li_ss_tl){ .md-button }
-    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fhotend-12){ .md-button }
+    [3D Jake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fhotend-12){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005005403108813.html?aff_fcid=8d9ab75a2cbc45c1a87fbf6d5c54f7ef-1681061390001-03431-_DE08f8N&tt=CPS_NORMAL&aff_fsk=_DE08f8N&aff_platform=shareComponent-detail&sk=_DE08f8N&aff_trace_key=8d9ab75a2cbc45c1a87fbf6d5c54f7ef-1681061390001-03431-_DE08f8N&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
     [Sovol Store](https://sovol3d.com/collections/sv06-replacement/products/sv06-all-metal-hotend?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
 
@@ -86,7 +86,7 @@ Heater cartridge is glued into the heatblock. The replacement should be able to 
 
 <!-- !!! tip "Buy from"
     [AliExpress](https://www.aliexpress.com/item/1005005274488537.html?aff_fcid=2967b39f05d447a4afe0e5e740af08cc-1681129312546-02521-_DeuV545&tt=CPS_NORMAL&aff_fsk=_DeuV545&aff_platform=shareComponent-detail&sk=_DeuV545&aff_trace_key=2967b39f05d447a4afe0e5e740af08cc-1681129312546-02521-_DeuV545&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fcreality-3d-printers-spare-parts%2Fheater-cartridge){ .md-button } -->
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fcreality-3d-drucker-ersatzteile%2Fheizpatrone-1){ .md-button } -->
 
 ## Heatblock
 

@@ -13,15 +13,15 @@ description: Electronic and electrical parts and wiring used in SV06
 
 Replacement screen is a common 128640 type screen used in Creality's Ender-3.
 
-!!! tip "Original parts"
+!!! tip "Original screen"
     [Sovol Store](https://sovol3d.com/collections/sv06-replacement/products/hotbed-kits-for-sv06-3d-printer?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
-    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fscreen){ .md-button }
+    [3D Jake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fbildschirm-2){ .md-button }
 
 ??? tip "Aftermarket parts"
     [Amazon US](https://www.amazon.com/CHPOWER-Creality-Original-Display-Ribbon/dp/B07NZ9SD26?keywords=ender+3+screen&qid=1681149243&sr=8-6&linkCode=ll1&tag=blakadders-20&linkId=8607a5cbac3b6619efcf504d1b484ecf&language=en_US&ref_=as_li_ss_tl){ .md-button }
     [Amazon DE](https://www.amazon.de/-/en/Printer-Motherboard-Accessories-Universal-Printers/dp/B09YVCD27F?crid=1F9IJ6TEFB9W9&keywords=ender+3+leinwand&qid=1681149284&sprefix=ender+3+screen%2Caps%2C369&sr=8-5&linkCode=ll1&tag=blakadders-20&linkId=5fc27e0b258484493a24ca9ede99be4d&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [AliExpress](https://www.aliexpress.com/item/1005004389394780.html?aff_fcid=8ee63d06428a424aaeba42cccbb69924-1681149155346-03769-_Dl5ylWh&tt=CPS_NORMAL&aff_fsk=_Dl5ylWh&aff_platform=shareComponent-detail&sk=_Dl5ylWh&aff_trace_key=8ee63d06428a424aaeba42cccbb69924-1681149155346-03769-_Dl5ylWh&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-    [3D Jake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fcreality-3d-printers-spare-parts%2Flcd-screen-1){ .md-button }
+    [3D Jake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fcreality-3d-drucker-ersatzteile%2Fbildschirm){ .md-button }
 
 ## Mainboard
 
@@ -33,7 +33,7 @@ SV06 original mainboard.
     [Amazon US](https://www.amazon.com/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=186de5151e22db03e0c3636032c79fa7&language=en_US&ref_=as_li_ss_tl){ .md-button }
     [Amazon DE](https://www.amazon.de/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=9fef5dc4f72233ea06a2ab722e52cee8&language=en_GB&ref_=as_li_ss_tl){ .md-button }
     [Amazon UK](https://www.amazon.co.uk/Sovol-32-bit-Silent-Motherboard-Mainboard/dp/B0BTRZN3H7?&linkCode=ll1&tag=blakadders-20&linkId=b05ee5d6bf36b7d69709eef2b4e8bb1d&ref_=as_li_ss_tl){ .md-button }
-    [3DJake](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.com%2Fsovol%2Fmainboard-11){ .md-button }
+    [3DJake](https://www.awin1.com/cread.php?awinmid=21761&awinaffid=930253&platform=dl&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fmainboard-11){ .md-button }
 
 ??? info "Pinout"
     [GDM32F103 Pins](https://forum.drucktipps3d.de/forum/thread/21977-pinbelegung-sovol-sv06-board-und-hotend-stecker/)
