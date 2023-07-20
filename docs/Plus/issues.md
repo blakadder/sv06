@@ -18,6 +18,6 @@ From my picture of the new vs old you can see they've trimmed the corner. My adv
 
 Due to the filament sensor design it can create a lot of strain on the filament path to the point that the extruder cannot pull the filament and you get under extrusion print issues.
 
-[@mak77](https://www.printables.com/@mak77) created a [printable mod](https://www.printables.com/model/487121-mak-sovol-sv06-low-friction-sensor-mod) for the filament sensor that ensures a more natural path for the filament.
+[@mak77](https://www.printables.com/@mak77) created a [printable mod](https://www.printables.com/model/488517-mak-sovol-sv06-run-out-sensor-mod-ptfe) for the filament sensor that ensures a more natural path for the filament.
 
 There are other mounting options using [a bearing](https://www.printables.com/model/384065-sovol-sv06-f688zz-filament-runout-sensor-mount) designed by [@Lars](https://www.printables.com/@Lars_569158)
