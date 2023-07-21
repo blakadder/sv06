@@ -13,6 +13,7 @@ Complete toolhead including the extruder, hot end, bed probe and fans. Drop in r
 
 !!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-original-all-metal-planetary-direct-drive-extruder?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005005775714096.html?aff_fcid=78936ed2ca9d49b9a9a781f1886cc222-1689938626521-01196-_DddYwL7&tt=CPS_NORMAL&aff_fsk=_DddYwL7&aff_platform=shareComponent-detail&sk=_DddYwL7&aff_trace_key=78936ed2ca9d49b9a9a781f1886cc222-1689938626521-01196-_DddYwL7&terminal_id=6db88f7b3fff4670be83ec2d245af448&afSmartRedirect=y){ .md-button }
 
 ## Hot End
 
@@ -24,6 +25,7 @@ SV06 Plus uses a unique hot end design. The original hot end kit replacement com
 
 !!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/part-accessories/products/sv06-plus-all-metal-hot end?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005005677388956.html?aff_fcid=011116eab1724d61bf3b830cc0933294-1689938771231-07599-_DdgDxvx&tt=CPS_NORMAL&aff_fsk=_DdgDxvx&aff_platform=shareComponent-detail&sk=_DdgDxvx&aff_trace_key=011116eab1724d61bf3b830cc0933294-1689938771231-07599-_DdgDxvx&terminal_id=6db88f7b3fff4670be83ec2d245af448&afSmartRedirect=y){ .md-button }
 
 ### Nozzle
 
@@ -38,6 +40,7 @@ Uses non-standard high flow nozzles. They look similar to Volcano nozzles but wi
 !!! tip "Buy from"
     [Sovol Brass](https://sovol3d.com/products/sovol-sv06-plus-high-flow-nozzle-0-4mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
     [Sovol Hardened](https://sovol3d.com/collections/sv06-plus-replacement-parts-1/products/sv06-plus-hardened-tool-steel-tungsten-nozzles-0-4-0-6-0-8-1mm?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
+    [AliExpress Hardened](https://www.aliexpress.com/item/1005005676808931.html?aff_fcid=b4fa42c5320a41e4915066b80d513351-1689938841884-00087-_DFZViWD&tt=CPS_NORMAL&aff_fsk=_DFZViWD&aff_platform=shareComponent-detail&sk=_DFZViWD&aff_trace_key=b4fa42c5320a41e4915066b80d513351-1689938841884-00087-_DFZViWD&terminal_id=6db88f7b3fff4670be83ec2d245af448&afSmartRedirect=y){ .md-button }
     [3DJake Brass](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fduese-messing-fuer-sv06-plus-sv07){ .md-button }
     [3DJake Hardened](https://www.awin1.com/cread.php?awinmid=21809&awinaffid=930253&ued=https%3A%2F%2Fwww.3djake.de%2Fsovol%2Fduese-stahl-gehaertet-fuer-sv06-plus-sv07){ .md-button }
 
