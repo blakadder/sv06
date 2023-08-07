@@ -44,16 +44,16 @@ This is an attempt at cleaning up branches from various other firmwares while pr
 
 ## Klipper
 
-### One-Stop-Shop Sovol SV06 Klipper Configuration
+### One-Stop-Shop Klipper Configuration
 
-A comprehensive [Klipper configuration](https://github.com/bassamanator/Sovol-SV06-firmware/) for multiple variants of the Sovol SV06.
+A comprehensive Klipper configuration for multiple variants of the **Sovol SV06**.
 
 #### Supports
- 
-- SV06
-- SV06 Plus
-- SV06 with the BTT SKR-Mini-E3-V3.0
 
+- [SV06](https://github.com/bassamanator/Sovol-SV06-firmware)
+- [SV06 Plus](https://github.com/bassamanator/Sovol-SV06-firmware/tree/sv06-plus)
+- [SV06 with the BTT SKR-Mini-E3-V3.0](https://github.com/bassamanator/Sovol-SV06-firmware/tree/skr-mini-e3-v3)
+- And [other printers](https://github.com/bassamanator/Sovol-SV06-firmware/tree/any-printer) as well
 ### Pr20100+ Klipper profile
 
 Complete Klipper profile with all config files and macros to tune the Sovol SV06 (stock).
