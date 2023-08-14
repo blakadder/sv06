@@ -66,7 +66,8 @@ SV06 original mainboard.
 | P5 | Part cooling fan | JST 1.25mm 2-Pin |  
 | P7 | Filament sensor (optional) | JST 1.25mm 3-Pin |
 
-Comes as part of the [complete extruder kit](/Parts/extruder-parts.md), currently not available to buy separately.
+!!! tip "Buy from"
+    [Sovol Store](https://sovol3d.com/collections/sv06-replacement/products/sovol-sv06-adapter-board-pcb-breakout-module-adapter-board-mainboard-ribbon-cable?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
 
 ??? tip "Pinout for the mainboard cable plug"
     [![Extruder Cable plug pinout](/images/extruder_cable_pinout.jpg)](/images/extruder_cable_pinout.jpg)
@@ -98,6 +99,9 @@ The ribbon cable is marked a 'AWM style 2651 26AWG' cable, with 24 wires and a p
 Cable looks exactly like Creality's Sprite Extruder replacement cable but is wired differently.[^1]
 
 [![Schematic](/images/sch_printheadcable.jpg){ width="50%" }](/images/sch_printheadcable.jpg)
+
+!!! tip "Buy from"
+    [Sovol Store](https://sovol3d.com/collections/sv06-replacement/products/sovol-sv06-adapter-board-pcb-breakout-module-adapter-board-mainboard-ribbon-cable?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
 
 ### Display Cable
 
