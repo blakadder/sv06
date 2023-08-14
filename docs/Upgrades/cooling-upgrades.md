@@ -42,9 +42,9 @@ Improve cooling of the heat break to prevent heat creep and heat break clogs.
 
 Replace the stock 4010 blower fan with a 4020 blower fan.
 
-[@rogerquin on Printables](https://www.printables.com/model/447126-back-mounted-cooling-fan-duct-for-sovol-sv06-3d-pr)
+[@Spb2005 on Printables](https://www.printables.com/model/451696-sovol-sv06-4020-cooling-fan-heatcreep-fix)
 
-![Heatbreak fan adapter to 4020](/images/upgrades/fan_adapter_4020.webp)
+![Heatbreak fan adapter to 4020](../images/upgrades/fan_adapter_4020-FIX.webp)
 
 ## Adapter for 5015 fan
 
