@@ -4,6 +4,13 @@ title: Upgrades for SV06 Plus
 description: Upgrades and mods for SV06 Plus
 ---
 
+## Sovol Klipper Screen
+
+Sovol original touch screen with Klipper preinstalled, like the one used in Sovol SV07.
+
+!!! tip "Buy from"
+    [Sovol store](https://sovol3d.com/products/sovol-klipper-screen-for-sv06-sv06-plus?variant=46884193927477&sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
+
 ## Volcano Nozzle
 
 Replace Sovol's nozzle with a typical Volcano nozzle. [Instructions here](/Plus/volcano-nozzle/)

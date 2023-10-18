@@ -54,6 +54,14 @@ A comprehensive Klipper configuration for multiple variants of the **Sovol SV06*
 - [SV06 Plus](https://github.com/bassamanator/Sovol-SV06-firmware/tree/sv06-plus)
 - [SV06 with the BTT SKR-Mini-E3-V3.0](https://github.com/bassamanator/Sovol-SV06-firmware/tree/skr-mini-e3-v3)
 - And [other printers](https://github.com/bassamanator/Sovol-SV06-firmware/tree/any-printer) as well
+
+## Sovol Klipper Screen
+
+Sovol original touch screen with Klipper preinstalled, like the one used in Sovol SV07.
+
+!!! tip "Buy from"
+    [Sovol store](https://sovol3d.com/products/sovol-klipper-screen-for-sv06-sv06-plus?sca_ref=3309524.Vd4MGn0pGL&sca_source=sovol){ .md-button }
+
 ### Pr20100+ Klipper profile
 
 Complete Klipper profile with all config files and macros to tune the Sovol SV06 (stock).
