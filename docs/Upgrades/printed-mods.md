@@ -54,7 +54,7 @@ Cosmetic mod to change the look of your SV06.
 
 This spool holder mounts over the existing spool holder. 
 
-[@rogerquin on Printables](https://www.printables.com/model/447467-cable-chain-spine-for-sovol-sv06-3d-printer-extrud)
+[@rogerquin on Printables](https://www.printables.com/model/409684-spool-holder-for-sovol-sv06-3d-printer)
 
 ![Spool holder](/images/upgrades/spool_holder.webp){ width="250"  }
 
