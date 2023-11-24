@@ -50,6 +50,12 @@ Replace the stock 4010 blower fan with a 4020 blower fan.
 
 Replace the stock 4010 blower fan with a 5015 blower fan.
 
+[@Spb2005 on Printables](https://www.printables.com/en/model/557198-sovol-sv06-5015-fan-mount-heatcreep-fix)
+
+[@Mensa on Printables](https://www.printables.com/model/490744-5015-hotend-fan-mount-for-sovol-sv06-remixed-from-)
+
+[@LeanderPerezB_802715 on Printables](https://www.printables.com/en/model/472199-sovol-sv06-plus-extruder-colling-fan-5015)
+
 ## TH3D 5015 Upgrade Kit
 
 Kit includes an ABS printed 5015 fan mount along with the 5015 fan and all the nuts, bolts, and washers to install the kit on your SV06. Available from [TH3D](https://www.th3dstudio.com/product/sovol-sv06-5015-layer-fan-upgrade-kit/?share=blakadder&campaign=sovol).
