@@ -19,14 +19,15 @@ Filaments that are close to SV06's color:
 
 Sovol open sourced the design of the SV06 and all molded parts are available as STL and STEP files on their [GitHub](https://github.com/Sovol3d/SV06-Fully-Open-Source/tree/main/Molded%20Parts%20STL)
 
-## SavageLau's Upgrades
+## SmittyForge Redesigned parts
 
-SavageLau upgraded some of the parts and put them on [Printables](https://www.printables.com/model/400638-sv06-printable-parts):
+SmittyForge redesigned parts that commonly break and need replacements. They're available on [Printables](https://www.printables.com/@SmittyForge_1090939):
 
-- Z Axis guide: The part is increased thickness to improve the rigidity
-- 4010 fan duct: added a feature to redirect more flow to the extend part, which should give better cooling on the side.
-- Screen knob
-- Extruder knob
+- [MonoBlock extruder mount](https://www.printables.com/model/611094-sovol-sv06-monoblock-extruder-mount)
+- [Y axis linear rod seat](https://www.printables.com/model/593768-sovol-sv06-y-axis-linear-rod-seat)
+- [X axis tensioner block](https://www.printables.com/model/568312-sovol-sv06-x-axis-tensioner-block)
+
+## Molded Parts
 
 ## Screen Mount Plate
 

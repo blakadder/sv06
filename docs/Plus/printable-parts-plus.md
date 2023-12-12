@@ -25,3 +25,10 @@ This is a simple support to move the display in any position on your desk.
 Change original power supply fan to a silent 92mm fan. You'll need to print a new PSU cover.
 
 [@DevCyclops on Printables](https://www.printables.com/model/463200-sovol-sv06-plus-power-supply-cover-92mm-fan)
+
+## SmittyForge Redesigned parts
+
+SmittyForge redesigned parts that commonly break and need replacements. They're available on [Printables](https://www.printables.com/@SmittyForge_1090939):
+
+- [MonoBlock extruder mount](https://www.printables.com/model/672372-sovol-sv06-plus-monoblock-extruder-mount)
+- [Star Y axis](https://www.printables.com/model/662343-sovol-sv06-star-y-axis-adjustable-bearing-bushing-) adjustable bearing bushing Mount for Drylin bearings
