@@ -38,6 +38,13 @@ This is an attempt at cleaning up branches from various other firmwares while pr
 
 [Download](https://github.com/blastrock/Marlin-sv06/releases){ .md-button }
 
+### SV06 Reforged
+
+Marlin 2.1.2.9 on Sovol's stock settings for the original SV06, with a spool tracker, night mode, delayed start, a redesigned status screen, input shaping and linear advance.
+
+[Download](https://github.com/Wheatlay/sv06-reforged/releases){ .md-button }
+[Source](https://github.com/Wheatlay/sv06-reforged){ .md-button }
+
 ### TH3D Unified 2 Firmware
 
 <https://support.th3dstudio.com/helpcenter/sovol-sv06-firmware/>
